@@ -1,4 +1,4 @@
-# Fashion Industry Diversity Analysis
+# Representation Diversity Analysis
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.11990046-blue)](https://zenodo.org/records/17638160)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.08746-B31B1B.svg)](https://arxiv.org/pdf/)
