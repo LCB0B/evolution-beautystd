@@ -1,0 +1,431 @@
+year,category,gender,count
+2000,Advertisements,female,166
+2000,Advertisements,male,8
+2001,Advertisements,female,166
+2001,Advertisements,male,4
+2002,Advertisements,female,164
+2002,Advertisements,male,2
+2003,Advertisements,female,154
+2003,Advertisements,male,4
+2004,Advertisements,female,235
+2004,Advertisements,male,8
+2005,Advertisements,female,241
+2005,Advertisements,male,6
+2006,Advertisements,female,304
+2006,Advertisements,male,11
+2006,Advertisements,unknown,1
+2007,Advertisements,female,346
+2007,Advertisements,male,29
+2007,Advertisements,unknown,2
+2008,Advertisements,female,766
+2008,Advertisements,male,112
+2008,Advertisements,unknown,10
+2009,Advertisements,female,1048
+2009,Advertisements,male,198
+2009,Advertisements,unknown,18
+2010,Advertisements,female,1259
+2010,Advertisements,male,333
+2010,Advertisements,unknown,21
+2011,Advertisements,female,1657
+2011,Advertisements,male,351
+2011,Advertisements,unknown,21
+2012,Advertisements,female,2102
+2012,Advertisements,male,369
+2012,Advertisements,unknown,25
+2013,Advertisements,female,2496
+2013,Advertisements,male,410
+2013,Advertisements,unknown,42
+2014,Advertisements,female,2527
+2014,Advertisements,male,474
+2014,Advertisements,unknown,46
+2015,Advertisements,female,2797
+2015,Advertisements,male,479
+2015,Advertisements,unknown,64
+2016,Advertisements,female,3055
+2016,Advertisements,male,555
+2016,Advertisements,unknown,78
+2017,Advertisements,female,2774
+2017,Advertisements,male,556
+2017,Advertisements,unknown,108
+2018,Advertisements,female,3058
+2018,Advertisements,male,729
+2018,Advertisements,unknown,131
+2019,Advertisements,female,3144
+2019,Advertisements,male,814
+2019,Advertisements,unknown,165
+2020,Advertisements,female,2408
+2020,Advertisements,male,675
+2020,Advertisements,unknown,159
+2021,Advertisements,female,2486
+2021,Advertisements,male,678
+2021,Advertisements,unknown,200
+2022,Advertisements,female,2725
+2022,Advertisements,male,948
+2022,Advertisements,unknown,288
+2023,Advertisements,female,2593
+2023,Advertisements,male,1052
+2023,Advertisements,unknown,283
+2024,Advertisements,female,2147
+2024,Advertisements,male,890
+2024,Advertisements,unknown,184
+2025,Advertisements,female,1109
+2025,Advertisements,male,459
+2025,Advertisements,unknown,104
+2000,Editorials,female,154
+2000,Editorials,male,8
+2001,Editorials,female,234
+2001,Editorials,unknown,3
+2002,Editorials,female,358
+2002,Editorials,male,4
+2003,Editorials,female,419
+2003,Editorials,male,10
+2003,Editorials,unknown,2
+2004,Editorials,female,406
+2004,Editorials,male,2
+2004,Editorials,unknown,2
+2005,Editorials,female,445
+2005,Editorials,male,15
+2005,Editorials,unknown,4
+2006,Editorials,female,382
+2006,Editorials,male,18
+2006,Editorials,unknown,3
+2007,Editorials,female,601
+2007,Editorials,male,16
+2007,Editorials,unknown,5
+2008,Editorials,female,1430
+2008,Editorials,male,116
+2008,Editorials,unknown,26
+2009,Editorials,female,2444
+2009,Editorials,male,390
+2009,Editorials,unknown,74
+2010,Editorials,female,3606
+2010,Editorials,male,601
+2010,Editorials,unknown,53
+2011,Editorials,female,5485
+2011,Editorials,male,782
+2011,Editorials,unknown,78
+2012,Editorials,female,6786
+2012,Editorials,male,724
+2012,Editorials,unknown,166
+2013,Editorials,female,8687
+2013,Editorials,male,985
+2013,Editorials,unknown,211
+2014,Editorials,female,10006
+2014,Editorials,male,1142
+2014,Editorials,unknown,294
+2015,Editorials,female,10786
+2015,Editorials,male,1354
+2015,Editorials,unknown,393
+2016,Editorials,female,10281
+2016,Editorials,male,1262
+2016,Editorials,unknown,417
+2017,Editorials,female,8828
+2017,Editorials,male,1440
+2017,Editorials,unknown,407
+2018,Editorials,female,8517
+2018,Editorials,male,1621
+2018,Editorials,unknown,465
+2019,Editorials,female,8423
+2019,Editorials,male,1832
+2019,Editorials,unknown,626
+2020,Editorials,female,6903
+2020,Editorials,male,1667
+2020,Editorials,unknown,599
+2021,Editorials,female,5839
+2021,Editorials,male,1493
+2021,Editorials,unknown,612
+2022,Editorials,female,4922
+2022,Editorials,male,1390
+2022,Editorials,unknown,546
+2023,Editorials,female,4907
+2023,Editorials,male,1584
+2023,Editorials,unknown,525
+2024,Editorials,female,4340
+2024,Editorials,male,1527
+2024,Editorials,unknown,479
+2025,Editorials,female,1993
+2025,Editorials,male,608
+2025,Editorials,unknown,216
+2000,Lookbooks,female,8
+2001,Lookbooks,female,4
+2001,Lookbooks,male,1
+2002,Lookbooks,female,3
+2003,Lookbooks,female,2
+2004,Lookbooks,female,3
+2005,Lookbooks,female,8
+2006,Lookbooks,female,5
+2006,Lookbooks,male,1
+2007,Lookbooks,female,12
+2008,Lookbooks,female,26
+2008,Lookbooks,male,1
+2008,Lookbooks,unknown,1
+2009,Lookbooks,female,47
+2009,Lookbooks,male,4
+2010,Lookbooks,female,102
+2010,Lookbooks,male,12
+2010,Lookbooks,unknown,3
+2011,Lookbooks,female,185
+2011,Lookbooks,male,26
+2011,Lookbooks,unknown,4
+2012,Lookbooks,female,520
+2012,Lookbooks,male,81
+2012,Lookbooks,unknown,14
+2013,Lookbooks,female,641
+2013,Lookbooks,male,84
+2013,Lookbooks,unknown,14
+2014,Lookbooks,female,834
+2014,Lookbooks,male,126
+2014,Lookbooks,unknown,25
+2015,Lookbooks,female,1083
+2015,Lookbooks,male,125
+2015,Lookbooks,unknown,34
+2016,Lookbooks,female,1302
+2016,Lookbooks,male,144
+2016,Lookbooks,unknown,62
+2017,Lookbooks,female,1191
+2017,Lookbooks,male,194
+2017,Lookbooks,unknown,53
+2018,Lookbooks,female,1233
+2018,Lookbooks,male,272
+2018,Lookbooks,unknown,71
+2019,Lookbooks,female,1389
+2019,Lookbooks,male,304
+2019,Lookbooks,unknown,88
+2020,Lookbooks,female,1312
+2020,Lookbooks,male,370
+2020,Lookbooks,unknown,91
+2021,Lookbooks,female,1516
+2021,Lookbooks,male,531
+2021,Lookbooks,unknown,146
+2022,Lookbooks,female,1210
+2022,Lookbooks,male,524
+2022,Lookbooks,unknown,129
+2023,Lookbooks,female,1074
+2023,Lookbooks,male,643
+2023,Lookbooks,unknown,168
+2024,Lookbooks,female,1003
+2024,Lookbooks,male,628
+2024,Lookbooks,unknown,139
+2025,Lookbooks,female,436
+2025,Lookbooks,male,283
+2025,Lookbooks,unknown,49
+2000,Catalogues,female,4
+2001,Catalogues,female,2
+2002,Catalogues,female,5
+2003,Catalogues,female,23
+2003,Catalogues,male,1
+2003,Catalogues,unknown,1
+2004,Catalogues,female,7
+2005,Catalogues,female,6
+2005,Catalogues,male,1
+2006,Catalogues,female,17
+2007,Catalogues,female,38
+2008,Catalogues,female,93
+2008,Catalogues,male,3
+2008,Catalogues,unknown,3
+2009,Catalogues,female,193
+2009,Catalogues,male,29
+2010,Catalogues,female,445
+2010,Catalogues,male,81
+2010,Catalogues,unknown,8
+2011,Catalogues,female,759
+2011,Catalogues,male,120
+2011,Catalogues,unknown,17
+2012,Catalogues,female,1055
+2012,Catalogues,male,162
+2012,Catalogues,unknown,15
+2013,Catalogues,female,1239
+2013,Catalogues,male,156
+2013,Catalogues,unknown,33
+2014,Catalogues,female,1934
+2014,Catalogues,male,206
+2014,Catalogues,unknown,46
+2015,Catalogues,female,2068
+2015,Catalogues,male,301
+2015,Catalogues,unknown,75
+2016,Catalogues,female,2433
+2016,Catalogues,male,321
+2016,Catalogues,unknown,104
+2017,Catalogues,female,2105
+2017,Catalogues,male,387
+2017,Catalogues,unknown,129
+2018,Catalogues,female,2365
+2018,Catalogues,male,454
+2018,Catalogues,unknown,191
+2019,Catalogues,female,2689
+2019,Catalogues,male,660
+2019,Catalogues,unknown,282
+2020,Catalogues,female,1492
+2020,Catalogues,male,319
+2020,Catalogues,unknown,150
+2021,Catalogues,female,1259
+2021,Catalogues,male,264
+2021,Catalogues,unknown,141
+2022,Catalogues,female,1958
+2022,Catalogues,male,538
+2022,Catalogues,unknown,269
+2023,Catalogues,female,1665
+2023,Catalogues,male,501
+2023,Catalogues,unknown,229
+2024,Catalogues,female,1286
+2024,Catalogues,male,405
+2024,Catalogues,unknown,175
+2025,Catalogues,female,593
+2025,Catalogues,male,230
+2025,Catalogues,unknown,85
+2000,Magazine Covers,female,969
+2000,Magazine Covers,male,18
+2000,Magazine Covers,unknown,6
+2001,Magazine Covers,female,1108
+2001,Magazine Covers,male,12
+2001,Magazine Covers,unknown,9
+2002,Magazine Covers,female,1112
+2002,Magazine Covers,male,19
+2002,Magazine Covers,unknown,10
+2003,Magazine Covers,female,1147
+2003,Magazine Covers,male,16
+2003,Magazine Covers,unknown,13
+2004,Magazine Covers,female,1392
+2004,Magazine Covers,male,12
+2004,Magazine Covers,unknown,7
+2005,Magazine Covers,female,1511
+2005,Magazine Covers,male,30
+2005,Magazine Covers,unknown,27
+2006,Magazine Covers,female,1678
+2006,Magazine Covers,male,30
+2006,Magazine Covers,unknown,14
+2007,Magazine Covers,female,1740
+2007,Magazine Covers,male,42
+2007,Magazine Covers,unknown,18
+2008,Magazine Covers,female,2026
+2008,Magazine Covers,male,46
+2008,Magazine Covers,unknown,23
+2009,Magazine Covers,female,2455
+2009,Magazine Covers,male,47
+2009,Magazine Covers,unknown,52
+2010,Magazine Covers,female,3167
+2010,Magazine Covers,male,65
+2010,Magazine Covers,unknown,50
+2011,Magazine Covers,female,4139
+2011,Magazine Covers,male,132
+2011,Magazine Covers,unknown,52
+2012,Magazine Covers,female,4569
+2012,Magazine Covers,male,145
+2012,Magazine Covers,unknown,80
+2013,Magazine Covers,female,4155
+2013,Magazine Covers,male,160
+2013,Magazine Covers,unknown,68
+2014,Magazine Covers,female,2385
+2014,Magazine Covers,male,117
+2014,Magazine Covers,unknown,37
+2015,Magazine Covers,female,1978
+2015,Magazine Covers,male,161
+2015,Magazine Covers,unknown,50
+2016,Magazine Covers,female,1830
+2016,Magazine Covers,male,145
+2016,Magazine Covers,unknown,36
+2017,Magazine Covers,female,1745
+2017,Magazine Covers,male,174
+2017,Magazine Covers,unknown,29
+2018,Magazine Covers,female,1697
+2018,Magazine Covers,male,185
+2018,Magazine Covers,unknown,60
+2019,Magazine Covers,female,2026
+2019,Magazine Covers,male,216
+2019,Magazine Covers,unknown,69
+2020,Magazine Covers,female,1597
+2020,Magazine Covers,male,207
+2020,Magazine Covers,unknown,52
+2021,Magazine Covers,female,1107
+2021,Magazine Covers,male,167
+2021,Magazine Covers,unknown,41
+2022,Magazine Covers,female,1030
+2022,Magazine Covers,male,149
+2022,Magazine Covers,unknown,72
+2023,Magazine Covers,female,1107
+2023,Magazine Covers,male,187
+2023,Magazine Covers,unknown,71
+2024,Magazine Covers,female,983
+2024,Magazine Covers,male,167
+2024,Magazine Covers,unknown,73
+2025,Magazine Covers,female,192
+2025,Magazine Covers,male,20
+2025,Magazine Covers,unknown,6
+2000,Shows,female,5126
+2000,Shows,male,131
+2000,Shows,unknown,40
+2001,Shows,female,5961
+2001,Shows,male,134
+2001,Shows,unknown,117
+2002,Shows,female,6092
+2002,Shows,male,175
+2002,Shows,unknown,79
+2003,Shows,female,7330
+2003,Shows,male,216
+2003,Shows,unknown,41
+2004,Shows,female,8621
+2004,Shows,male,318
+2004,Shows,unknown,136
+2005,Shows,female,10210
+2005,Shows,male,298
+2005,Shows,unknown,219
+2006,Shows,female,11381
+2006,Shows,male,317
+2006,Shows,unknown,208
+2007,Shows,female,13834
+2007,Shows,male,388
+2007,Shows,unknown,298
+2008,Shows,female,13091
+2008,Shows,male,292
+2008,Shows,unknown,293
+2009,Shows,female,13667
+2009,Shows,male,337
+2009,Shows,unknown,339
+2010,Shows,female,15744
+2010,Shows,male,570
+2010,Shows,unknown,315
+2011,Shows,female,20349
+2011,Shows,male,1130
+2011,Shows,unknown,328
+2012,Shows,female,25670
+2012,Shows,male,1902
+2012,Shows,unknown,702
+2013,Shows,female,16875
+2013,Shows,male,2173
+2013,Shows,unknown,554
+2014,Shows,female,18119
+2014,Shows,male,2271
+2014,Shows,unknown,605
+2015,Shows,female,18697
+2015,Shows,male,2460
+2015,Shows,unknown,816
+2016,Shows,female,16336
+2016,Shows,male,2591
+2016,Shows,unknown,931
+2017,Shows,female,13948
+2017,Shows,male,2904
+2017,Shows,unknown,1004
+2018,Shows,female,14359
+2018,Shows,male,3633
+2018,Shows,unknown,1191
+2019,Shows,female,20083
+2019,Shows,male,4730
+2019,Shows,unknown,2140
+2020,Shows,female,13406
+2020,Shows,male,3147
+2020,Shows,unknown,1625
+2021,Shows,female,5620
+2021,Shows,male,1771
+2021,Shows,unknown,792
+2022,Shows,female,11658
+2022,Shows,male,3927
+2022,Shows,unknown,1957
+2023,Shows,female,12339
+2023,Shows,male,4628
+2023,Shows,unknown,2132
+2024,Shows,female,10127
+2024,Shows,male,3567
+2024,Shows,unknown,1580
+2025,Shows,female,4981
+2025,Shows,male,1946
+2025,Shows,unknown,718

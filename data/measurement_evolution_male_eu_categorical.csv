@@ -1,0 +1,2682 @@
+event,variable,year,value,proportion,count,total_count
+fashion_shows,hair,2024,black,0.313187,57,182
+fashion_shows,hair,2024,brown,0.291209,53,182
+fashion_shows,hair,2024,dark brown,0.192308,35,182
+fashion_shows,hair,2024,blonde,0.098901,18,182
+fashion_shows,hair,2024,dark blonde,0.060440,11,182
+fashion_shows,hair,2024,light brown,0.027473,5,182
+fashion_shows,hair,2024,chestnut,0.010989,2,182
+fashion_shows,hair,2024,light blonde,0.005495,1,182
+fashion_shows,hair,2002,black,0.634731,106,167
+fashion_shows,hair,2002,light brown,0.257485,43,167
+fashion_shows,hair,2002,blonde,0.101796,17,167
+fashion_shows,hair,2002,dark brown,0.005988,1,167
+fashion_shows,hair,2003,black,0.494845,96,194
+fashion_shows,hair,2003,light brown,0.262887,51,194
+fashion_shows,hair,2003,blonde,0.237113,46,194
+fashion_shows,hair,2003,dark brown,0.005155,1,194
+fashion_shows,hair,2004,light brown,0.530769,138,260
+fashion_shows,hair,2004,black,0.265385,69,260
+fashion_shows,hair,2004,blonde,0.115385,30,260
+fashion_shows,hair,2004,red / blonde,0.050000,13,260
+fashion_shows,hair,2004,dark blonde,0.026923,7,260
+fashion_shows,hair,2004,brown,0.011538,3,260
+fashion_shows,hair,2005,light brown,0.423529,108,255
+fashion_shows,hair,2005,dark blonde,0.200000,51,255
+fashion_shows,hair,2005,black,0.180392,46,255
+fashion_shows,hair,2005,blonde,0.164706,42,255
+fashion_shows,hair,2005,brown,0.015686,4,255
+fashion_shows,hair,2005,dark brown,0.015686,4,255
+fashion_shows,hair,2006,black,0.402490,97,241
+fashion_shows,hair,2006,light brown,0.302905,73,241
+fashion_shows,hair,2006,dark blonde,0.124481,30,241
+fashion_shows,hair,2006,blonde,0.074689,18,241
+fashion_shows,hair,2006,brown,0.070539,17,241
+fashion_shows,hair,2006,dark brown,0.012448,3,241
+fashion_shows,hair,2006,red / blonde,0.012448,3,241
+fashion_shows,hair,2015,brown,0.315200,197,625
+fashion_shows,hair,2015,dark brown,0.260800,163,625
+fashion_shows,hair,2015,blonde,0.233600,146,625
+fashion_shows,hair,2015,black,0.123200,77,625
+fashion_shows,hair,2015,dark blonde,0.033600,21,625
+fashion_shows,hair,2015,light brown,0.019200,12,625
+fashion_shows,hair,2015,red,0.009600,6,625
+fashion_shows,hair,2015,light blonde,0.004800,3,625
+fashion_shows,hair,2014,brown,0.333333,200,600
+fashion_shows,hair,2014,dark brown,0.216667,130,600
+fashion_shows,hair,2014,blonde,0.175000,105,600
+fashion_shows,hair,2014,black,0.125000,75,600
+fashion_shows,hair,2014,light brown,0.076667,46,600
+fashion_shows,hair,2014,dark blonde,0.058333,35,600
+fashion_shows,hair,2014,red,0.011667,7,600
+fashion_shows,hair,2014,light blonde,0.003333,2,600
+fashion_shows,hair,2012,dark blonde,0.370000,296,800
+fashion_shows,hair,2012,black,0.243750,195,800
+fashion_shows,hair,2012,brown,0.175000,140,800
+fashion_shows,hair,2012,blonde,0.170000,136,800
+fashion_shows,hair,2012,dark brown,0.030000,24,800
+fashion_shows,hair,2012,light blonde,0.010000,8,800
+fashion_shows,hair,2012,light brown,0.001250,1,800
+fashion_shows,hair,1999,red,0.641026,25,39
+fashion_shows,hair,1999,black,0.179487,7,39
+fashion_shows,hair,1999,blonde,0.102564,4,39
+fashion_shows,hair,1999,dark brown,0.051282,2,39
+fashion_shows,hair,1999,brown,0.025641,1,39
+fashion_shows,hair,2001,black,0.725000,87,120
+fashion_shows,hair,2001,dark brown,0.141667,17,120
+fashion_shows,hair,2001,light brown,0.133333,16,120
+fashion_shows,hair,2000,black,0.843478,97,115
+fashion_shows,hair,2000,dark brown,0.121739,14,115
+fashion_shows,hair,2000,red,0.034783,4,115
+fashion_shows,hair,2007,black,0.576923,165,286
+fashion_shows,hair,2007,light brown,0.157343,45,286
+fashion_shows,hair,2007,brown,0.153846,44,286
+fashion_shows,hair,2007,blonde,0.076923,22,286
+fashion_shows,hair,2007,dark brown,0.017483,5,286
+fashion_shows,hair,2007,red,0.017483,5,286
+fashion_shows,hair,2008,black,0.383562,56,146
+fashion_shows,hair,2008,brown,0.342466,50,146
+fashion_shows,hair,2008,blonde,0.178082,26,146
+fashion_shows,hair,2008,light brown,0.047945,7,146
+fashion_shows,hair,2008,dark blonde,0.047945,7,146
+fashion_shows,hair,2009,black,0.344203,95,276
+fashion_shows,hair,2009,brown,0.271739,75,276
+fashion_shows,hair,2009,dark blonde,0.246377,68,276
+fashion_shows,hair,2009,blonde,0.119565,33,276
+fashion_shows,hair,2009,light brown,0.010870,3,276
+fashion_shows,hair,2009,dark brown,0.007246,2,276
+fashion_shows,hair,2010,black,0.414414,184,444
+fashion_shows,hair,2010,brown,0.270270,120,444
+fashion_shows,hair,2010,blonde,0.146396,65,444
+fashion_shows,hair,2010,dark blonde,0.074324,33,444
+fashion_shows,hair,2010,dark brown,0.047297,21,444
+fashion_shows,hair,2010,light brown,0.040541,18,444
+fashion_shows,hair,2010,red,0.006757,3,444
+fashion_shows,hair,2019,black,0.350373,329,939
+fashion_shows,hair,2019,brown,0.328009,308,939
+fashion_shows,hair,2019,dark brown,0.091587,86,939
+fashion_shows,hair,2019,blonde,0.084132,79,939
+fashion_shows,hair,2019,dark blonde,0.056443,53,939
+fashion_shows,hair,2019,red,0.051118,48,939
+fashion_shows,hair,2019,light brown,0.035144,33,939
+fashion_shows,hair,2019,light blonde,0.001065,1,939
+fashion_shows,hair,2019,red / blonde,0.001065,1,939
+fashion_shows,hair,2019,brown / red,0.001065,1,939
+fashion_shows,hair,2023,black,0.391188,293,749
+fashion_shows,hair,2023,brown,0.232310,174,749
+fashion_shows,hair,2023,dark brown,0.112150,84,749
+fashion_shows,hair,2023,blonde,0.101469,76,749
+fashion_shows,hair,2023,dark blonde,0.068091,51,749
+fashion_shows,hair,2023,light brown,0.064085,48,749
+fashion_shows,hair,2023,light blonde,0.014686,11,749
+fashion_shows,hair,2023,red,0.012016,9,749
+fashion_shows,hair,2023,blonde / red,0.002670,2,749
+fashion_shows,hair,2023,chestnut,0.001335,1,749
+fashion_shows,hair,2022,black,0.417227,310,743
+fashion_shows,hair,2022,brown,0.259758,193,743
+fashion_shows,hair,2022,dark brown,0.096904,72,743
+fashion_shows,hair,2022,blonde,0.079408,59,743
+fashion_shows,hair,2022,dark blonde,0.055182,41,743
+fashion_shows,hair,2022,light brown,0.053836,40,743
+fashion_shows,hair,2022,red,0.013459,10,743
+fashion_shows,hair,2022,chestnut,0.013459,10,743
+fashion_shows,hair,2022,blonde / red,0.005384,4,743
+fashion_shows,hair,2022,red / blonde,0.002692,2,743
+fashion_shows,hair,2022,auburn,0.001346,1,743
+fashion_shows,hair,2022,light blonde,0.001346,1,743
+fashion_shows,hair,2011,black,0.289474,198,684
+fashion_shows,hair,2011,dark blonde,0.274854,188,684
+fashion_shows,hair,2011,brown,0.203216,139,684
+fashion_shows,hair,2011,blonde,0.124269,85,684
+fashion_shows,hair,2011,light blonde,0.039474,27,684
+fashion_shows,hair,2011,dark brown,0.032164,22,684
+fashion_shows,hair,2011,light brown,0.032164,22,684
+fashion_shows,hair,2011,red,0.004386,3,684
+fashion_shows,hair,2020,black,0.387000,387,1000
+fashion_shows,hair,2020,brown,0.321000,321,1000
+fashion_shows,hair,2020,dark brown,0.083000,83,1000
+fashion_shows,hair,2020,blonde,0.074000,74,1000
+fashion_shows,hair,2020,dark blonde,0.065000,65,1000
+fashion_shows,hair,2020,red,0.032000,32,1000
+fashion_shows,hair,2020,light brown,0.030000,30,1000
+fashion_shows,hair,2020,red / blonde,0.006000,6,1000
+fashion_shows,hair,2020,brown / red,0.002000,2,1000
+fashion_shows,hair,2016,brown,0.330479,193,584
+fashion_shows,hair,2016,blonde,0.261986,153,584
+fashion_shows,hair,2016,black,0.214041,125,584
+fashion_shows,hair,2016,dark brown,0.171233,100,584
+fashion_shows,hair,2016,dark blonde,0.008562,5,584
+fashion_shows,hair,2016,red,0.008562,5,584
+fashion_shows,hair,2016,light brown,0.005137,3,584
+fashion_shows,hair,2013,brown,0.408475,241,590
+fashion_shows,hair,2013,dark brown,0.186441,110,590
+fashion_shows,hair,2013,black,0.155932,92,590
+fashion_shows,hair,2013,dark blonde,0.128814,76,590
+fashion_shows,hair,2013,blonde,0.115254,68,590
+fashion_shows,hair,2013,light brown,0.003390,2,590
+fashion_shows,hair,2013,red,0.001695,1,590
+fashion_shows,hair,2021,brown,0.349754,71,203
+fashion_shows,hair,2021,black,0.275862,56,203
+fashion_shows,hair,2021,dark brown,0.133005,27,203
+fashion_shows,hair,2021,blonde,0.093596,19,203
+fashion_shows,hair,2021,dark blonde,0.064039,13,203
+fashion_shows,hair,2021,light brown,0.044335,9,203
+fashion_shows,hair,2021,chestnut,0.024631,5,203
+fashion_shows,hair,2021,red,0.009852,2,203
+fashion_shows,hair,2021,red / blonde,0.004926,1,203
+fashion_shows,hair,2018,brown,0.498258,143,287
+fashion_shows,hair,2018,dark brown,0.153310,44,287
+fashion_shows,hair,2018,black,0.149826,43,287
+fashion_shows,hair,2018,dark blonde,0.076655,22,287
+fashion_shows,hair,2018,blonde,0.076655,22,287
+fashion_shows,hair,2018,light brown,0.041812,12,287
+fashion_shows,hair,2018,red / blonde,0.003484,1,287
+fashion_shows,hair,2017,brown,0.464692,204,439
+fashion_shows,hair,2017,blonde,0.193622,85,439
+fashion_shows,hair,2017,dark brown,0.175399,77,439
+fashion_shows,hair,2017,black,0.127563,56,439
+fashion_shows,hair,2017,dark blonde,0.031891,14,439
+fashion_shows,hair,2017,light brown,0.006834,3,439
+fashion_shows,hair,1994,dark brown,0.875000,7,8
+fashion_shows,hair,1994,black,0.125000,1,8
+fashion_shows,hair,1995,dark brown,0.800000,12,15
+fashion_shows,hair,1995,blonde,0.200000,3,15
+fashion_shows,hair,1997,dark brown,0.610526,58,95
+fashion_shows,hair,1997,black,0.200000,19,95
+fashion_shows,hair,1997,blonde,0.189474,18,95
+fashion_shows,hair,1998,black,0.339286,38,112
+fashion_shows,hair,1998,dark brown,0.330357,37,112
+fashion_shows,hair,1998,red,0.196429,22,112
+fashion_shows,hair,1998,blonde,0.133929,15,112
+fashion_shows,hair,1996,dark brown,0.823529,14,17
+fashion_shows,hair,1996,blonde,0.176471,3,17
+fashion_shows,hair,1991,black,0.857143,12,14
+fashion_shows,hair,1991,dark brown,0.142857,2,14
+fashion_shows,hair,1992,black,0.888889,8,9
+fashion_shows,hair,1992,dark brown,0.111111,1,9
+fashion_shows,hair,1993,dark brown,0.814815,22,27
+fashion_shows,hair,1993,black,0.148148,4,27
+fashion_shows,hair,1993,blonde,0.037037,1,27
+fashion_shows,hair,1988,dark brown,1.000000,1,1
+fashion_shows,hair,1990,black,1.000000,2,2
+fashion_shows,hair,1985,blonde,1.000000,1,1
+fashion_shows,hair,1983,blonde,1.000000,1,1
+fashion_shows,eyes,2024,brown,0.538462,98,182
+fashion_shows,eyes,2024,blue,0.153846,28,182
+fashion_shows,eyes,2024,black,0.104396,19,182
+fashion_shows,eyes,2024,green,0.087912,16,182
+fashion_shows,eyes,2024,blue / grey,0.038462,7,182
+fashion_shows,eyes,2024,dark brown,0.027473,5,182
+fashion_shows,eyes,2024,blue / green,0.016484,3,182
+fashion_shows,eyes,2024,hazel,0.016484,3,182
+fashion_shows,eyes,2024,green / brown,0.016484,3,182
+fashion_shows,eyes,2002,brown,0.640719,107,167
+fashion_shows,eyes,2002,blue,0.263473,44,167
+fashion_shows,eyes,2002,green,0.095808,16,167
+fashion_shows,eyes,2003,brown,0.494845,96,194
+fashion_shows,eyes,2003,blue,0.309278,60,194
+fashion_shows,eyes,2003,green,0.195876,38,194
+fashion_shows,eyes,2004,blue,0.488462,127,260
+fashion_shows,eyes,2004,brown,0.303846,79,260
+fashion_shows,eyes,2004,green,0.157692,41,260
+fashion_shows,eyes,2004,blue / green,0.050000,13,260
+fashion_shows,eyes,2005,blue,0.533333,136,255
+fashion_shows,eyes,2005,brown,0.388235,99,255
+fashion_shows,eyes,2005,green,0.074510,19,255
+fashion_shows,eyes,2005,blue / green,0.003922,1,255
+fashion_shows,eyes,2006,brown,0.597510,144,241
+fashion_shows,eyes,2006,blue,0.307054,74,241
+fashion_shows,eyes,2006,blue / green,0.066390,16,241
+fashion_shows,eyes,2006,green,0.029046,7,241
+fashion_shows,eyes,2015,brown,0.395200,247,625
+fashion_shows,eyes,2015,grey,0.192000,120,625
+fashion_shows,eyes,2015,green,0.187200,117,625
+fashion_shows,eyes,2015,blue,0.150400,94,625
+fashion_shows,eyes,2015,black,0.036800,23,625
+fashion_shows,eyes,2015,blue / green,0.030400,19,625
+fashion_shows,eyes,2015,dark brown,0.004800,3,625
+fashion_shows,eyes,2015,hazel,0.003200,2,625
+fashion_shows,eyes,2014,brown,0.338333,203,600
+fashion_shows,eyes,2014,blue,0.238333,143,600
+fashion_shows,eyes,2014,grey,0.131667,79,600
+fashion_shows,eyes,2014,green,0.115000,69,600
+fashion_shows,eyes,2014,blue / green,0.101667,61,600
+fashion_shows,eyes,2014,black,0.061667,37,600
+fashion_shows,eyes,2014,brown / green,0.008333,5,600
+fashion_shows,eyes,2014,dark brown,0.003333,2,600
+fashion_shows,eyes,2014,hazel,0.001667,1,600
+fashion_shows,eyes,2012,green,0.340000,272,800
+fashion_shows,eyes,2012,brown,0.248750,199,800
+fashion_shows,eyes,2012,blue,0.192500,154,800
+fashion_shows,eyes,2012,blue / green,0.147500,118,800
+fashion_shows,eyes,2012,dark brown,0.045000,36,800
+fashion_shows,eyes,2012,hazel,0.013750,11,800
+fashion_shows,eyes,2012,black,0.011250,9,800
+fashion_shows,eyes,2012,brown / hazel,0.001250,1,800
+fashion_shows,eyes,1999,blue,0.794872,31,39
+fashion_shows,eyes,1999,brown,0.179487,7,39
+fashion_shows,eyes,1999,green,0.025641,1,39
+fashion_shows,eyes,2001,brown,0.725000,87,120
+fashion_shows,eyes,2001,blue,0.275000,33,120
+fashion_shows,eyes,2000,brown,0.843478,97,115
+fashion_shows,eyes,2000,blue,0.156522,18,115
+fashion_shows,eyes,2007,brown,0.716783,205,286
+fashion_shows,eyes,2007,blue,0.174825,50,286
+fashion_shows,eyes,2007,blue / green,0.066434,19,286
+fashion_shows,eyes,2007,green,0.041958,12,286
+fashion_shows,eyes,2008,brown,0.732877,107,146
+fashion_shows,eyes,2008,blue,0.191781,28,146
+fashion_shows,eyes,2008,blue / green,0.034247,5,146
+fashion_shows,eyes,2008,green,0.027397,4,146
+fashion_shows,eyes,2008,dark brown,0.013699,2,146
+fashion_shows,eyes,2009,brown,0.471014,130,276
+fashion_shows,eyes,2009,blue,0.394928,109,276
+fashion_shows,eyes,2009,green,0.134058,37,276
+fashion_shows,eyes,2010,brown,0.664414,295,444
+fashion_shows,eyes,2010,blue,0.202703,90,444
+fashion_shows,eyes,2010,green,0.092342,41,444
+fashion_shows,eyes,2010,grey,0.013514,6,444
+fashion_shows,eyes,2010,dark brown,0.011261,5,444
+fashion_shows,eyes,2010,blue / green,0.009009,4,444
+fashion_shows,eyes,2010,hazel,0.006757,3,444
+fashion_shows,eyes,2019,brown,0.550586,517,939
+fashion_shows,eyes,2019,blue,0.185304,174,939
+fashion_shows,eyes,2019,black,0.064963,61,939
+fashion_shows,eyes,2019,blue / green,0.063898,60,939
+fashion_shows,eyes,2019,green,0.047923,45,939
+fashion_shows,eyes,2019,hazel,0.037274,35,939
+fashion_shows,eyes,2019,blue / grey,0.022364,21,939
+fashion_shows,eyes,2019,grey,0.020234,19,939
+fashion_shows,eyes,2019,dark brown,0.005325,5,939
+fashion_shows,eyes,2019,brown / hazel,0.002130,2,939
+fashion_shows,eyes,2023,brown,0.523364,392,749
+fashion_shows,eyes,2023,blue,0.137517,103,749
+fashion_shows,eyes,2023,black,0.090788,68,749
+fashion_shows,eyes,2023,green,0.061415,46,749
+fashion_shows,eyes,2023,blue / grey,0.053405,40,749
+fashion_shows,eyes,2023,hazel,0.050734,38,749
+fashion_shows,eyes,2023,dark brown,0.028037,21,749
+fashion_shows,eyes,2023,blue / green,0.026702,20,749
+fashion_shows,eyes,2023,green / brown,0.018692,14,749
+fashion_shows,eyes,2023,grey,0.005340,4,749
+fashion_shows,eyes,2023,green / grey,0.004005,3,749
+fashion_shows,eyes,2022,brown,0.527591,392,743
+fashion_shows,eyes,2022,blue,0.158816,118,743
+fashion_shows,eyes,2022,black,0.079408,59,743
+fashion_shows,eyes,2022,green,0.063257,47,743
+fashion_shows,eyes,2022,hazel,0.036339,27,743
+fashion_shows,eyes,2022,blue / grey,0.034993,26,743
+fashion_shows,eyes,2022,blue / green,0.034993,26,743
+fashion_shows,eyes,2022,dark brown,0.033647,25,743
+fashion_shows,eyes,2022,green / brown,0.014805,11,743
+fashion_shows,eyes,2022,grey,0.014805,11,743
+fashion_shows,eyes,2022,green / grey,0.001346,1,743
+fashion_shows,eyes,2011,blue,0.315789,216,684
+fashion_shows,eyes,2011,brown,0.298246,204,684
+fashion_shows,eyes,2011,green,0.223684,153,684
+fashion_shows,eyes,2011,blue / green,0.115497,79,684
+fashion_shows,eyes,2011,dark brown,0.046784,32,684
+fashion_shows,eyes,2020,brown,0.543000,543,1000
+fashion_shows,eyes,2020,blue,0.145000,145,1000
+fashion_shows,eyes,2020,black,0.090000,90,1000
+fashion_shows,eyes,2020,blue / grey,0.049000,49,1000
+fashion_shows,eyes,2020,blue / green,0.043000,43,1000
+fashion_shows,eyes,2020,hazel,0.043000,43,1000
+fashion_shows,eyes,2020,green,0.033000,33,1000
+fashion_shows,eyes,2020,dark brown,0.029000,29,1000
+fashion_shows,eyes,2020,light brown,0.014000,14,1000
+fashion_shows,eyes,2020,grey,0.007000,7,1000
+fashion_shows,eyes,2020,green / brown,0.003000,3,1000
+fashion_shows,eyes,2020,green / grey,0.001000,1,1000
+fashion_shows,eyes,2016,brown,0.513699,300,584
+fashion_shows,eyes,2016,grey,0.205479,120,584
+fashion_shows,eyes,2016,blue,0.101027,59,584
+fashion_shows,eyes,2016,green,0.087329,51,584
+fashion_shows,eyes,2016,hazel,0.077055,45,584
+fashion_shows,eyes,2016,black,0.010274,6,584
+fashion_shows,eyes,2016,blue / green,0.003425,2,584
+fashion_shows,eyes,2016,brown / hazel,0.001712,1,584
+fashion_shows,eyes,2013,brown,0.393220,232,590
+fashion_shows,eyes,2013,green,0.245763,145,590
+fashion_shows,eyes,2013,blue / green,0.152542,90,590
+fashion_shows,eyes,2013,blue,0.130508,77,590
+fashion_shows,eyes,2013,brown / green,0.042373,25,590
+fashion_shows,eyes,2013,dark brown,0.028814,17,590
+fashion_shows,eyes,2013,hazel,0.006780,4,590
+fashion_shows,eyes,2021,brown,0.536946,109,203
+fashion_shows,eyes,2021,blue,0.162562,33,203
+fashion_shows,eyes,2021,black,0.073892,15,203
+fashion_shows,eyes,2021,green,0.054187,11,203
+fashion_shows,eyes,2021,blue / grey,0.054187,11,203
+fashion_shows,eyes,2021,hazel,0.039409,8,203
+fashion_shows,eyes,2021,blue / green,0.029557,6,203
+fashion_shows,eyes,2021,dark brown,0.029557,6,203
+fashion_shows,eyes,2021,green / brown,0.009852,2,203
+fashion_shows,eyes,2021,light brown,0.004926,1,203
+fashion_shows,eyes,2021,grey,0.004926,1,203
+fashion_shows,eyes,2018,brown,0.571429,164,287
+fashion_shows,eyes,2018,green,0.156794,45,287
+fashion_shows,eyes,2018,blue,0.146341,42,287
+fashion_shows,eyes,2018,black,0.055749,16,287
+fashion_shows,eyes,2018,grey,0.034843,10,287
+fashion_shows,eyes,2018,hazel,0.013937,4,287
+fashion_shows,eyes,2018,blue / grey,0.010453,3,287
+fashion_shows,eyes,2018,blue / green,0.006969,2,287
+fashion_shows,eyes,2018,brown / hazel,0.003484,1,287
+fashion_shows,eyes,2017,brown,0.503417,221,439
+fashion_shows,eyes,2017,blue,0.127563,56,439
+fashion_shows,eyes,2017,hazel,0.125285,55,439
+fashion_shows,eyes,2017,grey,0.118451,52,439
+fashion_shows,eyes,2017,green,0.097950,43,439
+fashion_shows,eyes,2017,black,0.013667,6,439
+fashion_shows,eyes,2017,brown / hazel,0.009112,4,439
+fashion_shows,eyes,2017,brown / green,0.004556,2,439
+fashion_shows,eyes,1994,green,0.500000,4,8
+fashion_shows,eyes,1994,blue,0.375000,3,8
+fashion_shows,eyes,1994,dark brown,0.125000,1,8
+fashion_shows,eyes,1995,blue,0.666667,10,15
+fashion_shows,eyes,1995,green,0.266667,4,15
+fashion_shows,eyes,1995,hazel,0.066667,1,15
+fashion_shows,eyes,1997,blue,0.726316,69,95
+fashion_shows,eyes,1997,brown,0.200000,19,95
+fashion_shows,eyes,1997,hazel,0.052632,5,95
+fashion_shows,eyes,1997,green,0.021053,2,95
+fashion_shows,eyes,1998,blue,0.625000,70,112
+fashion_shows,eyes,1998,brown,0.339286,38,112
+fashion_shows,eyes,1998,hazel,0.026786,3,112
+fashion_shows,eyes,1998,green,0.008929,1,112
+fashion_shows,eyes,1996,blue,0.764706,13,17
+fashion_shows,eyes,1996,green,0.176471,3,17
+fashion_shows,eyes,1996,hazel,0.058824,1,17
+fashion_shows,eyes,1991,dark brown,0.857143,12,14
+fashion_shows,eyes,1991,hazel,0.142857,2,14
+fashion_shows,eyes,1992,dark brown,0.888889,8,9
+fashion_shows,eyes,1992,blue,0.111111,1,9
+fashion_shows,eyes,1993,blue,0.851852,23,27
+fashion_shows,eyes,1993,dark brown,0.111111,3,27
+fashion_shows,eyes,1993,brown,0.037037,1,27
+fashion_shows,eyes,1988,hazel,1.000000,1,1
+fashion_shows,eyes,1990,dark brown,1.000000,2,2
+fashion_shows,eyes,1985,blue,1.000000,1,1
+fashion_shows,eyes,1983,blue,1.000000,1,1
+fashion_shows,world_region,2024,western europe,0.269231,49,182
+fashion_shows,world_region,2024,sub-saharan africa,0.142857,26,182
+fashion_shows,world_region,2024,east asia,0.137363,25,182
+fashion_shows,world_region,2024,north america,0.131868,24,182
+fashion_shows,world_region,2024,eastern europe,0.093407,17,182
+fashion_shows,world_region,2024,southern europe,0.087912,16,182
+fashion_shows,world_region,2024,south america,0.071429,13,182
+fashion_shows,world_region,2024,caribbean,0.032967,6,182
+fashion_shows,world_region,2024,northern europe,0.016484,3,182
+fashion_shows,world_region,2024,north africa,0.010989,2,182
+fashion_shows,world_region,2024,southeast asia,0.005495,1,182
+fashion_shows,world_region,2002,western europe,0.760479,127,167
+fashion_shows,world_region,2002,eastern europe,0.137725,23,167
+fashion_shows,world_region,2002,south america,0.095808,16,167
+fashion_shows,world_region,2002,north america,0.005988,1,167
+fashion_shows,world_region,2003,western europe,0.608247,118,194
+fashion_shows,world_region,2003,eastern europe,0.190722,37,194
+fashion_shows,world_region,2003,south america,0.128866,25,194
+fashion_shows,world_region,2003,middle east,0.067010,13,194
+fashion_shows,world_region,2003,north america,0.005155,1,194
+fashion_shows,world_region,2004,western europe,0.753846,196,260
+fashion_shows,world_region,2004,middle east,0.130769,34,260
+fashion_shows,world_region,2004,north america,0.088462,23,260
+fashion_shows,world_region,2004,south america,0.026923,7,260
+fashion_shows,world_region,2005,western europe,0.698039,178,255
+fashion_shows,world_region,2005,north america,0.227451,58,255
+fashion_shows,world_region,2005,middle east,0.054902,14,255
+fashion_shows,world_region,2005,south america,0.015686,4,255
+fashion_shows,world_region,2005,northern europe,0.003922,1,255
+fashion_shows,world_region,2006,western europe,0.427386,103,241
+fashion_shows,world_region,2006,east asia,0.319502,77,241
+fashion_shows,world_region,2006,north america,0.215768,52,241
+fashion_shows,world_region,2006,south america,0.029046,7,241
+fashion_shows,world_region,2006,eastern europe,0.008299,2,241
+fashion_shows,world_region,2015,eastern europe,0.318400,199,625
+fashion_shows,world_region,2015,north america,0.264000,165,625
+fashion_shows,world_region,2015,western europe,0.142400,89,625
+fashion_shows,world_region,2015,south america,0.132800,83,625
+fashion_shows,world_region,2015,east asia,0.072000,45,625
+fashion_shows,world_region,2015,sub-saharan africa,0.022400,14,625
+fashion_shows,world_region,2015,oceania,0.020800,13,625
+fashion_shows,world_region,2015,southern europe,0.017600,11,625
+fashion_shows,world_region,2015,middle east,0.006400,4,625
+fashion_shows,world_region,2015,caribbean,0.003200,2,625
+fashion_shows,world_region,2014,eastern europe,0.396667,238,600
+fashion_shows,world_region,2014,north america,0.311667,187,600
+fashion_shows,world_region,2014,western europe,0.175000,105,600
+fashion_shows,world_region,2014,east asia,0.038333,23,600
+fashion_shows,world_region,2014,south america,0.028333,17,600
+fashion_shows,world_region,2014,oceania,0.020000,12,600
+fashion_shows,world_region,2014,southern europe,0.018333,11,600
+fashion_shows,world_region,2014,middle east,0.008333,5,600
+fashion_shows,world_region,2014,caribbean,0.003333,2,600
+fashion_shows,world_region,2012,oceania,0.312500,250,800
+fashion_shows,world_region,2012,western europe,0.216250,173,800
+fashion_shows,world_region,2012,north america,0.201250,161,800
+fashion_shows,world_region,2012,east asia,0.131250,105,800
+fashion_shows,world_region,2012,eastern europe,0.122500,98,800
+fashion_shows,world_region,2012,southeast asia,0.011250,9,800
+fashion_shows,world_region,2012,southern europe,0.005000,4,800
+fashion_shows,world_region,1999,north america,0.769231,30,39
+fashion_shows,world_region,1999,western europe,0.205128,8,39
+fashion_shows,world_region,1999,middle east,0.025641,1,39
+fashion_shows,world_region,2001,western europe,0.850000,102,120
+fashion_shows,world_region,2001,north america,0.141667,17,120
+fashion_shows,world_region,2001,eastern europe,0.008333,1,120
+fashion_shows,world_region,2000,western europe,0.843478,97,115
+fashion_shows,world_region,2000,north america,0.156522,18,115
+fashion_shows,world_region,2007,east asia,0.517483,148,286
+fashion_shows,world_region,2007,western europe,0.272727,78,286
+fashion_shows,world_region,2007,north america,0.118881,34,286
+fashion_shows,world_region,2007,eastern europe,0.087413,25,286
+fashion_shows,world_region,2007,south america,0.003497,1,286
+fashion_shows,world_region,2008,east asia,0.342466,50,146
+fashion_shows,world_region,2008,eastern europe,0.287671,42,146
+fashion_shows,world_region,2008,central asia,0.157534,23,146
+fashion_shows,world_region,2008,north america,0.102740,15,146
+fashion_shows,world_region,2008,western europe,0.095890,14,146
+fashion_shows,world_region,2008,southern europe,0.013699,2,146
+fashion_shows,world_region,2009,east asia,0.307971,85,276
+fashion_shows,world_region,2009,eastern europe,0.293478,81,276
+fashion_shows,world_region,2009,western europe,0.271739,75,276
+fashion_shows,world_region,2009,central asia,0.086957,24,276
+fashion_shows,world_region,2009,north america,0.039855,11,276
+fashion_shows,world_region,2010,east asia,0.306306,136,444
+fashion_shows,world_region,2010,eastern europe,0.292793,130,444
+fashion_shows,world_region,2010,north america,0.164414,73,444
+fashion_shows,world_region,2010,western europe,0.117117,52,444
+fashion_shows,world_region,2010,oceania,0.099099,44,444
+fashion_shows,world_region,2010,central asia,0.020270,9,444
+fashion_shows,world_region,2019,western europe,0.296060,278,939
+fashion_shows,world_region,2019,east asia,0.226837,213,939
+fashion_shows,world_region,2019,north america,0.222577,209,939
+fashion_shows,world_region,2019,sub-saharan africa,0.080937,76,939
+fashion_shows,world_region,2019,eastern europe,0.060703,57,939
+fashion_shows,world_region,2019,south america,0.041534,39,939
+fashion_shows,world_region,2019,southern europe,0.026624,25,939
+fashion_shows,world_region,2019,oceania,0.018104,17,939
+fashion_shows,world_region,2019,southeast asia,0.012780,12,939
+fashion_shows,world_region,2019,caribbean,0.005325,5,939
+fashion_shows,world_region,2019,northern europe,0.005325,5,939
+fashion_shows,world_region,2019,south asia,0.002130,2,939
+fashion_shows,world_region,2019,middle east,0.001065,1,939
+fashion_shows,world_region,2023,western europe,0.251001,188,749
+fashion_shows,world_region,2023,north america,0.232310,174,749
+fashion_shows,world_region,2023,sub-saharan africa,0.160214,120,749
+fashion_shows,world_region,2023,east asia,0.142857,107,749
+fashion_shows,world_region,2023,southern europe,0.065421,49,749
+fashion_shows,world_region,2023,eastern europe,0.054740,41,749
+fashion_shows,world_region,2023,south america,0.032043,24,749
+fashion_shows,world_region,2023,northern europe,0.024032,18,749
+fashion_shows,world_region,2023,caribbean,0.016021,12,749
+fashion_shows,world_region,2023,north africa,0.016021,12,749
+fashion_shows,world_region,2023,southeast asia,0.004005,3,749
+fashion_shows,world_region,2023,oceania,0.001335,1,749
+fashion_shows,world_region,2022,western europe,0.285330,212,743
+fashion_shows,world_region,2022,north america,0.191117,142,743
+fashion_shows,world_region,2022,sub-saharan africa,0.185734,138,743
+fashion_shows,world_region,2022,east asia,0.129206,96,743
+fashion_shows,world_region,2022,south america,0.059219,44,743
+fashion_shows,world_region,2022,eastern europe,0.057873,43,743
+fashion_shows,world_region,2022,southern europe,0.043069,32,743
+fashion_shows,world_region,2022,caribbean,0.016151,12,743
+fashion_shows,world_region,2022,north africa,0.014805,11,743
+fashion_shows,world_region,2022,northern europe,0.009421,7,743
+fashion_shows,world_region,2022,south asia,0.004038,3,743
+fashion_shows,world_region,2022,middle east,0.002692,2,743
+fashion_shows,world_region,2022,southeast asia,0.001346,1,743
+fashion_shows,world_region,2011,oceania,0.365497,250,684
+fashion_shows,world_region,2011,western europe,0.247076,169,684
+fashion_shows,world_region,2011,north america,0.166667,114,684
+fashion_shows,world_region,2011,eastern europe,0.125731,86,684
+fashion_shows,world_region,2011,east asia,0.093567,64,684
+fashion_shows,world_region,2011,southern europe,0.001462,1,684
+fashion_shows,world_region,2020,western europe,0.268000,268,1000
+fashion_shows,world_region,2020,east asia,0.211000,211,1000
+fashion_shows,world_region,2020,north america,0.147000,147,1000
+fashion_shows,world_region,2020,sub-saharan africa,0.106000,106,1000
+fashion_shows,world_region,2020,south america,0.079000,79,1000
+fashion_shows,world_region,2020,eastern europe,0.061000,61,1000
+fashion_shows,world_region,2020,southern europe,0.044000,44,1000
+fashion_shows,world_region,2020,caribbean,0.031000,31,1000
+fashion_shows,world_region,2020,southeast asia,0.017000,17,1000
+fashion_shows,world_region,2020,oceania,0.013000,13,1000
+fashion_shows,world_region,2020,south asia,0.009000,9,1000
+fashion_shows,world_region,2020,northern europe,0.009000,9,1000
+fashion_shows,world_region,2020,north africa,0.003000,3,1000
+fashion_shows,world_region,2020,middle east,0.002000,2,1000
+fashion_shows,world_region,2016,north america,0.351027,205,584
+fashion_shows,world_region,2016,eastern europe,0.220890,129,584
+fashion_shows,world_region,2016,east asia,0.147260,86,584
+fashion_shows,world_region,2016,south america,0.118151,69,584
+fashion_shows,world_region,2016,western europe,0.068493,40,584
+fashion_shows,world_region,2016,sub-saharan africa,0.059932,35,584
+fashion_shows,world_region,2016,southern europe,0.017123,10,584
+fashion_shows,world_region,2016,oceania,0.011986,7,584
+fashion_shows,world_region,2016,northern europe,0.003425,2,584
+fashion_shows,world_region,2016,caribbean,0.001712,1,584
+fashion_shows,world_region,2013,north america,0.308475,182,590
+fashion_shows,world_region,2013,western europe,0.227119,134,590
+fashion_shows,world_region,2013,eastern europe,0.208475,123,590
+fashion_shows,world_region,2013,east asia,0.083051,49,590
+fashion_shows,world_region,2013,oceania,0.069492,41,590
+fashion_shows,world_region,2013,middle east,0.042373,25,590
+fashion_shows,world_region,2013,southern europe,0.032203,19,590
+fashion_shows,world_region,2013,south america,0.028814,17,590
+fashion_shows,world_region,2021,western europe,0.374384,76,203
+fashion_shows,world_region,2021,sub-saharan africa,0.128079,26,203
+fashion_shows,world_region,2021,southern europe,0.128079,26,203
+fashion_shows,world_region,2021,south america,0.103448,21,203
+fashion_shows,world_region,2021,north america,0.088670,18,203
+fashion_shows,world_region,2021,east asia,0.064039,13,203
+fashion_shows,world_region,2021,eastern europe,0.064039,13,203
+fashion_shows,world_region,2021,caribbean,0.019704,4,203
+fashion_shows,world_region,2021,oceania,0.009852,2,203
+fashion_shows,world_region,2021,north africa,0.009852,2,203
+fashion_shows,world_region,2021,northern europe,0.004926,1,203
+fashion_shows,world_region,2021,south asia,0.004926,1,203
+fashion_shows,world_region,2018,north america,0.456446,131,287
+fashion_shows,world_region,2018,western europe,0.188153,54,287
+fashion_shows,world_region,2018,south america,0.114983,33,287
+fashion_shows,world_region,2018,eastern europe,0.097561,28,287
+fashion_shows,world_region,2018,sub-saharan africa,0.059233,17,287
+fashion_shows,world_region,2018,southern europe,0.045296,13,287
+fashion_shows,world_region,2018,oceania,0.017422,5,287
+fashion_shows,world_region,2018,east asia,0.013937,4,287
+fashion_shows,world_region,2018,middle east,0.003484,1,287
+fashion_shows,world_region,2018,northern europe,0.003484,1,287
+fashion_shows,world_region,2017,north america,0.542141,238,439
+fashion_shows,world_region,2017,eastern europe,0.134396,59,439
+fashion_shows,world_region,2017,south america,0.134396,59,439
+fashion_shows,world_region,2017,western europe,0.054670,24,439
+fashion_shows,world_region,2017,east asia,0.052392,23,439
+fashion_shows,world_region,2017,sub-saharan africa,0.025057,11,439
+fashion_shows,world_region,2017,oceania,0.025057,11,439
+fashion_shows,world_region,2017,southern europe,0.018223,8,439
+fashion_shows,world_region,2017,middle east,0.011390,5,439
+fashion_shows,world_region,2017,caribbean,0.002278,1,439
+fashion_shows,world_region,1994,middle east,0.500000,4,8
+fashion_shows,world_region,1994,north america,0.375000,3,8
+fashion_shows,world_region,1994,south asia,0.125000,1,8
+fashion_shows,world_region,1995,north america,0.666667,10,15
+fashion_shows,world_region,1995,middle east,0.266667,4,15
+fashion_shows,world_region,1995,southern europe,0.066667,1,15
+fashion_shows,world_region,1997,north america,0.589474,56,95
+fashion_shows,world_region,1997,western europe,0.200000,19,95
+fashion_shows,world_region,1997,middle east,0.157895,15,95
+fashion_shows,world_region,1997,southern europe,0.052632,5,95
+fashion_shows,world_region,1998,north america,0.580357,65,112
+fashion_shows,world_region,1998,western europe,0.339286,38,112
+fashion_shows,world_region,1998,middle east,0.053571,6,112
+fashion_shows,world_region,1998,southern europe,0.026786,3,112
+fashion_shows,world_region,1996,middle east,0.705882,12,17
+fashion_shows,world_region,1996,north america,0.235294,4,17
+fashion_shows,world_region,1996,southern europe,0.058824,1,17
+fashion_shows,world_region,1991,south asia,0.857143,12,14
+fashion_shows,world_region,1991,southern europe,0.142857,2,14
+fashion_shows,world_region,1992,south asia,0.888889,8,9
+fashion_shows,world_region,1992,north america,0.111111,1,9
+fashion_shows,world_region,1993,north america,0.888889,24,27
+fashion_shows,world_region,1993,south asia,0.111111,3,27
+fashion_shows,world_region,1988,southern europe,1.000000,1,1
+fashion_shows,world_region,1990,south asia,1.000000,2,2
+fashion_shows,world_region,1985,north america,1.000000,1,1
+fashion_shows,world_region,1983,north america,1.000000,1,1
+fashion_shows,global_group,2024,global north,0.681319,124,182
+fashion_shows,global_group,2024,global south,0.318681,58,182
+fashion_shows,global_group,2002,global north,0.904192,151,167
+fashion_shows,global_group,2002,global south,0.095808,16,167
+fashion_shows,global_group,2003,global north,0.804124,156,194
+fashion_shows,global_group,2003,global south,0.195876,38,194
+fashion_shows,global_group,2004,global north,0.842308,219,260
+fashion_shows,global_group,2004,global south,0.157692,41,260
+fashion_shows,global_group,2005,global north,0.929412,237,255
+fashion_shows,global_group,2005,global south,0.070588,18,255
+fashion_shows,global_group,2006,global north,0.680498,164,241
+fashion_shows,global_group,2006,global south,0.319502,77,241
+fashion_shows,global_group,2015,global north,0.716800,448,625
+fashion_shows,global_group,2015,global south,0.283200,177,625
+fashion_shows,global_group,2014,global north,0.893333,536,600
+fashion_shows,global_group,2014,global south,0.106667,64,600
+fashion_shows,global_group,2012,global north,0.896250,717,800
+fashion_shows,global_group,2012,global south,0.103750,83,800
+fashion_shows,global_group,1999,global north,0.974359,38,39
+fashion_shows,global_group,1999,global south,0.025641,1,39
+fashion_shows,global_group,2001,global north,1.000000,120,120
+fashion_shows,global_group,2000,global north,1.000000,115,115
+fashion_shows,global_group,2007,global north,0.664336,190,286
+fashion_shows,global_group,2007,global south,0.335664,96,286
+fashion_shows,global_group,2008,global north,0.616438,90,146
+fashion_shows,global_group,2008,global south,0.383562,56,146
+fashion_shows,global_group,2009,global north,0.804348,222,276
+fashion_shows,global_group,2009,global south,0.195652,54,276
+fashion_shows,global_group,2010,global north,0.921171,409,444
+fashion_shows,global_group,2010,global south,0.078829,35,444
+fashion_shows,global_group,2019,global north,0.644302,605,939
+fashion_shows,global_group,2019,global south,0.355698,334,939
+fashion_shows,global_group,2023,global north,0.671562,503,749
+fashion_shows,global_group,2023,global south,0.328438,246,749
+fashion_shows,global_group,2022,global north,0.644684,479,743
+fashion_shows,global_group,2022,global south,0.355316,264,743
+fashion_shows,global_group,2011,global north,0.910819,623,684
+fashion_shows,global_group,2011,global south,0.089181,61,684
+fashion_shows,global_group,2020,global north,0.575000,575,1000
+fashion_shows,global_group,2020,global south,0.425000,425,1000
+fashion_shows,global_group,2016,global north,0.660959,386,584
+fashion_shows,global_group,2016,global south,0.339041,198,584
+fashion_shows,global_group,2013,global north,0.818644,483,590
+fashion_shows,global_group,2013,global south,0.181356,107,590
+fashion_shows,global_group,2021,global north,0.684729,139,203
+fashion_shows,global_group,2021,global south,0.315271,64,203
+fashion_shows,global_group,2018,global north,0.756098,217,287
+fashion_shows,global_group,2018,global south,0.243902,70,287
+fashion_shows,global_group,2017,global north,0.781321,343,439
+fashion_shows,global_group,2017,global south,0.218679,96,439
+fashion_shows,global_group,1994,global south,0.625000,5,8
+fashion_shows,global_group,1994,global north,0.375000,3,8
+fashion_shows,global_group,1995,global north,0.733333,11,15
+fashion_shows,global_group,1995,global south,0.266667,4,15
+fashion_shows,global_group,1997,global north,0.842105,80,95
+fashion_shows,global_group,1997,global south,0.157895,15,95
+fashion_shows,global_group,1998,global north,0.946429,106,112
+fashion_shows,global_group,1998,global south,0.053571,6,112
+fashion_shows,global_group,1996,global south,0.705882,12,17
+fashion_shows,global_group,1996,global north,0.294118,5,17
+fashion_shows,global_group,1991,global south,0.857143,12,14
+fashion_shows,global_group,1991,global north,0.142857,2,14
+fashion_shows,global_group,1992,global south,0.888889,8,9
+fashion_shows,global_group,1992,global north,0.111111,1,9
+fashion_shows,global_group,1993,global north,0.888889,24,27
+fashion_shows,global_group,1993,global south,0.111111,3,27
+fashion_shows,global_group,1988,global north,1.000000,1,1
+fashion_shows,global_group,1990,global south,1.000000,2,2
+fashion_shows,global_group,1985,global north,1.000000,1,1
+fashion_shows,global_group,1983,global north,1.000000,1,1
+advertisements,hair,2021,black,0.437500,189,432
+advertisements,hair,2021,brown,0.273148,118,432
+advertisements,hair,2021,dark brown,0.138889,60,432
+advertisements,hair,2021,blonde,0.053241,23,432
+advertisements,hair,2021,dark blonde,0.037037,16,432
+advertisements,hair,2021,light brown,0.025463,11,432
+advertisements,hair,2021,red,0.023148,10,432
+advertisements,hair,2021,red / blonde,0.006944,3,432
+advertisements,hair,2021,chestnut,0.004630,2,432
+advertisements,hair,2023,black,0.423895,259,611
+advertisements,hair,2023,brown,0.250409,153,611
+advertisements,hair,2023,dark brown,0.108020,66,611
+advertisements,hair,2023,dark blonde,0.076923,47,611
+advertisements,hair,2023,blonde,0.070376,43,611
+advertisements,hair,2023,light brown,0.055646,34,611
+advertisements,hair,2023,red,0.006547,4,611
+advertisements,hair,2023,chestnut,0.004910,3,611
+advertisements,hair,2023,light blonde,0.001637,1,611
+advertisements,hair,2023,brown / red,0.001637,1,611
+advertisements,hair,2024,black,0.377315,163,432
+advertisements,hair,2024,brown,0.247685,107,432
+advertisements,hair,2024,dark brown,0.113426,49,432
+advertisements,hair,2024,blonde,0.090278,39,432
+advertisements,hair,2024,dark blonde,0.081019,35,432
+advertisements,hair,2024,light brown,0.069444,30,432
+advertisements,hair,2024,chestnut,0.013889,6,432
+advertisements,hair,2024,blonde / red,0.002315,1,432
+advertisements,hair,2024,brown / red,0.002315,1,432
+advertisements,hair,2024,red,0.002315,1,432
+advertisements,hair,2017,brown,0.354244,96,271
+advertisements,hair,2017,black,0.214022,58,271
+advertisements,hair,2017,dark brown,0.151292,41,271
+advertisements,hair,2017,dark blonde,0.125461,34,271
+advertisements,hair,2017,blonde,0.077491,21,271
+advertisements,hair,2017,light brown,0.062731,17,271
+advertisements,hair,2017,red,0.007380,2,271
+advertisements,hair,2017,white,0.007380,2,271
+advertisements,hair,2018,brown,0.335897,131,390
+advertisements,hair,2018,black,0.266667,104,390
+advertisements,hair,2018,dark brown,0.123077,48,390
+advertisements,hair,2018,blonde,0.107692,42,390
+advertisements,hair,2018,dark blonde,0.092308,36,390
+advertisements,hair,2018,light brown,0.056410,22,390
+advertisements,hair,2018,red,0.017949,7,390
+advertisements,hair,2019,brown,0.339468,166,489
+advertisements,hair,2019,black,0.335378,164,489
+advertisements,hair,2019,dark brown,0.137014,67,489
+advertisements,hair,2019,blonde,0.061350,30,489
+advertisements,hair,2019,dark blonde,0.061350,30,489
+advertisements,hair,2019,light brown,0.047035,23,489
+advertisements,hair,2019,red,0.016360,8,489
+advertisements,hair,2019,light blonde,0.002045,1,489
+advertisements,hair,2020,black,0.378132,166,439
+advertisements,hair,2020,brown,0.359909,158,439
+advertisements,hair,2020,dark brown,0.118451,52,439
+advertisements,hair,2020,blonde,0.052392,23,439
+advertisements,hair,2020,dark blonde,0.043280,19,439
+advertisements,hair,2020,light brown,0.029613,13,439
+advertisements,hair,2020,red,0.011390,5,439
+advertisements,hair,2020,brown / red,0.004556,2,439
+advertisements,hair,2020,chestnut,0.002278,1,439
+advertisements,hair,2022,black,0.433812,272,627
+advertisements,hair,2022,brown,0.263158,165,627
+advertisements,hair,2022,dark brown,0.119617,75,627
+advertisements,hair,2022,blonde,0.073365,46,627
+advertisements,hair,2022,dark blonde,0.051037,32,627
+advertisements,hair,2022,light brown,0.044657,28,627
+advertisements,hair,2022,light blonde,0.006380,4,627
+advertisements,hair,2022,red,0.004785,3,627
+advertisements,hair,2022,chestnut,0.003190,2,627
+advertisements,hair,2015,brown,0.242105,46,190
+advertisements,hair,2015,dark blonde,0.215789,41,190
+advertisements,hair,2015,dark brown,0.178947,34,190
+advertisements,hair,2015,black,0.173684,33,190
+advertisements,hair,2015,blonde,0.105263,20,190
+advertisements,hair,2015,light brown,0.073684,14,190
+advertisements,hair,2015,light blonde,0.010526,2,190
+advertisements,hair,2008,brown,0.322034,19,59
+advertisements,hair,2008,dark brown,0.254237,15,59
+advertisements,hair,2008,black,0.220339,13,59
+advertisements,hair,2008,dark blonde,0.118644,7,59
+advertisements,hair,2008,blonde,0.084746,5,59
+advertisements,hair,2009,brown,0.344086,32,93
+advertisements,hair,2009,dark blonde,0.236559,22,93
+advertisements,hair,2009,black,0.182796,17,93
+advertisements,hair,2009,dark brown,0.118280,11,93
+advertisements,hair,2009,light brown,0.064516,6,93
+advertisements,hair,2009,blonde,0.053763,5,93
+advertisements,hair,2010,brown,0.396947,52,131
+advertisements,hair,2010,black,0.229008,30,131
+advertisements,hair,2010,dark blonde,0.145038,19,131
+advertisements,hair,2010,dark brown,0.129771,17,131
+advertisements,hair,2010,light brown,0.038168,5,131
+advertisements,hair,2010,blonde,0.038168,5,131
+advertisements,hair,2010,light blonde,0.015267,2,131
+advertisements,hair,2010,red,0.007634,1,131
+advertisements,hair,2011,brown,0.306667,46,150
+advertisements,hair,2011,dark blonde,0.226667,34,150
+advertisements,hair,2011,black,0.180000,27,150
+advertisements,hair,2011,dark brown,0.140000,21,150
+advertisements,hair,2011,blonde,0.053333,8,150
+advertisements,hair,2011,light blonde,0.040000,6,150
+advertisements,hair,2011,light brown,0.033333,5,150
+advertisements,hair,2011,red,0.020000,3,150
+advertisements,hair,2012,brown,0.290541,43,148
+advertisements,hair,2012,dark blonde,0.270270,40,148
+advertisements,hair,2012,black,0.202703,30,148
+advertisements,hair,2012,blonde,0.121622,18,148
+advertisements,hair,2012,dark brown,0.101351,15,148
+advertisements,hair,2012,light blonde,0.013514,2,148
+advertisements,hair,2013,brown,0.350515,68,194
+advertisements,hair,2013,dark blonde,0.242268,47,194
+advertisements,hair,2013,dark brown,0.175258,34,194
+advertisements,hair,2013,black,0.164948,32,194
+advertisements,hair,2013,blonde,0.056701,11,194
+advertisements,hair,2013,light brown,0.010309,2,194
+advertisements,hair,2014,brown,0.335165,61,182
+advertisements,hair,2014,black,0.219780,40,182
+advertisements,hair,2014,dark blonde,0.181319,33,182
+advertisements,hair,2014,dark brown,0.137363,25,182
+advertisements,hair,2014,blonde,0.098901,18,182
+advertisements,hair,2014,light brown,0.010989,2,182
+advertisements,hair,2014,red,0.010989,2,182
+advertisements,hair,2014,light blonde,0.005495,1,182
+advertisements,hair,2016,brown,0.316364,87,275
+advertisements,hair,2016,black,0.210909,58,275
+advertisements,hair,2016,dark brown,0.170909,47,275
+advertisements,hair,2016,dark blonde,0.141818,39,275
+advertisements,hair,2016,light brown,0.080000,22,275
+advertisements,hair,2016,blonde,0.072727,20,275
+advertisements,hair,2016,light blonde,0.007273,2,275
+advertisements,hair,2007,dark brown,0.461538,6,13
+advertisements,hair,2007,dark blonde,0.307692,4,13
+advertisements,hair,2007,black,0.153846,2,13
+advertisements,hair,2007,blonde,0.076923,1,13
+advertisements,hair,2003,blonde,0.500000,1,2
+advertisements,hair,2003,dark blonde,0.500000,1,2
+advertisements,hair,1998,dark brown,0.750000,3,4
+advertisements,hair,1998,blonde,0.250000,1,4
+advertisements,hair,2000,blonde,0.500000,1,2
+advertisements,hair,2000,brown,0.500000,1,2
+advertisements,hair,2001,blonde,0.666667,2,3
+advertisements,hair,2001,light brown,0.333333,1,3
+advertisements,hair,2004,blonde,0.400000,2,5
+advertisements,hair,2004,black,0.200000,1,5
+advertisements,hair,2004,brown,0.200000,1,5
+advertisements,hair,2004,dark brown,0.200000,1,5
+advertisements,hair,2006,dark brown,0.428571,3,7
+advertisements,hair,2006,black,0.428571,3,7
+advertisements,hair,2006,blonde,0.142857,1,7
+advertisements,hair,2002,brown,1.000000,1,1
+advertisements,hair,2005,dark blonde,0.666667,2,3
+advertisements,hair,2005,black,0.333333,1,3
+advertisements,hair,1995,dark brown,0.857143,6,7
+advertisements,hair,1995,grey,0.142857,1,7
+advertisements,hair,1996,dark brown,1.000000,5,5
+advertisements,hair,1997,dark brown,0.666667,2,3
+advertisements,hair,1997,blonde,0.333333,1,3
+advertisements,hair,1990,dark brown,1.000000,1,1
+advertisements,hair,1992,grey,0.500000,1,2
+advertisements,hair,1992,dark brown,0.500000,1,2
+advertisements,hair,1993,dark brown,1.000000,5,5
+advertisements,hair,1994,dark brown,1.000000,5,5
+advertisements,hair,1991,dark brown,1.000000,2,2
+advertisements,hair,1987,blonde,1.000000,1,1
+advertisements,hair,1989,grey,0.333333,1,3
+advertisements,hair,1989,blonde,0.333333,1,3
+advertisements,hair,1989,dark brown,0.333333,1,3
+advertisements,hair,1980,blonde,1.000000,1,1
+advertisements,eyes,2021,brown,0.567130,245,432
+advertisements,eyes,2021,blue,0.145833,63,432
+advertisements,eyes,2021,black,0.115741,50,432
+advertisements,eyes,2021,green,0.069444,30,432
+advertisements,eyes,2021,dark brown,0.039352,17,432
+advertisements,eyes,2021,blue / green,0.018519,8,432
+advertisements,eyes,2021,hazel,0.016204,7,432
+advertisements,eyes,2021,blue / grey,0.016204,7,432
+advertisements,eyes,2021,light brown,0.004630,2,432
+advertisements,eyes,2021,green / brown,0.004630,2,432
+advertisements,eyes,2021,grey,0.002315,1,432
+advertisements,eyes,2023,brown,0.517185,316,611
+advertisements,eyes,2023,blue,0.155483,95,611
+advertisements,eyes,2023,black,0.126023,77,611
+advertisements,eyes,2023,green,0.078560,48,611
+advertisements,eyes,2023,blue / green,0.032733,20,611
+advertisements,eyes,2023,hazel,0.024550,15,611
+advertisements,eyes,2023,dark brown,0.021277,13,611
+advertisements,eyes,2023,blue / grey,0.019640,12,611
+advertisements,eyes,2023,green / brown,0.018003,11,611
+advertisements,eyes,2023,grey,0.003273,2,611
+advertisements,eyes,2023,light brown,0.001637,1,611
+advertisements,eyes,2023,brown / hazel,0.001637,1,611
+advertisements,eyes,2024,brown,0.462963,200,432
+advertisements,eyes,2024,blue,0.233796,101,432
+advertisements,eyes,2024,black,0.097222,42,432
+advertisements,eyes,2024,green,0.055556,24,432
+advertisements,eyes,2024,hazel,0.037037,16,432
+advertisements,eyes,2024,blue / grey,0.034722,15,432
+advertisements,eyes,2024,blue / green,0.030093,13,432
+advertisements,eyes,2024,green / brown,0.020833,9,432
+advertisements,eyes,2024,dark brown,0.013889,6,432
+advertisements,eyes,2024,brown / hazel,0.006944,3,432
+advertisements,eyes,2024,grey,0.004630,2,432
+advertisements,eyes,2024,green / grey,0.002315,1,432
+advertisements,eyes,2017,brown,0.431734,117,271
+advertisements,eyes,2017,blue,0.247232,67,271
+advertisements,eyes,2017,green,0.184502,50,271
+advertisements,eyes,2017,hazel,0.033210,9,271
+advertisements,eyes,2017,brown / hazel,0.029520,8,271
+advertisements,eyes,2017,black,0.025830,7,271
+advertisements,eyes,2017,blue / green,0.022140,6,271
+advertisements,eyes,2017,grey,0.018450,5,271
+advertisements,eyes,2017,blue / grey,0.003690,1,271
+advertisements,eyes,2017,green / brown,0.003690,1,271
+advertisements,eyes,2018,brown,0.489744,191,390
+advertisements,eyes,2018,blue,0.289744,113,390
+advertisements,eyes,2018,green,0.094872,37,390
+advertisements,eyes,2018,black,0.038462,15,390
+advertisements,eyes,2018,blue / green,0.035897,14,390
+advertisements,eyes,2018,hazel,0.028205,11,390
+advertisements,eyes,2018,blue / grey,0.010256,4,390
+advertisements,eyes,2018,brown / hazel,0.010256,4,390
+advertisements,eyes,2018,green / brown,0.002564,1,390
+advertisements,eyes,2019,brown,0.521472,255,489
+advertisements,eyes,2019,blue,0.245399,120,489
+advertisements,eyes,2019,green,0.089980,44,489
+advertisements,eyes,2019,black,0.071575,35,489
+advertisements,eyes,2019,hazel,0.022495,11,489
+advertisements,eyes,2019,blue / green,0.020450,10,489
+advertisements,eyes,2019,dark brown,0.010225,5,489
+advertisements,eyes,2019,blue / grey,0.006135,3,489
+advertisements,eyes,2019,green / brown,0.004090,2,489
+advertisements,eyes,2019,brown / hazel,0.004090,2,489
+advertisements,eyes,2019,grey,0.002045,1,489
+advertisements,eyes,2019,light brown,0.002045,1,489
+advertisements,eyes,2020,brown,0.555809,244,439
+advertisements,eyes,2020,blue,0.182232,80,439
+advertisements,eyes,2020,black,0.091116,40,439
+advertisements,eyes,2020,green,0.079727,35,439
+advertisements,eyes,2020,blue / green,0.050114,22,439
+advertisements,eyes,2020,dark brown,0.020501,9,439
+advertisements,eyes,2020,hazel,0.009112,4,439
+advertisements,eyes,2020,blue / grey,0.004556,2,439
+advertisements,eyes,2020,light brown,0.002278,1,439
+advertisements,eyes,2020,brown / hazel,0.002278,1,439
+advertisements,eyes,2020,green / brown,0.002278,1,439
+advertisements,eyes,2022,brown,0.529506,332,627
+advertisements,eyes,2022,blue,0.167464,105,627
+advertisements,eyes,2022,black,0.113238,71,627
+advertisements,eyes,2022,green,0.070175,44,627
+advertisements,eyes,2022,hazel,0.031898,20,627
+advertisements,eyes,2022,blue / grey,0.028708,18,627
+advertisements,eyes,2022,blue / green,0.025518,16,627
+advertisements,eyes,2022,dark brown,0.015949,10,627
+advertisements,eyes,2022,green / brown,0.009569,6,627
+advertisements,eyes,2022,grey,0.004785,3,627
+advertisements,eyes,2022,light brown,0.003190,2,627
+advertisements,eyes,2015,blue,0.363158,69,190
+advertisements,eyes,2015,brown,0.342105,65,190
+advertisements,eyes,2015,green,0.131579,25,190
+advertisements,eyes,2015,blue / green,0.042105,8,190
+advertisements,eyes,2015,grey,0.031579,6,190
+advertisements,eyes,2015,brown / hazel,0.031579,6,190
+advertisements,eyes,2015,hazel,0.026316,5,190
+advertisements,eyes,2015,blue / grey,0.015789,3,190
+advertisements,eyes,2015,black,0.010526,2,190
+advertisements,eyes,2015,green / grey,0.005263,1,190
+advertisements,eyes,2008,blue,0.389831,23,59
+advertisements,eyes,2008,green,0.271186,16,59
+advertisements,eyes,2008,brown,0.237288,14,59
+advertisements,eyes,2008,brown / hazel,0.101695,6,59
+advertisements,eyes,2009,blue,0.344086,32,93
+advertisements,eyes,2009,brown,0.301075,28,93
+advertisements,eyes,2009,green,0.247312,23,93
+advertisements,eyes,2009,brown / hazel,0.086022,8,93
+advertisements,eyes,2009,blue / grey,0.010753,1,93
+advertisements,eyes,2009,blue / green,0.010753,1,93
+advertisements,eyes,2010,blue,0.358779,47,131
+advertisements,eyes,2010,brown,0.343511,45,131
+advertisements,eyes,2010,green,0.183206,24,131
+advertisements,eyes,2010,brown / hazel,0.091603,12,131
+advertisements,eyes,2010,blue / green,0.015267,2,131
+advertisements,eyes,2010,blue / grey,0.007634,1,131
+advertisements,eyes,2011,blue,0.353333,53,150
+advertisements,eyes,2011,brown,0.326667,49,150
+advertisements,eyes,2011,green,0.240000,36,150
+advertisements,eyes,2011,brown / hazel,0.060000,9,150
+advertisements,eyes,2011,blue / grey,0.013333,2,150
+advertisements,eyes,2011,blue / green,0.006667,1,150
+advertisements,eyes,2012,blue,0.337838,50,148
+advertisements,eyes,2012,brown,0.317568,47,148
+advertisements,eyes,2012,green,0.189189,28,148
+advertisements,eyes,2012,blue / green,0.094595,14,148
+advertisements,eyes,2012,brown / hazel,0.060811,9,148
+advertisements,eyes,2013,blue,0.365979,71,194
+advertisements,eyes,2013,brown,0.335052,65,194
+advertisements,eyes,2013,green,0.195876,38,194
+advertisements,eyes,2013,brown / hazel,0.051546,10,194
+advertisements,eyes,2013,blue / green,0.041237,8,194
+advertisements,eyes,2013,blue / grey,0.005155,1,194
+advertisements,eyes,2013,dark brown,0.005155,1,194
+advertisements,eyes,2014,blue,0.384615,70,182
+advertisements,eyes,2014,brown,0.296703,54,182
+advertisements,eyes,2014,green,0.153846,28,182
+advertisements,eyes,2014,blue / green,0.065934,12,182
+advertisements,eyes,2014,brown / hazel,0.060440,11,182
+advertisements,eyes,2014,grey,0.021978,4,182
+advertisements,eyes,2014,black,0.010989,2,182
+advertisements,eyes,2014,dark brown,0.005495,1,182
+advertisements,eyes,2016,brown,0.363636,100,275
+advertisements,eyes,2016,blue,0.312727,86,275
+advertisements,eyes,2016,green,0.123636,34,275
+advertisements,eyes,2016,hazel,0.050909,14,275
+advertisements,eyes,2016,black,0.040000,11,275
+advertisements,eyes,2016,brown / hazel,0.040000,11,275
+advertisements,eyes,2016,blue / green,0.036364,10,275
+advertisements,eyes,2016,grey,0.025455,7,275
+advertisements,eyes,2016,blue / grey,0.003636,1,275
+advertisements,eyes,2016,green / grey,0.003636,1,275
+advertisements,eyes,2007,blue,0.538462,7,13
+advertisements,eyes,2007,green,0.230769,3,13
+advertisements,eyes,2007,brown,0.153846,2,13
+advertisements,eyes,2007,brown / hazel,0.076923,1,13
+advertisements,eyes,2003,blue,0.500000,1,2
+advertisements,eyes,2003,green,0.500000,1,2
+advertisements,eyes,1998,blue,0.750000,3,4
+advertisements,eyes,1998,green,0.250000,1,4
+advertisements,eyes,2000,blue,0.500000,1,2
+advertisements,eyes,2000,green,0.500000,1,2
+advertisements,eyes,2001,blue,1.000000,3,3
+advertisements,eyes,2004,blue,0.600000,3,5
+advertisements,eyes,2004,brown,0.400000,2,5
+advertisements,eyes,2006,blue,0.428571,3,7
+advertisements,eyes,2006,brown,0.428571,3,7
+advertisements,eyes,2006,green,0.142857,1,7
+advertisements,eyes,2002,blue,1.000000,1,1
+advertisements,eyes,2005,green,0.666667,2,3
+advertisements,eyes,2005,brown / hazel,0.333333,1,3
+advertisements,eyes,1995,blue,1.000000,7,7
+advertisements,eyes,1996,blue,1.000000,5,5
+advertisements,eyes,1997,blue,1.000000,3,3
+advertisements,eyes,1990,blue,1.000000,1,1
+advertisements,eyes,1992,blue,1.000000,2,2
+advertisements,eyes,1993,blue,1.000000,5,5
+advertisements,eyes,1994,blue,0.800000,4,5
+advertisements,eyes,1994,green,0.200000,1,5
+advertisements,eyes,1991,blue,1.000000,2,2
+advertisements,eyes,1987,blue,1.000000,1,1
+advertisements,eyes,1989,blue,1.000000,3,3
+advertisements,eyes,1980,blue,1.000000,1,1
+advertisements,world_region,2021,western europe,0.289352,125,432
+advertisements,world_region,2021,sub-saharan africa,0.240741,104,432
+advertisements,world_region,2021,north america,0.164352,71,432
+advertisements,world_region,2021,east asia,0.104167,45,432
+advertisements,world_region,2021,southern europe,0.078704,34,432
+advertisements,world_region,2021,south america,0.050926,22,432
+advertisements,world_region,2021,eastern europe,0.030093,13,432
+advertisements,world_region,2021,caribbean,0.011574,5,432
+advertisements,world_region,2021,northern europe,0.011574,5,432
+advertisements,world_region,2021,south asia,0.009259,4,432
+advertisements,world_region,2021,oceania,0.002315,1,432
+advertisements,world_region,2021,southeast asia,0.002315,1,432
+advertisements,world_region,2021,middle east,0.002315,1,432
+advertisements,world_region,2021,north africa,0.002315,1,432
+advertisements,world_region,2023,western europe,0.292962,179,611
+advertisements,world_region,2023,sub-saharan africa,0.199673,122,611
+advertisements,world_region,2023,north america,0.199673,122,611
+advertisements,world_region,2023,east asia,0.124386,76,611
+advertisements,world_region,2023,southern europe,0.062193,38,611
+advertisements,world_region,2023,south america,0.031097,19,611
+advertisements,world_region,2023,eastern europe,0.029460,18,611
+advertisements,world_region,2023,northern europe,0.021277,13,611
+advertisements,world_region,2023,north africa,0.013093,8,611
+advertisements,world_region,2023,caribbean,0.009820,6,611
+advertisements,world_region,2023,middle east,0.004910,3,611
+advertisements,world_region,2023,south asia,0.004910,3,611
+advertisements,world_region,2023,oceania,0.003273,2,611
+advertisements,world_region,2023,southeast asia,0.003273,2,611
+advertisements,world_region,2024,western europe,0.365741,158,432
+advertisements,world_region,2024,north america,0.212963,92,432
+advertisements,world_region,2024,sub-saharan africa,0.141204,61,432
+advertisements,world_region,2024,east asia,0.120370,52,432
+advertisements,world_region,2024,southern europe,0.074074,32,432
+advertisements,world_region,2024,south america,0.039352,17,432
+advertisements,world_region,2024,eastern europe,0.016204,7,432
+advertisements,world_region,2024,northern europe,0.011574,5,432
+advertisements,world_region,2024,caribbean,0.004630,2,432
+advertisements,world_region,2024,north africa,0.004630,2,432
+advertisements,world_region,2024,middle east,0.004630,2,432
+advertisements,world_region,2024,south asia,0.004630,2,432
+advertisements,world_region,2017,western europe,0.324723,88,271
+advertisements,world_region,2017,north america,0.298893,81,271
+advertisements,world_region,2017,southern europe,0.092251,25,271
+advertisements,world_region,2017,south america,0.070111,19,271
+advertisements,world_region,2017,sub-saharan africa,0.066421,18,271
+advertisements,world_region,2017,east asia,0.047970,13,271
+advertisements,world_region,2017,eastern europe,0.047970,13,271
+advertisements,world_region,2017,northern europe,0.018450,5,271
+advertisements,world_region,2017,oceania,0.014760,4,271
+advertisements,world_region,2017,middle east,0.014760,4,271
+advertisements,world_region,2017,caribbean,0.003690,1,271
+advertisements,world_region,2018,western europe,0.330769,129,390
+advertisements,world_region,2018,north america,0.287179,112,390
+advertisements,world_region,2018,east asia,0.087179,34,390
+advertisements,world_region,2018,southern europe,0.079487,31,390
+advertisements,world_region,2018,sub-saharan africa,0.069231,27,390
+advertisements,world_region,2018,eastern europe,0.046154,18,390
+advertisements,world_region,2018,northern europe,0.033333,13,390
+advertisements,world_region,2018,south america,0.033333,13,390
+advertisements,world_region,2018,oceania,0.017949,7,390
+advertisements,world_region,2018,middle east,0.010256,4,390
+advertisements,world_region,2018,caribbean,0.005128,2,390
+advertisements,world_region,2019,western europe,0.292434,143,489
+advertisements,world_region,2019,north america,0.241309,118,489
+advertisements,world_region,2019,east asia,0.130879,64,489
+advertisements,world_region,2019,sub-saharan africa,0.114519,56,489
+advertisements,world_region,2019,eastern europe,0.057260,28,489
+advertisements,world_region,2019,southern europe,0.055215,27,489
+advertisements,world_region,2019,south america,0.030675,15,489
+advertisements,world_region,2019,oceania,0.024540,12,489
+advertisements,world_region,2019,northern europe,0.022495,11,489
+advertisements,world_region,2019,caribbean,0.010225,5,489
+advertisements,world_region,2019,south asia,0.010225,5,489
+advertisements,world_region,2019,southeast asia,0.006135,3,489
+advertisements,world_region,2019,middle east,0.004090,2,489
+advertisements,world_region,2020,western europe,0.350797,154,439
+advertisements,world_region,2020,north america,0.198178,87,439
+advertisements,world_region,2020,sub-saharan africa,0.134396,59,439
+advertisements,world_region,2020,east asia,0.095672,42,439
+advertisements,world_region,2020,southern europe,0.068337,30,439
+advertisements,world_region,2020,eastern europe,0.045558,20,439
+advertisements,world_region,2020,south america,0.038724,17,439
+advertisements,world_region,2020,northern europe,0.027335,12,439
+advertisements,world_region,2020,caribbean,0.015945,7,439
+advertisements,world_region,2020,oceania,0.006834,3,439
+advertisements,world_region,2020,north africa,0.006834,3,439
+advertisements,world_region,2020,south asia,0.004556,2,439
+advertisements,world_region,2020,middle east,0.004556,2,439
+advertisements,world_region,2020,southeast asia,0.002278,1,439
+advertisements,world_region,2022,western europe,0.283892,178,627
+advertisements,world_region,2022,north america,0.232855,146,627
+advertisements,world_region,2022,sub-saharan africa,0.196172,123,627
+advertisements,world_region,2022,east asia,0.110048,69,627
+advertisements,world_region,2022,southern europe,0.073365,46,627
+advertisements,world_region,2022,south america,0.027113,17,627
+advertisements,world_region,2022,eastern europe,0.023923,15,627
+advertisements,world_region,2022,northern europe,0.019139,12,627
+advertisements,world_region,2022,caribbean,0.011164,7,627
+advertisements,world_region,2022,middle east,0.009569,6,627
+advertisements,world_region,2022,south asia,0.004785,3,627
+advertisements,world_region,2022,north africa,0.004785,3,627
+advertisements,world_region,2022,oceania,0.003190,2,627
+advertisements,world_region,2015,western europe,0.357895,68,190
+advertisements,world_region,2015,north america,0.242105,46,190
+advertisements,world_region,2015,southern europe,0.142105,27,190
+advertisements,world_region,2015,eastern europe,0.094737,18,190
+advertisements,world_region,2015,south america,0.073684,14,190
+advertisements,world_region,2015,oceania,0.047368,9,190
+advertisements,world_region,2015,east asia,0.021053,4,190
+advertisements,world_region,2015,sub-saharan africa,0.010526,2,190
+advertisements,world_region,2015,caribbean,0.010526,2,190
+advertisements,world_region,2008,north america,0.355932,21,59
+advertisements,world_region,2008,western europe,0.254237,15,59
+advertisements,world_region,2008,southern europe,0.169492,10,59
+advertisements,world_region,2008,east asia,0.118644,7,59
+advertisements,world_region,2008,eastern europe,0.067797,4,59
+advertisements,world_region,2008,south america,0.033898,2,59
+advertisements,world_region,2009,north america,0.397849,37,93
+advertisements,world_region,2009,western europe,0.311828,29,93
+advertisements,world_region,2009,southern europe,0.118280,11,93
+advertisements,world_region,2009,east asia,0.096774,9,93
+advertisements,world_region,2009,eastern europe,0.043011,4,93
+advertisements,world_region,2009,south america,0.021505,2,93
+advertisements,world_region,2009,central asia,0.010753,1,93
+advertisements,world_region,2010,north america,0.389313,51,131
+advertisements,world_region,2010,western europe,0.267176,35,131
+advertisements,world_region,2010,southern europe,0.106870,14,131
+advertisements,world_region,2010,eastern europe,0.091603,12,131
+advertisements,world_region,2010,east asia,0.076336,10,131
+advertisements,world_region,2010,oceania,0.038168,5,131
+advertisements,world_region,2010,south america,0.030534,4,131
+advertisements,world_region,2011,western europe,0.346667,52,150
+advertisements,world_region,2011,north america,0.260000,39,150
+advertisements,world_region,2011,southern europe,0.146667,22,150
+advertisements,world_region,2011,eastern europe,0.113333,17,150
+advertisements,world_region,2011,oceania,0.060000,9,150
+advertisements,world_region,2011,east asia,0.040000,6,150
+advertisements,world_region,2011,south america,0.033333,5,150
+advertisements,world_region,2012,western europe,0.378378,56,148
+advertisements,world_region,2012,north america,0.297297,44,148
+advertisements,world_region,2012,southern europe,0.114865,17,148
+advertisements,world_region,2012,oceania,0.087838,13,148
+advertisements,world_region,2012,eastern europe,0.054054,8,148
+advertisements,world_region,2012,east asia,0.033784,5,148
+advertisements,world_region,2012,central asia,0.013514,2,148
+advertisements,world_region,2012,middle east,0.006757,1,148
+advertisements,world_region,2012,south america,0.006757,1,148
+advertisements,world_region,2012,caribbean,0.006757,1,148
+advertisements,world_region,2013,north america,0.350515,68,194
+advertisements,world_region,2013,western europe,0.324742,63,194
+advertisements,world_region,2013,eastern europe,0.092784,18,194
+advertisements,world_region,2013,southern europe,0.072165,14,194
+advertisements,world_region,2013,oceania,0.067010,13,194
+advertisements,world_region,2013,south america,0.041237,8,194
+advertisements,world_region,2013,caribbean,0.025773,5,194
+advertisements,world_region,2013,east asia,0.020619,4,194
+advertisements,world_region,2013,northern europe,0.005155,1,194
+advertisements,world_region,2014,western europe,0.395604,72,182
+advertisements,world_region,2014,north america,0.285714,52,182
+advertisements,world_region,2014,southern europe,0.137363,25,182
+advertisements,world_region,2014,eastern europe,0.071429,13,182
+advertisements,world_region,2014,oceania,0.038462,7,182
+advertisements,world_region,2014,south america,0.038462,7,182
+advertisements,world_region,2014,east asia,0.016484,3,182
+advertisements,world_region,2014,caribbean,0.005495,1,182
+advertisements,world_region,2014,northern europe,0.005495,1,182
+advertisements,world_region,2014,sub-saharan africa,0.005495,1,182
+advertisements,world_region,2016,western europe,0.370909,102,275
+advertisements,world_region,2016,north america,0.203636,56,275
+advertisements,world_region,2016,southern europe,0.112727,31,275
+advertisements,world_region,2016,south america,0.098182,27,275
+advertisements,world_region,2016,eastern europe,0.061818,17,275
+advertisements,world_region,2016,oceania,0.054545,15,275
+advertisements,world_region,2016,east asia,0.043636,12,275
+advertisements,world_region,2016,sub-saharan africa,0.036364,10,275
+advertisements,world_region,2016,northern europe,0.007273,2,275
+advertisements,world_region,2016,central asia,0.003636,1,275
+advertisements,world_region,2016,caribbean,0.003636,1,275
+advertisements,world_region,2016,middle east,0.003636,1,275
+advertisements,world_region,2007,western europe,0.461538,6,13
+advertisements,world_region,2007,north america,0.384615,5,13
+advertisements,world_region,2007,eastern europe,0.076923,1,13
+advertisements,world_region,2007,east asia,0.076923,1,13
+advertisements,world_region,2003,north america,0.500000,1,2
+advertisements,world_region,2003,western europe,0.500000,1,2
+advertisements,world_region,1998,north america,0.750000,3,4
+advertisements,world_region,1998,middle east,0.250000,1,4
+advertisements,world_region,2000,north america,1.000000,2,2
+advertisements,world_region,2001,north america,0.666667,2,3
+advertisements,world_region,2001,western europe,0.333333,1,3
+advertisements,world_region,2004,north america,0.800000,4,5
+advertisements,world_region,2004,western europe,0.200000,1,5
+advertisements,world_region,2006,east asia,0.428571,3,7
+advertisements,world_region,2006,north america,0.285714,2,7
+advertisements,world_region,2006,western europe,0.142857,1,7
+advertisements,world_region,2006,south america,0.142857,1,7
+advertisements,world_region,2002,north america,1.000000,1,1
+advertisements,world_region,2005,western europe,0.666667,2,3
+advertisements,world_region,2005,north america,0.333333,1,3
+advertisements,world_region,1995,north america,1.000000,7,7
+advertisements,world_region,1996,north america,0.800000,4,5
+advertisements,world_region,1996,middle east,0.200000,1,5
+advertisements,world_region,1997,north america,1.000000,3,3
+advertisements,world_region,1990,north america,1.000000,1,1
+advertisements,world_region,1992,north america,1.000000,2,2
+advertisements,world_region,1993,north america,1.000000,5,5
+advertisements,world_region,1994,north america,0.800000,4,5
+advertisements,world_region,1994,middle east,0.200000,1,5
+advertisements,world_region,1991,north america,1.000000,2,2
+advertisements,world_region,1987,north america,1.000000,1,1
+advertisements,world_region,1989,north america,1.000000,3,3
+advertisements,world_region,1980,north america,1.000000,1,1
+advertisements,global_group,2021,global north,0.622685,269,432
+advertisements,global_group,2021,global south,0.377315,163,432
+advertisements,global_group,2023,global north,0.684124,418,611
+advertisements,global_group,2023,global south,0.315876,193,611
+advertisements,global_group,2024,global north,0.766204,331,432
+advertisements,global_group,2024,global south,0.233796,101,432
+advertisements,global_group,2017,global north,0.782288,212,271
+advertisements,global_group,2017,global south,0.217712,59,271
+advertisements,global_group,2018,global north,0.823077,321,390
+advertisements,global_group,2018,global south,0.176923,69,390
+advertisements,global_group,2019,global north,0.773006,378,489
+advertisements,global_group,2019,global south,0.226994,111,489
+advertisements,global_group,2020,global north,0.747153,328,439
+advertisements,global_group,2020,global south,0.252847,111,439
+advertisements,global_group,2022,global north,0.684211,429,627
+advertisements,global_group,2022,global south,0.315789,198,627
+advertisements,global_group,2015,global north,0.878947,167,190
+advertisements,global_group,2015,global south,0.121053,23,190
+advertisements,global_group,2008,global north,0.847458,50,59
+advertisements,global_group,2008,global south,0.152542,9,59
+advertisements,global_group,2009,global north,0.913978,85,93
+advertisements,global_group,2009,global south,0.086022,8,93
+advertisements,global_group,2010,global north,0.931298,122,131
+advertisements,global_group,2010,global south,0.068702,9,131
+advertisements,global_group,2011,global north,0.946667,142,150
+advertisements,global_group,2011,global south,0.053333,8,150
+advertisements,global_group,2012,global north,0.966216,143,148
+advertisements,global_group,2012,global south,0.033784,5,148
+advertisements,global_group,2013,global north,0.922680,179,194
+advertisements,global_group,2013,global south,0.077320,15,194
+advertisements,global_group,2014,global north,0.928571,169,182
+advertisements,global_group,2014,global south,0.071429,13,182
+advertisements,global_group,2016,global north,0.800000,220,275
+advertisements,global_group,2016,global south,0.200000,55,275
+advertisements,global_group,2007,global north,0.923077,12,13
+advertisements,global_group,2007,global south,0.076923,1,13
+advertisements,global_group,2003,global north,1.000000,2,2
+advertisements,global_group,1998,global north,0.750000,3,4
+advertisements,global_group,1998,global south,0.250000,1,4
+advertisements,global_group,2000,global north,1.000000,2,2
+advertisements,global_group,2001,global north,1.000000,3,3
+advertisements,global_group,2004,global north,1.000000,5,5
+advertisements,global_group,2006,global south,0.571429,4,7
+advertisements,global_group,2006,global north,0.428571,3,7
+advertisements,global_group,2002,global north,1.000000,1,1
+advertisements,global_group,2005,global north,1.000000,3,3
+advertisements,global_group,1995,global north,1.000000,7,7
+advertisements,global_group,1996,global north,0.800000,4,5
+advertisements,global_group,1996,global south,0.200000,1,5
+advertisements,global_group,1997,global north,1.000000,3,3
+advertisements,global_group,1990,global north,1.000000,1,1
+advertisements,global_group,1992,global north,1.000000,2,2
+advertisements,global_group,1993,global north,1.000000,5,5
+advertisements,global_group,1994,global north,0.800000,4,5
+advertisements,global_group,1994,global south,0.200000,1,5
+advertisements,global_group,1991,global north,1.000000,2,2
+advertisements,global_group,1987,global north,1.000000,1,1
+advertisements,global_group,1989,global north,1.000000,3,3
+advertisements,global_group,1980,global north,1.000000,1,1
+magazine_covers,hair,2007,black,0.393939,13,33
+magazine_covers,hair,2007,brown,0.242424,8,33
+magazine_covers,hair,2007,blonde,0.212121,7,33
+magazine_covers,hair,2007,light brown,0.060606,2,33
+magazine_covers,hair,2007,dark blonde,0.030303,1,33
+magazine_covers,hair,2007,dark brown,0.030303,1,33
+magazine_covers,hair,2007,red,0.030303,1,33
+magazine_covers,hair,2016,brown,0.393258,35,89
+magazine_covers,hair,2016,black,0.235955,21,89
+magazine_covers,hair,2016,dark brown,0.191011,17,89
+magazine_covers,hair,2016,dark blonde,0.089888,8,89
+magazine_covers,hair,2016,blonde,0.067416,6,89
+magazine_covers,hair,2016,light blonde,0.022472,2,89
+magazine_covers,hair,2017,brown,0.326923,34,104
+magazine_covers,hair,2017,black,0.250000,26,104
+magazine_covers,hair,2017,dark brown,0.182692,19,104
+magazine_covers,hair,2017,blonde,0.105769,11,104
+magazine_covers,hair,2017,dark blonde,0.076923,8,104
+magazine_covers,hair,2017,light blonde,0.019231,2,104
+magazine_covers,hair,2017,white,0.019231,2,104
+magazine_covers,hair,2017,light brown,0.019231,2,104
+magazine_covers,hair,2019,brown,0.379845,49,129
+magazine_covers,hair,2019,black,0.178295,23,129
+magazine_covers,hair,2019,dark brown,0.162791,21,129
+magazine_covers,hair,2019,dark blonde,0.116279,15,129
+magazine_covers,hair,2019,blonde,0.062016,8,129
+magazine_covers,hair,2019,light brown,0.054264,7,129
+magazine_covers,hair,2019,red,0.031008,4,129
+magazine_covers,hair,2019,light blonde,0.015504,2,129
+magazine_covers,hair,2020,black,0.358333,43,120
+magazine_covers,hair,2020,brown,0.283333,34,120
+magazine_covers,hair,2020,dark brown,0.183333,22,120
+magazine_covers,hair,2020,dark blonde,0.108333,13,120
+magazine_covers,hair,2020,light brown,0.041667,5,120
+magazine_covers,hair,2020,blonde,0.016667,2,120
+magazine_covers,hair,2020,red,0.008333,1,120
+magazine_covers,hair,2015,brown,0.328767,24,73
+magazine_covers,hair,2015,dark brown,0.205479,15,73
+magazine_covers,hair,2015,dark blonde,0.178082,13,73
+magazine_covers,hair,2015,black,0.150685,11,73
+magazine_covers,hair,2015,blonde,0.123288,9,73
+magazine_covers,hair,2015,light brown,0.013699,1,73
+magazine_covers,hair,2022,black,0.419753,34,81
+magazine_covers,hair,2022,brown,0.209877,17,81
+magazine_covers,hair,2022,dark brown,0.148148,12,81
+magazine_covers,hair,2022,blonde,0.098765,8,81
+magazine_covers,hair,2022,dark blonde,0.061728,5,81
+magazine_covers,hair,2022,light brown,0.037037,3,81
+magazine_covers,hair,2022,red,0.024691,2,81
+magazine_covers,hair,2023,brown,0.412500,33,80
+magazine_covers,hair,2023,black,0.262500,21,80
+magazine_covers,hair,2023,dark brown,0.175000,14,80
+magazine_covers,hair,2023,blonde,0.075000,6,80
+magazine_covers,hair,2023,dark blonde,0.037500,3,80
+magazine_covers,hair,2023,light brown,0.025000,2,80
+magazine_covers,hair,2023,light blonde,0.012500,1,80
+magazine_covers,hair,2024,brown,0.270588,23,85
+magazine_covers,hair,2024,black,0.235294,20,85
+magazine_covers,hair,2024,blonde,0.164706,14,85
+magazine_covers,hair,2024,dark brown,0.164706,14,85
+magazine_covers,hair,2024,dark blonde,0.070588,6,85
+magazine_covers,hair,2024,light blonde,0.058824,5,85
+magazine_covers,hair,2024,light brown,0.035294,3,85
+magazine_covers,hair,2005,black,0.304348,7,23
+magazine_covers,hair,2005,light brown,0.304348,7,23
+magazine_covers,hair,2005,dark brown,0.130435,3,23
+magazine_covers,hair,2005,dark blonde,0.130435,3,23
+magazine_covers,hair,2005,blonde,0.086957,2,23
+magazine_covers,hair,2005,brown,0.043478,1,23
+magazine_covers,hair,2008,black,0.400000,16,40
+magazine_covers,hair,2008,brown,0.150000,6,40
+magazine_covers,hair,2008,dark blonde,0.150000,6,40
+magazine_covers,hair,2008,dark brown,0.125000,5,40
+magazine_covers,hair,2008,blonde,0.100000,4,40
+magazine_covers,hair,2008,light brown,0.075000,3,40
+magazine_covers,hair,2009,black,0.317073,13,41
+magazine_covers,hair,2009,light brown,0.219512,9,41
+magazine_covers,hair,2009,blonde,0.170732,7,41
+magazine_covers,hair,2009,brown,0.146341,6,41
+magazine_covers,hair,2009,dark blonde,0.121951,5,41
+magazine_covers,hair,2009,dark brown,0.024390,1,41
+magazine_covers,hair,2010,dark blonde,0.272727,15,55
+magazine_covers,hair,2010,black,0.254545,14,55
+magazine_covers,hair,2010,brown,0.163636,9,55
+magazine_covers,hair,2010,light brown,0.127273,7,55
+magazine_covers,hair,2010,blonde,0.090909,5,55
+magazine_covers,hair,2010,dark brown,0.054545,3,55
+magazine_covers,hair,2010,chestnut,0.036364,2,55
+magazine_covers,hair,2011,black,0.250000,24,96
+magazine_covers,hair,2011,light blonde,0.208333,20,96
+magazine_covers,hair,2011,brown,0.166667,16,96
+magazine_covers,hair,2011,dark blonde,0.135417,13,96
+magazine_covers,hair,2011,blonde,0.093750,9,96
+magazine_covers,hair,2011,light brown,0.093750,9,96
+magazine_covers,hair,2011,dark brown,0.052083,5,96
+magazine_covers,hair,2012,brown,0.252101,30,119
+magazine_covers,hair,2012,black,0.201681,24,119
+magazine_covers,hair,2012,dark blonde,0.201681,24,119
+magazine_covers,hair,2012,blonde,0.134454,16,119
+magazine_covers,hair,2012,dark brown,0.117647,14,119
+magazine_covers,hair,2012,light blonde,0.067227,8,119
+magazine_covers,hair,2012,light brown,0.025210,3,119
+magazine_covers,hair,2014,brown,0.275362,19,69
+magazine_covers,hair,2014,dark blonde,0.246377,17,69
+magazine_covers,hair,2014,dark brown,0.188406,13,69
+magazine_covers,hair,2014,blonde,0.115942,8,69
+magazine_covers,hair,2014,black,0.072464,5,69
+magazine_covers,hair,2014,light brown,0.072464,5,69
+magazine_covers,hair,2014,red,0.028986,2,69
+magazine_covers,hair,2018,black,0.291667,28,96
+magazine_covers,hair,2018,brown,0.281250,27,96
+magazine_covers,hair,2018,dark brown,0.229167,22,96
+magazine_covers,hair,2018,dark blonde,0.125000,12,96
+magazine_covers,hair,2018,light brown,0.031250,3,96
+magazine_covers,hair,2018,blonde,0.031250,3,96
+magazine_covers,hair,2018,light blonde,0.010417,1,96
+magazine_covers,hair,2021,brown,0.333333,35,105
+magazine_covers,hair,2021,dark brown,0.276190,29,105
+magazine_covers,hair,2021,black,0.209524,22,105
+magazine_covers,hair,2021,blonde,0.066667,7,105
+magazine_covers,hair,2021,light brown,0.047619,5,105
+magazine_covers,hair,2021,dark blonde,0.047619,5,105
+magazine_covers,hair,2021,chestnut,0.019048,2,105
+magazine_covers,hair,2002,blonde,0.444444,8,18
+magazine_covers,hair,2002,dark brown,0.222222,4,18
+magazine_covers,hair,2002,light brown,0.166667,3,18
+magazine_covers,hair,2002,black,0.055556,1,18
+magazine_covers,hair,2002,dark blonde,0.055556,1,18
+magazine_covers,hair,2002,brown,0.055556,1,18
+magazine_covers,hair,2013,black,0.257812,33,128
+magazine_covers,hair,2013,brown,0.210938,27,128
+magazine_covers,hair,2013,blonde,0.148438,19,128
+magazine_covers,hair,2013,dark blonde,0.132812,17,128
+magazine_covers,hair,2013,dark brown,0.109375,14,128
+magazine_covers,hair,2013,auburn,0.070312,9,128
+magazine_covers,hair,2013,light blonde,0.054688,7,128
+magazine_covers,hair,2013,red / blonde,0.015625,2,128
+magazine_covers,hair,2006,black,0.360000,9,25
+magazine_covers,hair,2006,dark blonde,0.240000,6,25
+magazine_covers,hair,2006,brown,0.120000,3,25
+magazine_covers,hair,2006,light brown,0.120000,3,25
+magazine_covers,hair,2006,dark brown,0.120000,3,25
+magazine_covers,hair,2006,blonde,0.040000,1,25
+magazine_covers,hair,2003,blonde,0.312500,5,16
+magazine_covers,hair,2003,light brown,0.250000,4,16
+magazine_covers,hair,2003,brown,0.187500,3,16
+magazine_covers,hair,2003,red / blonde,0.125000,2,16
+magazine_covers,hair,2003,black,0.125000,2,16
+magazine_covers,hair,1995,dark brown,0.875000,14,16
+magazine_covers,hair,1995,brown,0.125000,2,16
+magazine_covers,hair,1996,dark brown,0.880000,22,25
+magazine_covers,hair,1996,red / blonde,0.080000,2,25
+magazine_covers,hair,1996,blonde,0.040000,1,25
+magazine_covers,hair,1998,dark brown,0.470588,8,17
+magazine_covers,hair,1998,blonde,0.352941,6,17
+magazine_covers,hair,1998,black,0.117647,2,17
+magazine_covers,hair,1998,brown,0.058824,1,17
+magazine_covers,hair,2000,dark brown,0.437500,7,16
+magazine_covers,hair,2000,blonde,0.375000,6,16
+magazine_covers,hair,2000,black,0.125000,2,16
+magazine_covers,hair,2000,brown,0.062500,1,16
+magazine_covers,hair,2001,dark brown,0.500000,6,12
+magazine_covers,hair,2001,blonde,0.416667,5,12
+magazine_covers,hair,2001,brown,0.083333,1,12
+magazine_covers,hair,2004,light brown,0.363636,4,11
+magazine_covers,hair,2004,black,0.181818,2,11
+magazine_covers,hair,2004,brown,0.181818,2,11
+magazine_covers,hair,2004,blonde,0.090909,1,11
+magazine_covers,hair,2004,dark brown,0.090909,1,11
+magazine_covers,hair,2004,dark blonde,0.090909,1,11
+magazine_covers,hair,1997,dark brown,0.882353,15,17
+magazine_covers,hair,1997,black,0.058824,1,17
+magazine_covers,hair,1997,blonde,0.058824,1,17
+magazine_covers,hair,1999,blonde,0.500000,8,16
+magazine_covers,hair,1999,dark brown,0.312500,5,16
+magazine_covers,hair,1999,black,0.187500,3,16
+magazine_covers,hair,1986,blonde,0.333333,2,6
+magazine_covers,hair,1986,dark brown,0.333333,2,6
+magazine_covers,hair,1986,grey,0.166667,1,6
+magazine_covers,hair,1986,red / blonde,0.166667,1,6
+magazine_covers,hair,1993,dark brown,1.000000,8,8
+magazine_covers,hair,1994,dark brown,0.857143,6,7
+magazine_covers,hair,1994,grey,0.142857,1,7
+magazine_covers,hair,1991,dark brown,1.000000,2,2
+magazine_covers,hair,1990,dark brown,1.000000,2,2
+magazine_covers,hair,1984,dark brown,0.666667,2,3
+magazine_covers,hair,1984,blonde,0.333333,1,3
+magazine_covers,hair,1985,blonde,0.666667,2,3
+magazine_covers,hair,1985,grey,0.333333,1,3
+magazine_covers,hair,1974,blonde,1.000000,1,1
+magazine_covers,hair,1975,blonde,1.000000,4,4
+magazine_covers,hair,1976,blonde,1.000000,4,4
+magazine_covers,hair,1977,blonde,1.000000,1,1
+magazine_covers,hair,1978,blonde,1.000000,1,1
+magazine_covers,eyes,2007,brown,0.454545,15,33
+magazine_covers,eyes,2007,blue,0.303030,10,33
+magazine_covers,eyes,2007,green,0.181818,6,33
+magazine_covers,eyes,2007,blue / green,0.060606,2,33
+magazine_covers,eyes,2016,brown,0.370787,33,89
+magazine_covers,eyes,2016,blue,0.213483,19,89
+magazine_covers,eyes,2016,green,0.168539,15,89
+magazine_covers,eyes,2016,hazel,0.134831,12,89
+magazine_covers,eyes,2016,black,0.044944,4,89
+magazine_covers,eyes,2016,blue / green,0.033708,3,89
+magazine_covers,eyes,2016,grey,0.033708,3,89
+magazine_covers,eyes,2017,brown,0.451923,47,104
+magazine_covers,eyes,2017,green,0.250000,26,104
+magazine_covers,eyes,2017,blue,0.182692,19,104
+magazine_covers,eyes,2017,grey,0.048077,5,104
+magazine_covers,eyes,2017,hazel,0.038462,4,104
+magazine_covers,eyes,2017,blue / green,0.019231,2,104
+magazine_covers,eyes,2017,black,0.009615,1,104
+magazine_covers,eyes,2019,brown,0.434109,56,129
+magazine_covers,eyes,2019,blue,0.248062,32,129
+magazine_covers,eyes,2019,green,0.186047,24,129
+magazine_covers,eyes,2019,blue / green,0.054264,7,129
+magazine_covers,eyes,2019,hazel,0.031008,4,129
+magazine_covers,eyes,2019,black,0.023256,3,129
+magazine_covers,eyes,2019,grey,0.007752,1,129
+magazine_covers,eyes,2019,brown / hazel,0.007752,1,129
+magazine_covers,eyes,2019,blue / grey,0.007752,1,129
+magazine_covers,eyes,2020,brown,0.675000,81,120
+magazine_covers,eyes,2020,blue,0.141667,17,120
+magazine_covers,eyes,2020,hazel,0.058333,7,120
+magazine_covers,eyes,2020,green,0.041667,5,120
+magazine_covers,eyes,2020,black,0.041667,5,120
+magazine_covers,eyes,2020,blue / green,0.025000,3,120
+magazine_covers,eyes,2020,brown / hazel,0.016667,2,120
+magazine_covers,eyes,2015,brown,0.369863,27,73
+magazine_covers,eyes,2015,blue,0.246575,18,73
+magazine_covers,eyes,2015,green,0.191781,14,73
+magazine_covers,eyes,2015,hazel,0.068493,5,73
+magazine_covers,eyes,2015,blue / green,0.054795,4,73
+magazine_covers,eyes,2015,grey,0.041096,3,73
+magazine_covers,eyes,2015,brown / hazel,0.013699,1,73
+magazine_covers,eyes,2015,black,0.013699,1,73
+magazine_covers,eyes,2022,brown,0.543210,44,81
+magazine_covers,eyes,2022,blue,0.271605,22,81
+magazine_covers,eyes,2022,black,0.074074,6,81
+magazine_covers,eyes,2022,blue / green,0.049383,4,81
+magazine_covers,eyes,2022,green,0.037037,3,81
+magazine_covers,eyes,2022,dark brown,0.024691,2,81
+magazine_covers,eyes,2023,brown,0.450000,36,80
+magazine_covers,eyes,2023,blue,0.287500,23,80
+magazine_covers,eyes,2023,green,0.162500,13,80
+magazine_covers,eyes,2023,hazel,0.037500,3,80
+magazine_covers,eyes,2023,blue / grey,0.037500,3,80
+magazine_covers,eyes,2023,black,0.012500,1,80
+magazine_covers,eyes,2023,blue / green,0.012500,1,80
+magazine_covers,eyes,2024,brown,0.400000,34,85
+magazine_covers,eyes,2024,blue,0.341176,29,85
+magazine_covers,eyes,2024,green,0.082353,7,85
+magazine_covers,eyes,2024,hazel,0.047059,4,85
+magazine_covers,eyes,2024,dark brown,0.035294,3,85
+magazine_covers,eyes,2024,black,0.035294,3,85
+magazine_covers,eyes,2024,blue / grey,0.023529,2,85
+magazine_covers,eyes,2024,blue / green,0.023529,2,85
+magazine_covers,eyes,2024,green / brown,0.011765,1,85
+magazine_covers,eyes,2005,brown,0.478261,11,23
+magazine_covers,eyes,2005,blue,0.478261,11,23
+magazine_covers,eyes,2005,hazel,0.043478,1,23
+magazine_covers,eyes,2008,brown,0.500000,20,40
+magazine_covers,eyes,2008,blue,0.400000,16,40
+magazine_covers,eyes,2008,green,0.050000,2,40
+magazine_covers,eyes,2008,hazel,0.025000,1,40
+magazine_covers,eyes,2008,blue / green,0.025000,1,40
+magazine_covers,eyes,2009,blue,0.439024,18,41
+magazine_covers,eyes,2009,brown,0.439024,18,41
+magazine_covers,eyes,2009,green,0.073171,3,41
+magazine_covers,eyes,2009,blue / green,0.048780,2,41
+magazine_covers,eyes,2010,brown,0.490909,27,55
+magazine_covers,eyes,2010,blue,0.327273,18,55
+magazine_covers,eyes,2010,blue / green,0.072727,4,55
+magazine_covers,eyes,2010,green,0.054545,3,55
+magazine_covers,eyes,2010,hazel,0.036364,2,55
+magazine_covers,eyes,2010,dark brown,0.018182,1,55
+magazine_covers,eyes,2011,blue,0.322917,31,96
+magazine_covers,eyes,2011,green,0.312500,30,96
+magazine_covers,eyes,2011,brown,0.260417,25,96
+magazine_covers,eyes,2011,blue / green,0.062500,6,96
+magazine_covers,eyes,2011,dark brown,0.031250,3,96
+magazine_covers,eyes,2011,brown / hazel,0.010417,1,96
+magazine_covers,eyes,2012,blue,0.378151,45,119
+magazine_covers,eyes,2012,green,0.210084,25,119
+magazine_covers,eyes,2012,brown,0.151261,18,119
+magazine_covers,eyes,2012,blue / green,0.142857,17,119
+magazine_covers,eyes,2012,black,0.050420,6,119
+magazine_covers,eyes,2012,dark brown,0.033613,4,119
+magazine_covers,eyes,2012,green / hazel,0.016807,2,119
+magazine_covers,eyes,2012,brown / hazel,0.008403,1,119
+magazine_covers,eyes,2012,hazel,0.008403,1,119
+magazine_covers,eyes,2014,blue,0.536232,37,69
+magazine_covers,eyes,2014,brown,0.304348,21,69
+magazine_covers,eyes,2014,blue / green,0.057971,4,69
+magazine_covers,eyes,2014,green,0.057971,4,69
+magazine_covers,eyes,2014,hazel,0.014493,1,69
+magazine_covers,eyes,2014,grey,0.014493,1,69
+magazine_covers,eyes,2014,brown / hazel,0.014493,1,69
+magazine_covers,eyes,2018,brown,0.489583,47,96
+magazine_covers,eyes,2018,green,0.177083,17,96
+magazine_covers,eyes,2018,blue,0.177083,17,96
+magazine_covers,eyes,2018,black,0.072917,7,96
+magazine_covers,eyes,2018,blue / green,0.041667,4,96
+magazine_covers,eyes,2018,hazel,0.020833,2,96
+magazine_covers,eyes,2018,brown / hazel,0.020833,2,96
+magazine_covers,eyes,2021,brown,0.485714,51,105
+magazine_covers,eyes,2021,blue,0.219048,23,105
+magazine_covers,eyes,2021,green,0.133333,14,105
+magazine_covers,eyes,2021,hazel,0.057143,6,105
+magazine_covers,eyes,2021,brown / hazel,0.047619,5,105
+magazine_covers,eyes,2021,blue / green,0.038095,4,105
+magazine_covers,eyes,2021,dark brown,0.019048,2,105
+magazine_covers,eyes,2002,blue,0.777778,14,18
+magazine_covers,eyes,2002,brown,0.111111,2,18
+magazine_covers,eyes,2002,hazel,0.111111,2,18
+magazine_covers,eyes,2013,brown,0.335938,43,128
+magazine_covers,eyes,2013,blue,0.312500,40,128
+magazine_covers,eyes,2013,green,0.218750,28,128
+magazine_covers,eyes,2013,blue / green,0.078125,10,128
+magazine_covers,eyes,2013,black,0.023438,3,128
+magazine_covers,eyes,2013,hazel,0.015625,2,128
+magazine_covers,eyes,2013,brown / hazel,0.007812,1,128
+magazine_covers,eyes,2013,brown / green,0.007812,1,128
+magazine_covers,eyes,2006,brown,0.640000,16,25
+magazine_covers,eyes,2006,blue,0.280000,7,25
+magazine_covers,eyes,2006,green,0.040000,1,25
+magazine_covers,eyes,2006,blue / green,0.040000,1,25
+magazine_covers,eyes,2003,blue,0.500000,8,16
+magazine_covers,eyes,2003,brown,0.250000,4,16
+magazine_covers,eyes,2003,blue / green,0.125000,2,16
+magazine_covers,eyes,2003,green,0.125000,2,16
+magazine_covers,eyes,1995,blue,0.812500,13,16
+magazine_covers,eyes,1995,green,0.187500,3,16
+magazine_covers,eyes,1996,blue,0.800000,20,25
+magazine_covers,eyes,1996,green,0.160000,4,25
+magazine_covers,eyes,1996,hazel,0.040000,1,25
+magazine_covers,eyes,1998,blue,0.764706,13,17
+magazine_covers,eyes,1998,brown,0.117647,2,17
+magazine_covers,eyes,1998,green,0.117647,2,17
+magazine_covers,eyes,2000,blue,0.562500,9,16
+magazine_covers,eyes,2000,hazel,0.250000,4,16
+magazine_covers,eyes,2000,brown,0.125000,2,16
+magazine_covers,eyes,2000,green,0.062500,1,16
+magazine_covers,eyes,2001,blue,0.750000,9,12
+magazine_covers,eyes,2001,hazel,0.083333,1,12
+magazine_covers,eyes,2001,brown,0.083333,1,12
+magazine_covers,eyes,2001,green,0.083333,1,12
+magazine_covers,eyes,2004,blue,0.454545,5,11
+magazine_covers,eyes,2004,brown,0.363636,4,11
+magazine_covers,eyes,2004,hazel,0.090909,1,11
+magazine_covers,eyes,2004,green,0.090909,1,11
+magazine_covers,eyes,1997,blue,0.588235,10,17
+magazine_covers,eyes,1997,green,0.294118,5,17
+magazine_covers,eyes,1997,brown,0.058824,1,17
+magazine_covers,eyes,1997,hazel,0.058824,1,17
+magazine_covers,eyes,1999,blue,0.812500,13,16
+magazine_covers,eyes,1999,brown,0.187500,3,16
+magazine_covers,eyes,1986,blue,0.666667,4,6
+magazine_covers,eyes,1986,hazel,0.333333,2,6
+magazine_covers,eyes,1993,blue,0.750000,6,8
+magazine_covers,eyes,1993,green,0.250000,2,8
+magazine_covers,eyes,1994,green,0.714286,5,7
+magazine_covers,eyes,1994,blue,0.285714,2,7
+magazine_covers,eyes,1991,blue,1.000000,2,2
+magazine_covers,eyes,1990,blue,1.000000,2,2
+magazine_covers,eyes,1984,hazel,0.666667,2,3
+magazine_covers,eyes,1984,blue,0.333333,1,3
+magazine_covers,eyes,1985,blue,1.000000,3,3
+magazine_covers,eyes,1974,blue,1.000000,1,1
+magazine_covers,eyes,1975,blue,1.000000,4,4
+magazine_covers,eyes,1976,blue,1.000000,4,4
+magazine_covers,eyes,1977,blue,1.000000,1,1
+magazine_covers,eyes,1978,blue,1.000000,1,1
+magazine_covers,world_region,2007,north america,0.333333,11,33
+magazine_covers,world_region,2007,east asia,0.303030,10,33
+magazine_covers,world_region,2007,western europe,0.242424,8,33
+magazine_covers,world_region,2007,southeast asia,0.030303,1,33
+magazine_covers,world_region,2007,central asia,0.030303,1,33
+magazine_covers,world_region,2007,southern europe,0.030303,1,33
+magazine_covers,world_region,2007,eastern europe,0.030303,1,33
+magazine_covers,world_region,2016,north america,0.370787,33,89
+magazine_covers,world_region,2016,western europe,0.179775,16,89
+magazine_covers,world_region,2016,southern europe,0.134831,12,89
+magazine_covers,world_region,2016,south america,0.089888,8,89
+magazine_covers,world_region,2016,east asia,0.089888,8,89
+magazine_covers,world_region,2016,oceania,0.056180,5,89
+magazine_covers,world_region,2016,eastern europe,0.056180,5,89
+magazine_covers,world_region,2016,southeast asia,0.011236,1,89
+magazine_covers,world_region,2016,middle east,0.011236,1,89
+magazine_covers,world_region,2017,north america,0.394231,41,104
+magazine_covers,world_region,2017,western europe,0.192308,20,104
+magazine_covers,world_region,2017,south america,0.105769,11,104
+magazine_covers,world_region,2017,oceania,0.086538,9,104
+magazine_covers,world_region,2017,eastern europe,0.057692,6,104
+magazine_covers,world_region,2017,east asia,0.048077,5,104
+magazine_covers,world_region,2017,southern europe,0.038462,4,104
+magazine_covers,world_region,2017,sub-saharan africa,0.028846,3,104
+magazine_covers,world_region,2017,caribbean,0.019231,2,104
+magazine_covers,world_region,2017,middle east,0.019231,2,104
+magazine_covers,world_region,2017,northern europe,0.009615,1,104
+magazine_covers,world_region,2019,western europe,0.395349,51,129
+magazine_covers,world_region,2019,north america,0.255814,33,129
+magazine_covers,world_region,2019,southern europe,0.085271,11,129
+magazine_covers,world_region,2019,east asia,0.085271,11,129
+magazine_covers,world_region,2019,south america,0.069767,9,129
+magazine_covers,world_region,2019,sub-saharan africa,0.054264,7,129
+magazine_covers,world_region,2019,oceania,0.015504,2,129
+magazine_covers,world_region,2019,caribbean,0.015504,2,129
+magazine_covers,world_region,2019,eastern europe,0.015504,2,129
+magazine_covers,world_region,2019,southeast asia,0.007752,1,129
+magazine_covers,world_region,2020,western europe,0.225000,27,120
+magazine_covers,world_region,2020,east asia,0.225000,27,120
+magazine_covers,world_region,2020,north america,0.216667,26,120
+magazine_covers,world_region,2020,south america,0.133333,16,120
+magazine_covers,world_region,2020,sub-saharan africa,0.058333,7,120
+magazine_covers,world_region,2020,southern europe,0.041667,5,120
+magazine_covers,world_region,2020,caribbean,0.025000,3,120
+magazine_covers,world_region,2020,northern europe,0.025000,3,120
+magazine_covers,world_region,2020,oceania,0.016667,2,120
+magazine_covers,world_region,2020,eastern europe,0.008333,1,120
+magazine_covers,world_region,2020,southeast asia,0.008333,1,120
+magazine_covers,world_region,2020,south asia,0.008333,1,120
+magazine_covers,world_region,2020,north africa,0.008333,1,120
+magazine_covers,world_region,2015,western europe,0.287671,21,73
+magazine_covers,world_region,2015,north america,0.287671,21,73
+magazine_covers,world_region,2015,eastern europe,0.109589,8,73
+magazine_covers,world_region,2015,southern europe,0.095890,7,73
+magazine_covers,world_region,2015,south america,0.082192,6,73
+magazine_covers,world_region,2015,east asia,0.068493,5,73
+magazine_covers,world_region,2015,oceania,0.027397,2,73
+magazine_covers,world_region,2015,caribbean,0.027397,2,73
+magazine_covers,world_region,2015,sub-saharan africa,0.013699,1,73
+magazine_covers,world_region,2022,east asia,0.283951,23,81
+magazine_covers,world_region,2022,western europe,0.259259,21,81
+magazine_covers,world_region,2022,north america,0.197531,16,81
+magazine_covers,world_region,2022,oceania,0.049383,4,81
+magazine_covers,world_region,2022,south america,0.049383,4,81
+magazine_covers,world_region,2022,sub-saharan africa,0.037037,3,81
+magazine_covers,world_region,2022,eastern europe,0.037037,3,81
+magazine_covers,world_region,2022,northern europe,0.037037,3,81
+magazine_covers,world_region,2022,southern europe,0.024691,2,81
+magazine_covers,world_region,2022,middle east,0.024691,2,81
+magazine_covers,world_region,2023,north america,0.412500,33,80
+magazine_covers,world_region,2023,western europe,0.187500,15,80
+magazine_covers,world_region,2023,sub-saharan africa,0.087500,7,80
+magazine_covers,world_region,2023,east asia,0.087500,7,80
+magazine_covers,world_region,2023,northern europe,0.050000,4,80
+magazine_covers,world_region,2023,southern europe,0.050000,4,80
+magazine_covers,world_region,2023,south america,0.037500,3,80
+magazine_covers,world_region,2023,middle east,0.037500,3,80
+magazine_covers,world_region,2023,eastern europe,0.025000,2,80
+magazine_covers,world_region,2023,oceania,0.012500,1,80
+magazine_covers,world_region,2023,south asia,0.012500,1,80
+magazine_covers,world_region,2024,north america,0.247059,21,85
+magazine_covers,world_region,2024,western europe,0.235294,20,85
+magazine_covers,world_region,2024,sub-saharan africa,0.105882,9,85
+magazine_covers,world_region,2024,east asia,0.094118,8,85
+magazine_covers,world_region,2024,southern europe,0.082353,7,85
+magazine_covers,world_region,2024,south america,0.082353,7,85
+magazine_covers,world_region,2024,northern europe,0.070588,6,85
+magazine_covers,world_region,2024,eastern europe,0.023529,2,85
+magazine_covers,world_region,2024,north africa,0.023529,2,85
+magazine_covers,world_region,2024,middle east,0.023529,2,85
+magazine_covers,world_region,2024,caribbean,0.011765,1,85
+magazine_covers,world_region,2005,western europe,0.347826,8,23
+magazine_covers,world_region,2005,north america,0.347826,8,23
+magazine_covers,world_region,2005,east asia,0.217391,5,23
+magazine_covers,world_region,2005,southeast asia,0.043478,1,23
+magazine_covers,world_region,2005,southern europe,0.043478,1,23
+magazine_covers,world_region,2008,western europe,0.350000,14,40
+magazine_covers,world_region,2008,east asia,0.300000,12,40
+magazine_covers,world_region,2008,north america,0.250000,10,40
+magazine_covers,world_region,2008,southern europe,0.050000,2,40
+magazine_covers,world_region,2008,middle east,0.025000,1,40
+magazine_covers,world_region,2008,southeast asia,0.025000,1,40
+magazine_covers,world_region,2009,western europe,0.439024,18,41
+magazine_covers,world_region,2009,east asia,0.219512,9,41
+magazine_covers,world_region,2009,north america,0.170732,7,41
+magazine_covers,world_region,2009,eastern europe,0.073171,3,41
+magazine_covers,world_region,2009,northern europe,0.048780,2,41
+magazine_covers,world_region,2009,central asia,0.024390,1,41
+magazine_covers,world_region,2009,southern europe,0.024390,1,41
+magazine_covers,world_region,2010,western europe,0.345455,19,55
+magazine_covers,world_region,2010,north america,0.290909,16,55
+magazine_covers,world_region,2010,east asia,0.145455,8,55
+magazine_covers,world_region,2010,eastern europe,0.127273,7,55
+magazine_covers,world_region,2010,southern europe,0.072727,4,55
+magazine_covers,world_region,2010,oceania,0.018182,1,55
+magazine_covers,world_region,2011,oceania,0.281250,27,96
+magazine_covers,world_region,2011,western europe,0.250000,24,96
+magazine_covers,world_region,2011,east asia,0.166667,16,96
+magazine_covers,world_region,2011,north america,0.125000,12,96
+magazine_covers,world_region,2011,eastern europe,0.072917,7,96
+magazine_covers,world_region,2011,central asia,0.020833,2,96
+magazine_covers,world_region,2011,southeast asia,0.020833,2,96
+magazine_covers,world_region,2011,middle east,0.020833,2,96
+magazine_covers,world_region,2011,sub-saharan africa,0.020833,2,96
+magazine_covers,world_region,2011,southern europe,0.020833,2,96
+magazine_covers,world_region,2012,western europe,0.327731,39,119
+magazine_covers,world_region,2012,north america,0.201681,24,119
+magazine_covers,world_region,2012,oceania,0.117647,14,119
+magazine_covers,world_region,2012,east asia,0.092437,11,119
+magazine_covers,world_region,2012,eastern europe,0.067227,8,119
+magazine_covers,world_region,2012,southern europe,0.050420,6,119
+magazine_covers,world_region,2012,southeast asia,0.050420,6,119
+magazine_covers,world_region,2012,sub-saharan africa,0.050420,6,119
+magazine_covers,world_region,2012,central asia,0.025210,3,119
+magazine_covers,world_region,2012,middle east,0.016807,2,119
+magazine_covers,world_region,2014,north america,0.420290,29,69
+magazine_covers,world_region,2014,western europe,0.391304,27,69
+magazine_covers,world_region,2014,southern europe,0.086957,6,69
+magazine_covers,world_region,2014,eastern europe,0.043478,3,69
+magazine_covers,world_region,2014,east asia,0.028986,2,69
+magazine_covers,world_region,2014,south america,0.028986,2,69
+magazine_covers,world_region,2018,north america,0.302083,29,96
+magazine_covers,world_region,2018,western europe,0.218750,21,96
+magazine_covers,world_region,2018,south america,0.135417,13,96
+magazine_covers,world_region,2018,east asia,0.114583,11,96
+magazine_covers,world_region,2018,southern europe,0.104167,10,96
+magazine_covers,world_region,2018,oceania,0.062500,6,96
+magazine_covers,world_region,2018,eastern europe,0.052083,5,96
+magazine_covers,world_region,2018,sub-saharan africa,0.010417,1,96
+magazine_covers,world_region,2021,western europe,0.352381,37,105
+magazine_covers,world_region,2021,north america,0.276190,29,105
+magazine_covers,world_region,2021,south america,0.123810,13,105
+magazine_covers,world_region,2021,southern europe,0.076190,8,105
+magazine_covers,world_region,2021,sub-saharan africa,0.066667,7,105
+magazine_covers,world_region,2021,east asia,0.066667,7,105
+magazine_covers,world_region,2021,middle east,0.019048,2,105
+magazine_covers,world_region,2021,southeast asia,0.009524,1,105
+magazine_covers,world_region,2021,eastern europe,0.009524,1,105
+magazine_covers,world_region,2002,north america,0.444444,8,18
+magazine_covers,world_region,2002,western europe,0.388889,7,18
+magazine_covers,world_region,2002,southern europe,0.111111,2,18
+magazine_covers,world_region,2002,middle east,0.055556,1,18
+magazine_covers,world_region,2013,western europe,0.289062,37,128
+magazine_covers,world_region,2013,eastern europe,0.210938,27,128
+magazine_covers,world_region,2013,east asia,0.156250,20,128
+magazine_covers,world_region,2013,oceania,0.132812,17,128
+magazine_covers,world_region,2013,north america,0.109375,14,128
+magazine_covers,world_region,2013,southern europe,0.054688,7,128
+magazine_covers,world_region,2013,middle east,0.023438,3,128
+magazine_covers,world_region,2013,south america,0.023438,3,128
+magazine_covers,world_region,2006,north america,0.360000,9,25
+magazine_covers,world_region,2006,east asia,0.320000,8,25
+magazine_covers,world_region,2006,western europe,0.200000,5,25
+magazine_covers,world_region,2006,eastern europe,0.080000,2,25
+magazine_covers,world_region,2006,south america,0.040000,1,25
+magazine_covers,world_region,2003,north america,0.562500,9,16
+magazine_covers,world_region,2003,western europe,0.312500,5,16
+magazine_covers,world_region,2003,middle east,0.125000,2,16
+magazine_covers,world_region,1995,north america,0.500000,8,16
+magazine_covers,world_region,1995,middle east,0.375000,6,16
+magazine_covers,world_region,1995,western europe,0.125000,2,16
+magazine_covers,world_region,1996,north america,0.720000,18,25
+magazine_covers,world_region,1996,middle east,0.160000,4,25
+magazine_covers,world_region,1996,western europe,0.080000,2,25
+magazine_covers,world_region,1996,southern europe,0.040000,1,25
+magazine_covers,world_region,1998,north america,0.705882,12,17
+magazine_covers,world_region,1998,western europe,0.176471,3,17
+magazine_covers,world_region,1998,middle east,0.117647,2,17
+magazine_covers,world_region,2000,north america,0.500000,8,16
+magazine_covers,world_region,2000,southern europe,0.250000,4,16
+magazine_covers,world_region,2000,western europe,0.187500,3,16
+magazine_covers,world_region,2000,middle east,0.062500,1,16
+magazine_covers,world_region,2001,north america,0.666667,8,12
+magazine_covers,world_region,2001,western europe,0.166667,2,12
+magazine_covers,world_region,2001,southern europe,0.083333,1,12
+magazine_covers,world_region,2001,middle east,0.083333,1,12
+magazine_covers,world_region,2004,western europe,0.545455,6,11
+magazine_covers,world_region,2004,north america,0.181818,2,11
+magazine_covers,world_region,2004,northern europe,0.090909,1,11
+magazine_covers,world_region,2004,southern europe,0.090909,1,11
+magazine_covers,world_region,2004,middle east,0.090909,1,11
+magazine_covers,world_region,1997,north america,0.470588,8,17
+magazine_covers,world_region,1997,middle east,0.411765,7,17
+magazine_covers,world_region,1997,western europe,0.058824,1,17
+magazine_covers,world_region,1997,southern europe,0.058824,1,17
+magazine_covers,world_region,1999,north america,0.812500,13,16
+magazine_covers,world_region,1999,western europe,0.187500,3,16
+magazine_covers,world_region,1986,north america,0.500000,3,6
+magazine_covers,world_region,1986,southern europe,0.333333,2,6
+magazine_covers,world_region,1986,western europe,0.166667,1,6
+magazine_covers,world_region,1993,north america,0.625000,5,8
+magazine_covers,world_region,1993,middle east,0.375000,3,8
+magazine_covers,world_region,1994,middle east,0.714286,5,7
+magazine_covers,world_region,1994,north america,0.285714,2,7
+magazine_covers,world_region,1991,north america,1.000000,2,2
+magazine_covers,world_region,1990,north america,1.000000,2,2
+magazine_covers,world_region,1984,southern europe,0.666667,2,3
+magazine_covers,world_region,1984,north america,0.333333,1,3
+magazine_covers,world_region,1985,north america,1.000000,3,3
+magazine_covers,world_region,1974,north america,1.000000,1,1
+magazine_covers,world_region,1975,north america,1.000000,4,4
+magazine_covers,world_region,1976,north america,1.000000,4,4
+magazine_covers,world_region,1977,north america,1.000000,1,1
+magazine_covers,world_region,1978,north america,1.000000,1,1
+magazine_covers,global_group,2007,global north,0.636364,21,33
+magazine_covers,global_group,2007,global south,0.363636,12,33
+magazine_covers,global_group,2016,global north,0.820225,73,89
+magazine_covers,global_group,2016,global south,0.179775,16,89
+magazine_covers,global_group,2017,global north,0.759615,79,104
+magazine_covers,global_group,2017,global south,0.240385,25,104
+magazine_covers,global_group,2019,global north,0.744186,96,129
+magazine_covers,global_group,2019,global south,0.255814,33,129
+magazine_covers,global_group,2020,global north,0.558333,67,120
+magazine_covers,global_group,2020,global south,0.441667,53,120
+magazine_covers,global_group,2015,global north,0.794521,58,73
+magazine_covers,global_group,2015,global south,0.205479,15,73
+magazine_covers,global_group,2022,global north,0.679012,55,81
+magazine_covers,global_group,2022,global south,0.320988,26,81
+magazine_covers,global_group,2023,global north,0.675000,54,80
+magazine_covers,global_group,2023,global south,0.325000,26,80
+magazine_covers,global_group,2024,global north,0.623529,53,85
+magazine_covers,global_group,2024,global south,0.376471,32,85
+magazine_covers,global_group,2005,global north,0.739130,17,23
+magazine_covers,global_group,2005,global south,0.260870,6,23
+magazine_covers,global_group,2008,global north,0.675000,27,40
+magazine_covers,global_group,2008,global south,0.325000,13,40
+magazine_covers,global_group,2009,global north,0.804878,33,41
+magazine_covers,global_group,2009,global south,0.195122,8,41
+magazine_covers,global_group,2010,global north,0.927273,51,55
+magazine_covers,global_group,2010,global south,0.072727,4,55
+magazine_covers,global_group,2011,global north,0.802083,77,96
+magazine_covers,global_group,2011,global south,0.197917,19,96
+magazine_covers,global_group,2012,global north,0.747899,89,119
+magazine_covers,global_group,2012,global south,0.252101,30,119
+magazine_covers,global_group,2014,global north,0.884058,61,69
+magazine_covers,global_group,2014,global south,0.115942,8,69
+magazine_covers,global_group,2018,global north,0.791667,76,96
+magazine_covers,global_group,2018,global south,0.208333,20,96
+magazine_covers,global_group,2021,global north,0.666667,70,105
+magazine_covers,global_group,2021,global south,0.333333,35,105
+magazine_covers,global_group,2002,global north,0.944444,17,18
+magazine_covers,global_group,2002,global south,0.055556,1,18
+magazine_covers,global_group,2013,global north,0.875000,112,128
+magazine_covers,global_group,2013,global south,0.125000,16,128
+magazine_covers,global_group,2006,global north,0.640000,16,25
+magazine_covers,global_group,2006,global south,0.360000,9,25
+magazine_covers,global_group,2003,global north,0.875000,14,16
+magazine_covers,global_group,2003,global south,0.125000,2,16
+magazine_covers,global_group,1995,global north,0.625000,10,16
+magazine_covers,global_group,1995,global south,0.375000,6,16
+magazine_covers,global_group,1996,global north,0.840000,21,25
+magazine_covers,global_group,1996,global south,0.160000,4,25
+magazine_covers,global_group,1998,global north,0.882353,15,17
+magazine_covers,global_group,1998,global south,0.117647,2,17
+magazine_covers,global_group,2000,global north,0.937500,15,16
+magazine_covers,global_group,2000,global south,0.062500,1,16
+magazine_covers,global_group,2001,global north,0.916667,11,12
+magazine_covers,global_group,2001,global south,0.083333,1,12
+magazine_covers,global_group,2004,global north,0.909091,10,11
+magazine_covers,global_group,2004,global south,0.090909,1,11
+magazine_covers,global_group,1997,global north,0.588235,10,17
+magazine_covers,global_group,1997,global south,0.411765,7,17
+magazine_covers,global_group,1999,global north,1.000000,16,16
+magazine_covers,global_group,1986,global north,1.000000,6,6
+magazine_covers,global_group,1993,global north,0.625000,5,8
+magazine_covers,global_group,1993,global south,0.375000,3,8
+magazine_covers,global_group,1994,global south,0.714286,5,7
+magazine_covers,global_group,1994,global north,0.285714,2,7
+magazine_covers,global_group,1991,global north,1.000000,2,2
+magazine_covers,global_group,1990,global north,1.000000,2,2
+magazine_covers,global_group,1984,global north,1.000000,3,3
+magazine_covers,global_group,1985,global north,1.000000,3,3
+magazine_covers,global_group,1974,global north,1.000000,1,1
+magazine_covers,global_group,1975,global north,1.000000,4,4
+magazine_covers,global_group,1976,global north,1.000000,4,4
+magazine_covers,global_group,1977,global north,1.000000,1,1
+magazine_covers,global_group,1978,global north,1.000000,1,1
+editorials,hair,2022,black,0.367580,322,876
+editorials,hair,2022,brown,0.271689,238,876
+editorials,hair,2022,dark brown,0.125571,110,876
+editorials,hair,2022,blonde,0.109589,96,876
+editorials,hair,2022,light brown,0.054795,48,876
+editorials,hair,2022,dark blonde,0.047945,42,876
+editorials,hair,2022,red,0.011416,10,876
+editorials,hair,2022,chestnut,0.004566,4,876
+editorials,hair,2022,light blonde,0.003425,3,876
+editorials,hair,2022,red / blonde,0.002283,2,876
+editorials,hair,2022,brown / red,0.001142,1,876
+editorials,hair,2023,black,0.373073,363,973
+editorials,hair,2023,brown,0.264132,257,973
+editorials,hair,2023,blonde,0.118191,115,973
+editorials,hair,2023,dark brown,0.095581,93,973
+editorials,hair,2023,dark blonde,0.066804,65,973
+editorials,hair,2023,light brown,0.050360,49,973
+editorials,hair,2023,red,0.013361,13,973
+editorials,hair,2023,light blonde,0.009250,9,973
+editorials,hair,2023,chestnut,0.007194,7,973
+editorials,hair,2023,auburn,0.001028,1,973
+editorials,hair,2023,red / blonde,0.001028,1,973
+editorials,hair,2024,black,0.336621,273,811
+editorials,hair,2024,brown,0.244143,198,811
+editorials,hair,2024,dark brown,0.125771,102,811
+editorials,hair,2024,blonde,0.124538,101,811
+editorials,hair,2024,light brown,0.072750,59,811
+editorials,hair,2024,dark blonde,0.064118,52,811
+editorials,hair,2024,red,0.012330,10,811
+editorials,hair,2024,chestnut,0.011097,9,811
+editorials,hair,2024,light blonde,0.007398,6,811
+editorials,hair,2024,blonde / red,0.001233,1,811
+editorials,hair,2016,brown,0.368946,259,702
+editorials,hair,2016,black,0.200855,141,702
+editorials,hair,2016,blonde,0.145299,102,702
+editorials,hair,2016,dark brown,0.128205,90,702
+editorials,hair,2016,dark blonde,0.091168,64,702
+editorials,hair,2016,light brown,0.044160,31,702
+editorials,hair,2016,red,0.009972,7,702
+editorials,hair,2016,light blonde,0.007123,5,702
+editorials,hair,2016,chestnut,0.002849,2,702
+editorials,hair,2016,white,0.001425,1,702
+editorials,hair,2017,brown,0.328834,268,815
+editorials,hair,2017,black,0.296933,242,815
+editorials,hair,2017,dark brown,0.112883,92,815
+editorials,hair,2017,blonde,0.106748,87,815
+editorials,hair,2017,dark blonde,0.082209,67,815
+editorials,hair,2017,light brown,0.060123,49,815
+editorials,hair,2017,white,0.004908,4,815
+editorials,hair,2017,light blonde,0.003681,3,815
+editorials,hair,2017,chestnut,0.003681,3,815
+editorials,hair,2018,black,0.315738,323,1023
+editorials,hair,2018,brown,0.302053,309,1023
+editorials,hair,2018,dark brown,0.124145,127,1023
+editorials,hair,2018,dark blonde,0.087977,90,1023
+editorials,hair,2018,blonde,0.086999,89,1023
+editorials,hair,2018,light brown,0.058651,60,1023
+editorials,hair,2018,red,0.018573,19,1023
+editorials,hair,2018,chestnut,0.003910,4,1023
+editorials,hair,2018,light blonde,0.001955,2,1023
+editorials,hair,2019,brown,0.328896,420,1277
+editorials,hair,2019,black,0.324197,414,1277
+editorials,hair,2019,dark brown,0.100235,128,1277
+editorials,hair,2019,blonde,0.097103,124,1277
+editorials,hair,2019,dark blonde,0.059514,76,1277
+editorials,hair,2019,light brown,0.043070,55,1277
+editorials,hair,2019,red,0.036022,46,1277
+editorials,hair,2019,light blonde,0.006265,8,1277
+editorials,hair,2019,chestnut,0.003915,5,1277
+editorials,hair,2019,brown / red,0.000783,1,1277
+editorials,hair,2020,black,0.396552,460,1160
+editorials,hair,2020,brown,0.307759,357,1160
+editorials,hair,2020,dark brown,0.092241,107,1160
+editorials,hair,2020,blonde,0.076724,89,1160
+editorials,hair,2020,dark blonde,0.054310,63,1160
+editorials,hair,2020,red,0.031897,37,1160
+editorials,hair,2020,light brown,0.031897,37,1160
+editorials,hair,2020,brown / red,0.005172,6,1160
+editorials,hair,2020,chestnut,0.002586,3,1160
+editorials,hair,2020,light blonde,0.000862,1,1160
+editorials,hair,2021,black,0.386969,392,1013
+editorials,hair,2021,brown,0.329714,334,1013
+editorials,hair,2021,dark brown,0.088845,90,1013
+editorials,hair,2021,blonde,0.069102,70,1013
+editorials,hair,2021,dark blonde,0.051333,52,1013
+editorials,hair,2021,light brown,0.041461,42,1013
+editorials,hair,2021,red,0.013820,14,1013
+editorials,hair,2021,chestnut,0.011846,12,1013
+editorials,hair,2021,light blonde,0.003949,4,1013
+editorials,hair,2021,brown / red,0.000987,1,1013
+editorials,hair,2021,red / blonde,0.000987,1,1013
+editorials,hair,2021,blonde / red,0.000987,1,1013
+editorials,hair,2014,brown,0.339286,209,616
+editorials,hair,2014,dark blonde,0.168831,104,616
+editorials,hair,2014,blonde,0.149351,92,616
+editorials,hair,2014,black,0.149351,92,616
+editorials,hair,2014,dark brown,0.141234,87,616
+editorials,hair,2014,light brown,0.038961,24,616
+editorials,hair,2014,red,0.009740,6,616
+editorials,hair,2014,light blonde,0.003247,2,616
+editorials,hair,2015,brown,0.287143,201,700
+editorials,hair,2015,dark brown,0.174286,122,700
+editorials,hair,2015,black,0.168571,118,700
+editorials,hair,2015,blonde,0.155714,109,700
+editorials,hair,2015,dark blonde,0.130000,91,700
+editorials,hair,2015,light brown,0.058571,41,700
+editorials,hair,2015,light blonde,0.021429,15,700
+editorials,hair,2015,red,0.002857,2,700
+editorials,hair,2015,chestnut,0.001429,1,700
+editorials,hair,2008,dark blonde,0.291667,21,72
+editorials,hair,2008,brown,0.291667,21,72
+editorials,hair,2008,black,0.236111,17,72
+editorials,hair,2008,dark brown,0.111111,8,72
+editorials,hair,2008,blonde,0.055556,4,72
+editorials,hair,2008,light blonde,0.013889,1,72
+editorials,hair,2009,brown,0.306748,50,163
+editorials,hair,2009,black,0.239264,39,163
+editorials,hair,2009,dark blonde,0.153374,25,163
+editorials,hair,2009,dark brown,0.141104,23,163
+editorials,hair,2009,blonde,0.122699,20,163
+editorials,hair,2009,light brown,0.036810,6,163
+editorials,hair,2010,brown,0.286290,71,248
+editorials,hair,2010,black,0.185484,46,248
+editorials,hair,2010,dark blonde,0.177419,44,248
+editorials,hair,2010,dark brown,0.145161,36,248
+editorials,hair,2010,blonde,0.125000,31,248
+editorials,hair,2010,light blonde,0.064516,16,248
+editorials,hair,2010,light brown,0.012097,3,248
+editorials,hair,2010,red,0.004032,1,248
+editorials,hair,2011,black,0.225974,87,385
+editorials,hair,2011,brown,0.212987,82,385
+editorials,hair,2011,blonde,0.202597,78,385
+editorials,hair,2011,dark blonde,0.155844,60,385
+editorials,hair,2011,light blonde,0.114286,44,385
+editorials,hair,2011,dark brown,0.075325,29,385
+editorials,hair,2011,light brown,0.010390,4,385
+editorials,hair,2011,red,0.002597,1,385
+editorials,hair,2012,blonde,0.243553,85,349
+editorials,hair,2012,brown,0.217765,76,349
+editorials,hair,2012,dark blonde,0.189112,66,349
+editorials,hair,2012,black,0.174785,61,349
+editorials,hair,2012,dark brown,0.085960,30,349
+editorials,hair,2012,light blonde,0.060172,21,349
+editorials,hair,2012,light brown,0.022923,8,349
+editorials,hair,2012,red,0.005731,2,349
+editorials,hair,2013,brown,0.348790,173,496
+editorials,hair,2013,dark blonde,0.185484,92,496
+editorials,hair,2013,black,0.183468,91,496
+editorials,hair,2013,blonde,0.161290,80,496
+editorials,hair,2013,dark brown,0.088710,44,496
+editorials,hair,2013,light blonde,0.020161,10,496
+editorials,hair,2013,light brown,0.008065,4,496
+editorials,hair,2013,auburn,0.002016,1,496
+editorials,hair,2013,red,0.002016,1,496
+editorials,hair,2006,black,0.500000,8,16
+editorials,hair,2006,dark blonde,0.250000,4,16
+editorials,hair,2006,dark brown,0.187500,3,16
+editorials,hair,2006,blonde,0.062500,1,16
+editorials,hair,2003,dark brown,0.571429,4,7
+editorials,hair,2003,blonde,0.142857,1,7
+editorials,hair,2003,light brown,0.142857,1,7
+editorials,hair,2003,dark blonde,0.142857,1,7
+editorials,hair,2004,dark blonde,0.500000,1,2
+editorials,hair,2004,light brown,0.500000,1,2
+editorials,hair,1997,dark brown,0.500000,5,10
+editorials,hair,1997,black,0.300000,3,10
+editorials,hair,1997,blonde,0.200000,2,10
+editorials,hair,1998,dark brown,0.833333,5,6
+editorials,hair,1998,blonde,0.166667,1,6
+editorials,hair,2000,black,0.285714,2,7
+editorials,hair,2000,blonde,0.285714,2,7
+editorials,hair,2000,dark brown,0.285714,2,7
+editorials,hair,2000,brown,0.142857,1,7
+editorials,hair,2007,blonde,0.300000,3,10
+editorials,hair,2007,black,0.200000,2,10
+editorials,hair,2007,brown,0.200000,2,10
+editorials,hair,2007,light brown,0.200000,2,10
+editorials,hair,2007,dark blonde,0.100000,1,10
+editorials,hair,1999,blonde,0.444444,4,9
+editorials,hair,1999,dark brown,0.444444,4,9
+editorials,hair,1999,black,0.111111,1,9
+editorials,hair,2002,dark brown,0.500000,2,4
+editorials,hair,2002,black,0.250000,1,4
+editorials,hair,2002,blonde,0.250000,1,4
+editorials,hair,2005,dark blonde,0.333333,5,15
+editorials,hair,2005,dark brown,0.200000,3,15
+editorials,hair,2005,blonde,0.200000,3,15
+editorials,hair,2005,black,0.133333,2,15
+editorials,hair,2005,brown,0.066667,1,15
+editorials,hair,2005,light brown,0.066667,1,15
+editorials,hair,1989,brown,1.000000,1,1
+editorials,hair,1991,black,1.000000,2,2
+editorials,hair,1993,dark brown,1.000000,4,4
+editorials,hair,1994,dark brown,1.000000,2,2
+editorials,hair,1995,dark brown,1.000000,4,4
+editorials,hair,1996,blonde,0.545455,6,11
+editorials,hair,1996,dark brown,0.454545,5,11
+editorials,hair,1984,grey,1.000000,1,1
+editorials,hair,1986,grey,0.666667,2,3
+editorials,hair,1986,dark brown,0.333333,1,3
+editorials,eyes,2022,brown,0.498858,437,876
+editorials,eyes,2022,blue,0.199772,175,876
+editorials,eyes,2022,black,0.111872,98,876
+editorials,eyes,2022,green,0.049087,43,876
+editorials,eyes,2022,hazel,0.044521,39,876
+editorials,eyes,2022,blue / green,0.041096,36,876
+editorials,eyes,2022,dark brown,0.022831,20,876
+editorials,eyes,2022,blue / grey,0.017123,15,876
+editorials,eyes,2022,grey,0.006849,6,876
+editorials,eyes,2022,green / brown,0.004566,4,876
+editorials,eyes,2022,light brown,0.002283,2,876
+editorials,eyes,2022,green / grey,0.001142,1,876
+editorials,eyes,2023,brown,0.449126,437,973
+editorials,eyes,2023,blue,0.210689,205,973
+editorials,eyes,2023,black,0.110997,108,973
+editorials,eyes,2023,green,0.071942,70,973
+editorials,eyes,2023,blue / green,0.048304,47,973
+editorials,eyes,2023,hazel,0.035971,35,973
+editorials,eyes,2023,blue / grey,0.025694,25,973
+editorials,eyes,2023,dark brown,0.021583,21,973
+editorials,eyes,2023,green / brown,0.019527,19,973
+editorials,eyes,2023,grey,0.003083,3,973
+editorials,eyes,2023,green / grey,0.002055,2,973
+editorials,eyes,2023,light brown,0.001028,1,973
+editorials,eyes,2024,brown,0.434032,352,811
+editorials,eyes,2024,blue,0.244143,198,811
+editorials,eyes,2024,black,0.124538,101,811
+editorials,eyes,2024,green,0.049322,40,811
+editorials,eyes,2024,hazel,0.039457,32,811
+editorials,eyes,2024,blue / green,0.032059,26,811
+editorials,eyes,2024,blue / grey,0.027127,22,811
+editorials,eyes,2024,green / brown,0.025894,21,811
+editorials,eyes,2024,dark brown,0.018496,15,811
+editorials,eyes,2024,grey,0.002466,2,811
+editorials,eyes,2024,light brown,0.002466,2,811
+editorials,eyes,2016,brown,0.405983,285,702
+editorials,eyes,2016,blue,0.243590,171,702
+editorials,eyes,2016,green,0.102564,72,702
+editorials,eyes,2016,hazel,0.096866,68,702
+editorials,eyes,2016,grey,0.048433,34,702
+editorials,eyes,2016,blue / green,0.041311,29,702
+editorials,eyes,2016,black,0.025641,18,702
+editorials,eyes,2016,brown / hazel,0.017094,12,702
+editorials,eyes,2016,dark brown,0.011396,8,702
+editorials,eyes,2016,blue / grey,0.005698,4,702
+editorials,eyes,2016,green / grey,0.001425,1,702
+editorials,eyes,2017,brown,0.496933,405,815
+editorials,eyes,2017,blue,0.228221,186,815
+editorials,eyes,2017,green,0.101840,83,815
+editorials,eyes,2017,hazel,0.046626,38,815
+editorials,eyes,2017,blue / green,0.044172,36,815
+editorials,eyes,2017,black,0.036810,30,815
+editorials,eyes,2017,grey,0.020859,17,815
+editorials,eyes,2017,blue / grey,0.013497,11,815
+editorials,eyes,2017,brown / hazel,0.007362,6,815
+editorials,eyes,2017,dark brown,0.002454,2,815
+editorials,eyes,2017,green / grey,0.001227,1,815
+editorials,eyes,2018,brown,0.519062,531,1023
+editorials,eyes,2018,blue,0.190616,195,1023
+editorials,eyes,2018,black,0.086022,88,1023
+editorials,eyes,2018,green,0.074291,76,1023
+editorials,eyes,2018,blue / green,0.056696,58,1023
+editorials,eyes,2018,hazel,0.037146,38,1023
+editorials,eyes,2018,blue / grey,0.010753,11,1023
+editorials,eyes,2018,brown / hazel,0.009775,10,1023
+editorials,eyes,2018,dark brown,0.006843,7,1023
+editorials,eyes,2018,grey,0.004888,5,1023
+editorials,eyes,2018,green / brown,0.002933,3,1023
+editorials,eyes,2018,light brown,0.000978,1,1023
+editorials,eyes,2019,brown,0.475333,607,1277
+editorials,eyes,2019,blue,0.210650,269,1277
+editorials,eyes,2019,black,0.130775,167,1277
+editorials,eyes,2019,green,0.064213,82,1277
+editorials,eyes,2019,blue / green,0.047768,61,1277
+editorials,eyes,2019,hazel,0.032106,41,1277
+editorials,eyes,2019,blue / grey,0.014096,18,1277
+editorials,eyes,2019,dark brown,0.013312,17,1277
+editorials,eyes,2019,grey,0.003915,5,1277
+editorials,eyes,2019,green / brown,0.003132,4,1277
+editorials,eyes,2019,light brown,0.002349,3,1277
+editorials,eyes,2019,brown / hazel,0.002349,3,1277
+editorials,eyes,2020,brown,0.500000,580,1160
+editorials,eyes,2020,blue,0.169828,197,1160
+editorials,eyes,2020,black,0.141379,164,1160
+editorials,eyes,2020,hazel,0.050000,58,1160
+editorials,eyes,2020,blue / green,0.049138,57,1160
+editorials,eyes,2020,green,0.041379,48,1160
+editorials,eyes,2020,dark brown,0.019828,23,1160
+editorials,eyes,2020,green / brown,0.012069,14,1160
+editorials,eyes,2020,light brown,0.009483,11,1160
+editorials,eyes,2020,brown / hazel,0.004310,5,1160
+editorials,eyes,2020,blue / grey,0.002586,3,1160
+editorials,eyes,2021,brown,0.465943,472,1013
+editorials,eyes,2021,blue,0.172754,175,1013
+editorials,eyes,2021,black,0.151037,153,1013
+editorials,eyes,2021,green,0.061204,62,1013
+editorials,eyes,2021,hazel,0.057256,58,1013
+editorials,eyes,2021,blue / green,0.036525,37,1013
+editorials,eyes,2021,dark brown,0.029615,30,1013
+editorials,eyes,2021,blue / grey,0.013820,14,1013
+editorials,eyes,2021,grey,0.004936,5,1013
+editorials,eyes,2021,light brown,0.002962,3,1013
+editorials,eyes,2021,brown / hazel,0.002962,3,1013
+editorials,eyes,2021,green / brown,0.000987,1,1013
+editorials,eyes,2014,blue,0.339286,209,616
+editorials,eyes,2014,brown,0.303571,187,616
+editorials,eyes,2014,green,0.118506,73,616
+editorials,eyes,2014,blue / green,0.100649,62,616
+editorials,eyes,2014,grey,0.047078,29,616
+editorials,eyes,2014,black,0.032468,20,616
+editorials,eyes,2014,hazel,0.025974,16,616
+editorials,eyes,2014,blue / grey,0.011364,7,616
+editorials,eyes,2014,brown / hazel,0.008117,5,616
+editorials,eyes,2014,dark brown,0.006494,4,616
+editorials,eyes,2014,brown / green,0.004870,3,616
+editorials,eyes,2014,green / hazel,0.001623,1,616
+editorials,eyes,2015,brown,0.407143,285,700
+editorials,eyes,2015,blue,0.257143,180,700
+editorials,eyes,2015,green,0.125714,88,700
+editorials,eyes,2015,blue / green,0.071429,50,700
+editorials,eyes,2015,grey,0.050000,35,700
+editorials,eyes,2015,hazel,0.040000,28,700
+editorials,eyes,2015,black,0.017143,12,700
+editorials,eyes,2015,blue / grey,0.011429,8,700
+editorials,eyes,2015,brown / hazel,0.010000,7,700
+editorials,eyes,2015,brown / green,0.005714,4,700
+editorials,eyes,2015,green / grey,0.002857,2,700
+editorials,eyes,2015,dark brown,0.001429,1,700
+editorials,eyes,2008,blue,0.444444,32,72
+editorials,eyes,2008,brown,0.375000,27,72
+editorials,eyes,2008,green,0.138889,10,72
+editorials,eyes,2008,brown / hazel,0.041667,3,72
+editorials,eyes,2009,blue,0.435583,71,163
+editorials,eyes,2009,brown,0.411043,67,163
+editorials,eyes,2009,green,0.067485,11,163
+editorials,eyes,2009,brown / hazel,0.061350,10,163
+editorials,eyes,2009,blue / grey,0.018405,3,163
+editorials,eyes,2009,blue / green,0.006135,1,163
+editorials,eyes,2010,blue,0.383065,95,248
+editorials,eyes,2010,brown,0.358871,89,248
+editorials,eyes,2010,green,0.181452,45,248
+editorials,eyes,2010,blue / grey,0.036290,9,248
+editorials,eyes,2010,blue / green,0.024194,6,248
+editorials,eyes,2010,brown / hazel,0.016129,4,248
+editorials,eyes,2011,blue,0.335065,129,385
+editorials,eyes,2011,green,0.277922,107,385
+editorials,eyes,2011,brown,0.270130,104,385
+editorials,eyes,2011,blue / green,0.080519,31,385
+editorials,eyes,2011,blue / grey,0.018182,7,385
+editorials,eyes,2011,brown / hazel,0.007792,3,385
+editorials,eyes,2011,dark brown,0.007792,3,385
+editorials,eyes,2011,hazel,0.002597,1,385
+editorials,eyes,2012,blue,0.395415,138,349
+editorials,eyes,2012,green,0.263610,92,349
+editorials,eyes,2012,brown,0.217765,76,349
+editorials,eyes,2012,blue / green,0.091691,32,349
+editorials,eyes,2012,blue / grey,0.020057,7,349
+editorials,eyes,2012,brown / hazel,0.008596,3,349
+editorials,eyes,2012,dark brown,0.002865,1,349
+editorials,eyes,2013,blue,0.385081,191,496
+editorials,eyes,2013,brown,0.258065,128,496
+editorials,eyes,2013,green,0.189516,94,496
+editorials,eyes,2013,blue / green,0.118952,59,496
+editorials,eyes,2013,brown / hazel,0.014113,7,496
+editorials,eyes,2013,dark brown,0.012097,6,496
+editorials,eyes,2013,black,0.008065,4,496
+editorials,eyes,2013,grey,0.006048,3,496
+editorials,eyes,2013,hazel,0.004032,2,496
+editorials,eyes,2013,blue / grey,0.004032,2,496
+editorials,eyes,2006,brown,0.562500,9,16
+editorials,eyes,2006,blue,0.437500,7,16
+editorials,eyes,2003,blue,0.857143,6,7
+editorials,eyes,2003,green,0.142857,1,7
+editorials,eyes,2004,brown,0.500000,1,2
+editorials,eyes,2004,blue,0.500000,1,2
+editorials,eyes,1997,blue,0.700000,7,10
+editorials,eyes,1997,brown,0.300000,3,10
+editorials,eyes,1998,blue,1.000000,6,6
+editorials,eyes,2000,blue,0.571429,4,7
+editorials,eyes,2000,brown,0.285714,2,7
+editorials,eyes,2000,blue / green,0.142857,1,7
+editorials,eyes,2007,blue,0.700000,7,10
+editorials,eyes,2007,brown,0.200000,2,10
+editorials,eyes,2007,green,0.100000,1,10
+editorials,eyes,1999,blue,0.888889,8,9
+editorials,eyes,1999,brown,0.111111,1,9
+editorials,eyes,2002,blue,0.750000,3,4
+editorials,eyes,2002,brown,0.250000,1,4
+editorials,eyes,2005,brown,0.533333,8,15
+editorials,eyes,2005,blue,0.333333,5,15
+editorials,eyes,2005,green,0.133333,2,15
+editorials,eyes,1989,blue / green,1.000000,1,1
+editorials,eyes,1991,brown,0.500000,1,2
+editorials,eyes,1991,dark brown,0.500000,1,2
+editorials,eyes,1993,blue,0.750000,3,4
+editorials,eyes,1993,green,0.250000,1,4
+editorials,eyes,1994,blue,1.000000,2,2
+editorials,eyes,1995,blue,1.000000,4,4
+editorials,eyes,1996,blue,1.000000,11,11
+editorials,eyes,1984,blue,1.000000,1,1
+editorials,eyes,1986,blue,0.666667,2,3
+editorials,eyes,1986,hazel,0.333333,1,3
+editorials,world_region,2022,western europe,0.251142,220,876
+editorials,world_region,2022,sub-saharan africa,0.192922,169,876
+editorials,world_region,2022,north america,0.172374,151,876
+editorials,world_region,2022,east asia,0.134703,118,876
+editorials,world_region,2022,southern europe,0.065068,57,876
+editorials,world_region,2022,eastern europe,0.054795,48,876
+editorials,world_region,2022,south america,0.037671,33,876
+editorials,world_region,2022,caribbean,0.025114,22,876
+editorials,world_region,2022,oceania,0.018265,16,876
+editorials,world_region,2022,northern europe,0.014840,13,876
+editorials,world_region,2022,middle east,0.012557,11,876
+editorials,world_region,2022,north africa,0.009132,8,876
+editorials,world_region,2022,south asia,0.007991,7,876
+editorials,world_region,2022,southeast asia,0.003425,3,876
+editorials,world_region,2023,western europe,0.252826,246,973
+editorials,world_region,2023,north america,0.242549,236,973
+editorials,world_region,2023,sub-saharan africa,0.163412,159,973
+editorials,world_region,2023,east asia,0.131552,128,973
+editorials,world_region,2023,southern europe,0.061665,60,973
+editorials,world_region,2023,eastern europe,0.049332,48,973
+editorials,world_region,2023,south america,0.027749,27,973
+editorials,world_region,2023,northern europe,0.021583,21,973
+editorials,world_region,2023,north africa,0.016444,16,973
+editorials,world_region,2023,caribbean,0.015416,15,973
+editorials,world_region,2023,oceania,0.007194,7,973
+editorials,world_region,2023,middle east,0.006166,6,973
+editorials,world_region,2023,southeast asia,0.002055,2,973
+editorials,world_region,2023,south asia,0.002055,2,973
+editorials,world_region,2024,western europe,0.297164,241,811
+editorials,world_region,2024,north america,0.235512,191,811
+editorials,world_region,2024,sub-saharan africa,0.146732,119,811
+editorials,world_region,2024,east asia,0.135635,110,811
+editorials,world_region,2024,eastern europe,0.050555,41,811
+editorials,world_region,2024,south america,0.048089,39,811
+editorials,world_region,2024,southern europe,0.044390,36,811
+editorials,world_region,2024,north africa,0.014797,12,811
+editorials,world_region,2024,northern europe,0.013564,11,811
+editorials,world_region,2024,middle east,0.008631,7,811
+editorials,world_region,2024,caribbean,0.003699,3,811
+editorials,world_region,2024,oceania,0.001233,1,811
+editorials,world_region,2016,western europe,0.321937,226,702
+editorials,world_region,2016,north america,0.287749,202,702
+editorials,world_region,2016,eastern europe,0.089744,63,702
+editorials,world_region,2016,south america,0.075499,53,702
+editorials,world_region,2016,east asia,0.058405,41,702
+editorials,world_region,2016,southern europe,0.056980,40,702
+editorials,world_region,2016,oceania,0.045584,32,702
+editorials,world_region,2016,sub-saharan africa,0.042735,30,702
+editorials,world_region,2016,middle east,0.011396,8,702
+editorials,world_region,2016,northern europe,0.005698,4,702
+editorials,world_region,2016,caribbean,0.002849,2,702
+editorials,world_region,2016,central asia,0.001425,1,702
+editorials,world_region,2017,western europe,0.325153,265,815
+editorials,world_region,2017,north america,0.280982,229,815
+editorials,world_region,2017,eastern europe,0.076074,62,815
+editorials,world_region,2017,sub-saharan africa,0.062577,51,815
+editorials,world_region,2017,east asia,0.055215,45,815
+editorials,world_region,2017,south america,0.053988,44,815
+editorials,world_region,2017,oceania,0.050307,41,815
+editorials,world_region,2017,southern europe,0.046626,38,815
+editorials,world_region,2017,northern europe,0.023313,19,815
+editorials,world_region,2017,middle east,0.019632,16,815
+editorials,world_region,2017,caribbean,0.006135,5,815
+editorials,world_region,2018,western europe,0.360704,369,1023
+editorials,world_region,2018,north america,0.209189,214,1023
+editorials,world_region,2018,east asia,0.130010,133,1023
+editorials,world_region,2018,sub-saharan africa,0.084066,86,1023
+editorials,world_region,2018,eastern europe,0.054741,56,1023
+editorials,world_region,2018,south america,0.053763,55,1023
+editorials,world_region,2018,southern europe,0.050831,52,1023
+editorials,world_region,2018,oceania,0.026393,27,1023
+editorials,world_region,2018,northern europe,0.011730,12,1023
+editorials,world_region,2018,middle east,0.007820,8,1023
+editorials,world_region,2018,caribbean,0.006843,7,1023
+editorials,world_region,2018,south asia,0.001955,2,1023
+editorials,world_region,2018,north africa,0.001955,2,1023
+editorials,world_region,2019,western europe,0.318716,407,1277
+editorials,world_region,2019,north america,0.198121,253,1277
+editorials,world_region,2019,east asia,0.123727,158,1277
+editorials,world_region,2019,sub-saharan africa,0.104150,133,1277
+editorials,world_region,2019,southern europe,0.074393,95,1277
+editorials,world_region,2019,eastern europe,0.050117,64,1277
+editorials,world_region,2019,south america,0.044636,57,1277
+editorials,world_region,2019,caribbean,0.015662,20,1277
+editorials,world_region,2019,northern europe,0.015662,20,1277
+editorials,world_region,2019,southeast asia,0.014879,19,1277
+editorials,world_region,2019,oceania,0.014096,18,1277
+editorials,world_region,2019,south asia,0.011746,15,1277
+editorials,world_region,2019,middle east,0.011746,15,1277
+editorials,world_region,2019,north africa,0.002349,3,1277
+editorials,world_region,2020,western europe,0.321552,373,1160
+editorials,world_region,2020,north america,0.183621,213,1160
+editorials,world_region,2020,sub-saharan africa,0.134483,156,1160
+editorials,world_region,2020,east asia,0.128448,149,1160
+editorials,world_region,2020,southern europe,0.071552,83,1160
+editorials,world_region,2020,south america,0.047414,55,1160
+editorials,world_region,2020,eastern europe,0.041379,48,1160
+editorials,world_region,2020,caribbean,0.020690,24,1160
+editorials,world_region,2020,oceania,0.019828,23,1160
+editorials,world_region,2020,northern europe,0.012931,15,1160
+editorials,world_region,2020,southeast asia,0.006034,7,1160
+editorials,world_region,2020,south asia,0.005172,6,1160
+editorials,world_region,2020,north africa,0.004310,5,1160
+editorials,world_region,2020,middle east,0.002586,3,1160
+editorials,world_region,2021,western europe,0.299112,303,1013
+editorials,world_region,2021,sub-saharan africa,0.218164,221,1013
+editorials,world_region,2021,north america,0.140178,142,1013
+editorials,world_region,2021,east asia,0.118460,120,1013
+editorials,world_region,2021,southern europe,0.105627,107,1013
+editorials,world_region,2021,eastern europe,0.036525,37,1013
+editorials,world_region,2021,caribbean,0.024679,25,1013
+editorials,world_region,2021,south america,0.023692,24,1013
+editorials,world_region,2021,oceania,0.008885,9,1013
+editorials,world_region,2021,northern europe,0.007897,8,1013
+editorials,world_region,2021,north africa,0.005923,6,1013
+editorials,world_region,2021,middle east,0.005923,6,1013
+editorials,world_region,2021,central asia,0.001974,2,1013
+editorials,world_region,2021,southeast asia,0.001974,2,1013
+editorials,world_region,2021,south asia,0.000987,1,1013
+editorials,world_region,2014,western europe,0.379870,234,616
+editorials,world_region,2014,north america,0.256494,158,616
+editorials,world_region,2014,eastern europe,0.089286,55,616
+editorials,world_region,2014,southern europe,0.077922,48,616
+editorials,world_region,2014,oceania,0.068182,42,616
+editorials,world_region,2014,south america,0.055195,34,616
+editorials,world_region,2014,east asia,0.050325,31,616
+editorials,world_region,2014,caribbean,0.009740,6,616
+editorials,world_region,2014,middle east,0.008117,5,616
+editorials,world_region,2014,central asia,0.003247,2,616
+editorials,world_region,2014,northern europe,0.001623,1,616
+editorials,world_region,2015,western europe,0.328571,230,700
+editorials,world_region,2015,north america,0.248571,174,700
+editorials,world_region,2015,eastern europe,0.115714,81,700
+editorials,world_region,2015,south america,0.074286,52,700
+editorials,world_region,2015,oceania,0.068571,48,700
+editorials,world_region,2015,east asia,0.065714,46,700
+editorials,world_region,2015,southern europe,0.064286,45,700
+editorials,world_region,2015,sub-saharan africa,0.021429,15,700
+editorials,world_region,2015,caribbean,0.005714,4,700
+editorials,world_region,2015,middle east,0.005714,4,700
+editorials,world_region,2015,central asia,0.001429,1,700
+editorials,world_region,2008,north america,0.402778,29,72
+editorials,world_region,2008,western europe,0.319444,23,72
+editorials,world_region,2008,east asia,0.138889,10,72
+editorials,world_region,2008,southern europe,0.041667,3,72
+editorials,world_region,2008,eastern europe,0.027778,2,72
+editorials,world_region,2008,central asia,0.027778,2,72
+editorials,world_region,2008,south america,0.027778,2,72
+editorials,world_region,2008,oceania,0.013889,1,72
+editorials,world_region,2009,north america,0.435583,71,163
+editorials,world_region,2009,western europe,0.269939,44,163
+editorials,world_region,2009,east asia,0.147239,24,163
+editorials,world_region,2009,eastern europe,0.061350,10,163
+editorials,world_region,2009,southern europe,0.049080,8,163
+editorials,world_region,2009,central asia,0.024540,4,163
+editorials,world_region,2009,northern europe,0.006135,1,163
+editorials,world_region,2009,south america,0.006135,1,163
+editorials,world_region,2010,north america,0.330645,82,248
+editorials,world_region,2010,western europe,0.286290,71,248
+editorials,world_region,2010,oceania,0.116935,29,248
+editorials,world_region,2010,east asia,0.100806,25,248
+editorials,world_region,2010,eastern europe,0.064516,16,248
+editorials,world_region,2010,southern europe,0.048387,12,248
+editorials,world_region,2010,south america,0.036290,9,248
+editorials,world_region,2010,central asia,0.008065,2,248
+editorials,world_region,2010,northern europe,0.008065,2,248
+editorials,world_region,2011,western europe,0.342857,132,385
+editorials,world_region,2011,oceania,0.233766,90,385
+editorials,world_region,2011,north america,0.148052,57,385
+editorials,world_region,2011,east asia,0.116883,45,385
+editorials,world_region,2011,eastern europe,0.083117,32,385
+editorials,world_region,2011,south america,0.036364,14,385
+editorials,world_region,2011,southern europe,0.025974,10,385
+editorials,world_region,2011,northern europe,0.007792,3,385
+editorials,world_region,2011,central asia,0.002597,1,385
+editorials,world_region,2011,southeast asia,0.002597,1,385
+editorials,world_region,2012,western europe,0.412607,144,349
+editorials,world_region,2012,north america,0.206304,72,349
+editorials,world_region,2012,oceania,0.189112,66,349
+editorials,world_region,2012,east asia,0.080229,28,349
+editorials,world_region,2012,eastern europe,0.040115,14,349
+editorials,world_region,2012,southern europe,0.037249,13,349
+editorials,world_region,2012,south america,0.014327,5,349
+editorials,world_region,2012,northern europe,0.011461,4,349
+editorials,world_region,2012,middle east,0.005731,2,349
+editorials,world_region,2012,caribbean,0.002865,1,349
+editorials,world_region,2013,western europe,0.387097,192,496
+editorials,world_region,2013,north america,0.235887,117,496
+editorials,world_region,2013,east asia,0.092742,46,496
+editorials,world_region,2013,eastern europe,0.090726,45,496
+editorials,world_region,2013,oceania,0.084677,42,496
+editorials,world_region,2013,southern europe,0.054435,27,496
+editorials,world_region,2013,south america,0.034274,17,496
+editorials,world_region,2013,caribbean,0.010081,5,496
+editorials,world_region,2013,sub-saharan africa,0.004032,2,496
+editorials,world_region,2013,central asia,0.002016,1,496
+editorials,world_region,2013,southeast asia,0.002016,1,496
+editorials,world_region,2013,northern europe,0.002016,1,496
+editorials,world_region,2006,east asia,0.500000,8,16
+editorials,world_region,2006,western europe,0.250000,4,16
+editorials,world_region,2006,north america,0.125000,2,16
+editorials,world_region,2006,eastern europe,0.062500,1,16
+editorials,world_region,2006,northern europe,0.062500,1,16
+editorials,world_region,2003,north america,0.571429,4,7
+editorials,world_region,2003,western europe,0.428571,3,7
+editorials,world_region,2004,north america,0.500000,1,2
+editorials,world_region,2004,western europe,0.500000,1,2
+editorials,world_region,1997,north america,0.700000,7,10
+editorials,world_region,1997,western europe,0.300000,3,10
+editorials,world_region,1998,north america,1.000000,6,6
+editorials,world_region,2000,north america,0.714286,5,7
+editorials,world_region,2000,western europe,0.285714,2,7
+editorials,world_region,2007,western europe,0.500000,5,10
+editorials,world_region,2007,southern europe,0.200000,2,10
+editorials,world_region,2007,north america,0.200000,2,10
+editorials,world_region,2007,east asia,0.100000,1,10
+editorials,world_region,1999,north america,0.888889,8,9
+editorials,world_region,1999,western europe,0.111111,1,9
+editorials,world_region,2002,north america,0.750000,3,4
+editorials,world_region,2002,western europe,0.250000,1,4
+editorials,world_region,2005,north america,0.533333,8,15
+editorials,world_region,2005,east asia,0.133333,2,15
+editorials,world_region,2005,western europe,0.133333,2,15
+editorials,world_region,2005,eastern europe,0.066667,1,15
+editorials,world_region,2005,south america,0.066667,1,15
+editorials,world_region,2005,southern europe,0.066667,1,15
+editorials,world_region,1989,north america,1.000000,1,1
+editorials,world_region,1991,north america,0.500000,1,2
+editorials,world_region,1991,south asia,0.500000,1,2
+editorials,world_region,1993,north america,0.750000,3,4
+editorials,world_region,1993,middle east,0.250000,1,4
+editorials,world_region,1994,north america,1.000000,2,2
+editorials,world_region,1995,north america,1.000000,4,4
+editorials,world_region,1996,north america,1.000000,11,11
+editorials,world_region,1984,north america,1.000000,1,1
+editorials,world_region,1986,north america,0.666667,2,3
+editorials,world_region,1986,southern europe,0.333333,1,3
+editorials,global_group,2022,global north,0.643836,564,876
+editorials,global_group,2022,global south,0.356164,312,876
+editorials,global_group,2023,global north,0.701953,683,973
+editorials,global_group,2023,global south,0.298047,290,973
+editorials,global_group,2024,global north,0.712700,578,811
+editorials,global_group,2024,global south,0.287300,233,811
+editorials,global_group,2016,global north,0.811966,570,702
+editorials,global_group,2016,global south,0.188034,132,702
+editorials,global_group,2017,global north,0.806135,657,815
+editorials,global_group,2017,global south,0.193865,158,815
+editorials,global_group,2018,global north,0.777126,795,1023
+editorials,global_group,2018,global south,0.222874,228,1023
+editorials,global_group,2019,global north,0.715740,914,1277
+editorials,global_group,2019,global south,0.284260,363,1277
+editorials,global_group,2020,global north,0.719828,835,1160
+editorials,global_group,2020,global south,0.280172,325,1160
+editorials,global_group,2021,global north,0.654492,663,1013
+editorials,global_group,2021,global south,0.345508,350,1013
+editorials,global_group,2014,global north,0.878247,541,616
+editorials,global_group,2014,global south,0.121753,75,616
+editorials,global_group,2015,global north,0.795714,557,700
+editorials,global_group,2015,global south,0.204286,143,700
+editorials,global_group,2008,global north,0.805556,58,72
+editorials,global_group,2008,global south,0.194444,14,72
+editorials,global_group,2009,global north,0.938650,153,163
+editorials,global_group,2009,global south,0.061350,10,163
+editorials,global_group,2010,global north,0.919355,228,248
+editorials,global_group,2010,global south,0.080645,20,248
+editorials,global_group,2011,global north,0.909091,350,385
+editorials,global_group,2011,global south,0.090909,35,385
+editorials,global_group,2012,global north,0.939828,328,349
+editorials,global_group,2012,global south,0.060172,21,349
+editorials,global_group,2013,global north,0.905242,449,496
+editorials,global_group,2013,global south,0.094758,47,496
+editorials,global_group,2006,global north,0.500000,8,16
+editorials,global_group,2006,global south,0.500000,8,16
+editorials,global_group,2003,global north,1.000000,7,7
+editorials,global_group,2004,global north,1.000000,2,2
+editorials,global_group,1997,global north,1.000000,10,10
+editorials,global_group,1998,global north,1.000000,6,6
+editorials,global_group,2000,global north,1.000000,7,7
+editorials,global_group,2007,global north,1.000000,10,10
+editorials,global_group,1999,global north,1.000000,9,9
+editorials,global_group,2002,global north,1.000000,4,4
+editorials,global_group,2005,global north,0.800000,12,15
+editorials,global_group,2005,global south,0.200000,3,15
+editorials,global_group,1989,global north,1.000000,1,1
+editorials,global_group,1991,global north,0.500000,1,2
+editorials,global_group,1991,global south,0.500000,1,2
+editorials,global_group,1993,global north,0.750000,3,4
+editorials,global_group,1993,global south,0.250000,1,4
+editorials,global_group,1994,global north,1.000000,2,2
+editorials,global_group,1995,global north,1.000000,4,4
+editorials,global_group,1996,global north,1.000000,11,11
+editorials,global_group,1984,global north,1.000000,1,1
+editorials,global_group,1986,global north,1.000000,3,3

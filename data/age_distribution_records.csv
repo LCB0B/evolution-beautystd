@@ -1,0 +1,268 @@
+event_type,age,count
+All,12.0,21
+All,13.0,89
+All,14.0,327
+All,15.0,1177
+All,16.0,4469
+All,17.0,14042
+All,18.0,23885
+All,19.0,31410
+All,20.0,34761
+All,21.0,35038
+All,22.0,31631
+All,23.0,27870
+All,24.0,23118
+All,25.0,18751
+All,26.0,14776
+All,27.0,11835
+All,28.0,10016
+All,29.0,7799
+All,30.0,6786
+All,31.0,5632
+All,32.0,4773
+All,33.0,3704
+All,34.0,3307
+All,35.0,2547
+All,36.0,2168
+All,37.0,2077
+All,38.0,1720
+All,39.0,1761
+All,40.0,1495
+All,41.0,1255
+All,42.0,1097
+All,43.0,1086
+All,44.0,1157
+All,45.0,1004
+All,46.0,737
+All,47.0,716
+All,48.0,668
+All,49.0,597
+All,50.0,526
+All,51.0,422
+All,52.0,304
+All,53.0,274
+All,54.0,254
+All,55.0,205
+All,56.0,153
+All,57.0,189
+All,58.0,126
+All,59.0,81
+All,60.0,65
+All,61.0,32
+All,62.0,26
+All,63.0,28
+All,64.0,17
+All,65.0,23
+Advertisements,13.0,3
+Advertisements,14.0,5
+Advertisements,15.0,53
+Advertisements,16.0,155
+Advertisements,17.0,413
+Advertisements,18.0,744
+Advertisements,19.0,1287
+Advertisements,20.0,1691
+Advertisements,21.0,2034
+Advertisements,22.0,2102
+Advertisements,23.0,2355
+Advertisements,24.0,2310
+Advertisements,25.0,2223
+Advertisements,26.0,2089
+Advertisements,27.0,1766
+Advertisements,28.0,1674
+Advertisements,29.0,1387
+Advertisements,30.0,1266
+Advertisements,31.0,1083
+Advertisements,32.0,905
+Advertisements,33.0,759
+Advertisements,34.0,741
+Advertisements,35.0,565
+Advertisements,36.0,452
+Advertisements,37.0,427
+Advertisements,38.0,361
+Advertisements,39.0,349
+Advertisements,40.0,313
+Advertisements,41.0,265
+Advertisements,42.0,230
+Advertisements,43.0,239
+Advertisements,44.0,256
+Advertisements,45.0,189
+Advertisements,46.0,156
+Advertisements,47.0,124
+Advertisements,48.0,136
+Advertisements,49.0,119
+Advertisements,50.0,110
+Advertisements,51.0,107
+Advertisements,52.0,80
+Advertisements,53.0,51
+Advertisements,54.0,48
+Advertisements,55.0,40
+Advertisements,56.0,33
+Advertisements,57.0,22
+Advertisements,58.0,20
+Advertisements,59.0,15
+Advertisements,60.0,11
+Advertisements,61.0,7
+Advertisements,62.0,7
+Advertisements,63.0,6
+Advertisements,64.0,7
+Advertisements,65.0,11
+Editorials,12.0,3
+Editorials,13.0,2
+Editorials,14.0,28
+Editorials,15.0,176
+Editorials,16.0,563
+Editorials,17.0,1729
+Editorials,18.0,2973
+Editorials,19.0,4478
+Editorials,20.0,5485
+Editorials,21.0,5645
+Editorials,22.0,5341
+Editorials,23.0,5242
+Editorials,24.0,4931
+Editorials,25.0,4408
+Editorials,26.0,4028
+Editorials,27.0,3413
+Editorials,28.0,3045
+Editorials,29.0,2467
+Editorials,30.0,2104
+Editorials,31.0,1759
+Editorials,32.0,1626
+Editorials,33.0,1257
+Editorials,34.0,1078
+Editorials,35.0,824
+Editorials,36.0,737
+Editorials,37.0,688
+Editorials,38.0,572
+Editorials,39.0,650
+Editorials,40.0,541
+Editorials,41.0,474
+Editorials,42.0,405
+Editorials,43.0,425
+Editorials,44.0,458
+Editorials,45.0,387
+Editorials,46.0,308
+Editorials,47.0,301
+Editorials,48.0,272
+Editorials,49.0,241
+Editorials,50.0,205
+Editorials,51.0,159
+Editorials,52.0,114
+Editorials,53.0,126
+Editorials,54.0,107
+Editorials,55.0,85
+Editorials,56.0,63
+Editorials,57.0,97
+Editorials,58.0,60
+Editorials,59.0,33
+Editorials,60.0,29
+Editorials,61.0,16
+Editorials,62.0,14
+Editorials,63.0,14
+Editorials,64.0,7
+Editorials,65.0,8
+Magazine Covers,12.0,5
+Magazine Covers,13.0,26
+Magazine Covers,14.0,59
+Magazine Covers,15.0,212
+Magazine Covers,16.0,437
+Magazine Covers,17.0,967
+Magazine Covers,18.0,1577
+Magazine Covers,19.0,2166
+Magazine Covers,20.0,2635
+Magazine Covers,21.0,3141
+Magazine Covers,22.0,3059
+Magazine Covers,23.0,3091
+Magazine Covers,24.0,2950
+Magazine Covers,25.0,2758
+Magazine Covers,26.0,2347
+Magazine Covers,27.0,2186
+Magazine Covers,28.0,1961
+Magazine Covers,29.0,1683
+Magazine Covers,30.0,1531
+Magazine Covers,31.0,1265
+Magazine Covers,32.0,1182
+Magazine Covers,33.0,924
+Magazine Covers,34.0,859
+Magazine Covers,35.0,667
+Magazine Covers,36.0,557
+Magazine Covers,37.0,604
+Magazine Covers,38.0,457
+Magazine Covers,39.0,486
+Magazine Covers,40.0,413
+Magazine Covers,41.0,311
+Magazine Covers,42.0,279
+Magazine Covers,43.0,260
+Magazine Covers,44.0,242
+Magazine Covers,45.0,297
+Magazine Covers,46.0,172
+Magazine Covers,47.0,199
+Magazine Covers,48.0,182
+Magazine Covers,49.0,176
+Magazine Covers,50.0,157
+Magazine Covers,51.0,111
+Magazine Covers,52.0,62
+Magazine Covers,53.0,69
+Magazine Covers,54.0,76
+Magazine Covers,55.0,56
+Magazine Covers,56.0,41
+Magazine Covers,57.0,60
+Magazine Covers,58.0,38
+Magazine Covers,59.0,30
+Magazine Covers,60.0,24
+Magazine Covers,61.0,9
+Magazine Covers,62.0,4
+Magazine Covers,63.0,7
+Magazine Covers,64.0,3
+Magazine Covers,65.0,1
+Shows,12.0,13
+Shows,13.0,58
+Shows,14.0,235
+Shows,15.0,736
+Shows,16.0,3314
+Shows,17.0,10933
+Shows,18.0,18591
+Shows,19.0,23479
+Shows,20.0,24950
+Shows,21.0,24218
+Shows,22.0,21129
+Shows,23.0,17182
+Shows,24.0,12927
+Shows,25.0,9362
+Shows,26.0,6312
+Shows,27.0,4470
+Shows,28.0,3336
+Shows,29.0,2262
+Shows,30.0,1885
+Shows,31.0,1525
+Shows,32.0,1060
+Shows,33.0,764
+Shows,34.0,629
+Shows,35.0,491
+Shows,36.0,422
+Shows,37.0,358
+Shows,38.0,330
+Shows,39.0,276
+Shows,40.0,228
+Shows,41.0,205
+Shows,42.0,183
+Shows,43.0,162
+Shows,44.0,201
+Shows,45.0,131
+Shows,46.0,101
+Shows,47.0,92
+Shows,48.0,78
+Shows,49.0,61
+Shows,50.0,54
+Shows,51.0,45
+Shows,52.0,48
+Shows,53.0,28
+Shows,54.0,23
+Shows,55.0,24
+Shows,56.0,16
+Shows,57.0,10
+Shows,58.0,8
+Shows,59.0,3
+Shows,60.0,1
+Shows,62.0,1
+Shows,63.0,1
+Shows,65.0,3

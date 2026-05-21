@@ -1,299 +1,333 @@
-# Representation Diversity Analysis
+# Cultural evolution of beauty standards
 
+[![PNAS](https://img.shields.io/badge/PNAS-10.1073%2Fpnas.2602380123-1a78c2)](https://www.pnas.org/doi/10.1073/pnas.2602380123)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08861-B31B1B.svg)](https://arxiv.org/abs/2512.08861)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.11990046-blue)](https://zenodo.org/records/17638160)
-[![arXiv](https://img.shields.io/badge/arXiv-2405.08746-B31B1B.svg)](https://arxiv.org/pdf/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
-A comprehensive research project analyzing diversity trends in the fashion modeling industry through body measurements, demographics, and hierarchical positioning across multiple fashion contexts (2000-2024).
+Companion repository for the paper published in *PNAS*.
 
-## Overview
+This folder contains the data slices and Python scripts needed to reproduce
+its figures. It is self-contained: running any script from `scripts/` reads
+inputs from `data/` and writes outputs to `figures/`. No data outside this
+folder is required.
 
-This project examines diversity evolution in fashion modeling using data from the Fashion Model Directory (FMD) and Models.com, covering 15,183 models and almost 800 thousands career events spanning over two decades. The analysis integrates multiple methodologies—network analysis, causal inference, intersectional statistics—to understand how body measurement standards, demographic representation, and fashion hierarchy interact to shape industry diversity.
+## Layout
 
-### Key Findings
+```
+data_sharing/
+├── data/             plot-ready CSV / JSON inputs
+├── scripts/          one Python script per figure
+├── figures/          PDF outputs (the scripts also write PNGs when re-run)
+├── requirements.txt  Python dependencies
+└── README.md
+```
 
-- **Hierarchy Heterogeneity**: Diversity evolution varies significantly across fashion hierarchy tiers, with 20% of pairwise tier comparisons meeting conservative significance criteria
-- **Policy Impact**: The 2017 French Fashion Regulations show measurable effects on model body measurements (RFM) for French brands and charter signatories
-- **Intersectional Patterns**: Plus-size representation exhibits complex interactions with race/ethnicity and geographic origin, with temporal trends varying by intersectional group
-
-## Research Questions
-
-1. **Temporal Evolution**: How have body measurement standards (height, bust, waist, hips, RFM) evolved in fashion modeling from 2000-2024?
-2. **Hierarchy Effects**: Does diversity evolution vary across fashion hierarchy tiers (elite vs. mainstream brands)?
-3. **Policy Impact**: What was the causal effect of the 2017 French Fashion Regulations on model body measurements?
-4. **Intersectionality**: How does plus-size representation vary at the intersection of race/ethnicity and geography (Global North vs. South)?
-
-## Key Features
-
-- **Multi-Source Data Integration**: Merges Fashion Model Directory (FMD) and Models.com datasets with automated deduplication
-- **Advanced Gender Detection**: 4-method consensus system (gender-guesser, US Census, WGND, FairFace image analysis)
-- **Fashion Hierarchy Analysis**: Two complementary methods (centrality-based HITS algorithm, violation-based minimum ranking)
-- **Causal Policy Evaluation**: Difference-in-Differences and Event Study designs with robustness checks
-- **Intersectionality Framework**: 4 complete analyses examining plus-size × race × geography interactions
-
-## Installation
-
-### Requirements
-
-- Python 3.8+
-
-
-### Setup
+## Reproducing a figure
 
 ```bash
-# Clone the repository
-git clone [repository-url]
-cd diversity
-
-# Install dependencies
+cd data_sharing
 pip install -r requirements.txt
-
-# Verify installation
-python -c "import pandas, sklearn, matplotlib, networkx; print('Setup complete!')"
+cd scripts
+python <script_name>.py
 ```
 
-## Quick Start
+Outputs land in `../figures/` as PNG and PDF (and, in a few cases, a companion
+CSV / `.tex` table).
 
-### 1. Data Processing
+To regenerate every figure in one go:
 
 ```bash
-# Process data and detect gender
-python src/get_gender.py
-python src/make_master_data.py
+cd data_sharing/scripts
+for f in *.py; do
+  [ "$f" = "utils.py" ] && continue
+  python "$f"
+done
 ```
 
-### 2. Fashion Hierarchy Analysis
+`utils.py` is a helper module (fonts, colours, figure sizes) and is not meant
+to be run on its own. Two scripts (`outliers_comparison.py`,
+`measurement_evolution_plots.py`) regenerate both the female and male variants
+when called once, via an internal `subprocess` re-invocation; you do not need
+to run them twice.
 
-```bash
-python hierarchy/flexible_hierarchy_analysis.py
-```
+## External data sources
 
-### 3. Policy Impact Analysis (2017 French Regulations)
+Two of the shipped inputs come from public datasets:
 
-```bash
-python policy/run_policy_analysis.py
-python policy/event_study.py
-```
+- **NHANES** (National Health and Nutrition Examination Survey, US CDC) —
+  source of `data/nhanes_female_17_40.csv`, `data/nhanes_rfm_{female,male}_filtered.csv`,
+  and `data/pca_nhanes_projection_{female,male}.csv`. Public-use data, distributed
+  by the US Centers for Disease Control and Prevention. The `SEQN` column is the
+  NHANES respondent sequence number (not personally identifying).
+  Homepage: <https://www.cdc.gov/nchs/nhanes/index.htm>;
+  data downloads: <https://wwwn.cdc.gov/nchs/nhanes/Default.aspx>.
 
-### 4. Intersectionality Analysis
-
-```bash
-cd intersectionality
-python run_all_combinations.py --combo plussize_race
-python run_all_combinations.py --combo rfm5_race
-```
-
-## Project Architecture
-
-```
-diversity/
-├── data/                           # Raw and processed datasets
-│   ├── models_measure_*.csv        # Core measurement datasets
-│   └── career_*_merged.csv         # Career events (FMD + Models.com)
-├── src/                            # Core data processing pipeline
-│   ├── get_gender.py               # Multi-method gender detection
-│   ├── make_master_data.py         # Master dataset creation
-│   └── analysis.py                 # Statistical analysis
-├── hierarchy/                      # Fashion hierarchy analysis
-│   ├── flexible_hierarchy_analysis.py
-│   ├── figures/
-│   └── results/
-├── policy/                         # 2017 French policy impact
-│   └── did_paris_2017.py
-├── intersectionality/              # Plus-size × race × geography
-│   ├── run_all_combinations.py
-│   └── results/
-├── dotcom/                         # Models.com data collection
-│   └── run.sh
-└── results/                        # Analysis outputs
-```
-
-## Data Pipeline Workflow
-
-```
-1. RAW DATA COLLECTION
-   ├── FMD data (models_measure.csv, models_shows_all.json, models_nationality.csv)
-   └── Models.com scraping (dotcom/run.sh)
-
-2. GENDER DETECTION
-   └── Multi-method consensus (src/get_gender.py)
-
-3. MASTER DATA CREATION
-   ├── Merge all sources (src/make_master_data.py)
-   ├── Compute body metrics (RFM, WHR, WHtR)
-   └── Add nationality mappings
-
-4. CAREER DATA MERGING
-   └── Parse and merge career events across sources
-
-5. ANALYSIS EXECUTION
-   ├── Hierarchy analysis (hierarchy/)
-   ├── Policy analysis (policy/)
-   └── Intersectionality analysis (intersectionality/)
-```
-
-## Main Analyses
-
-### 1. Gender Detection System
-
-Multi-method consensus system (`src/get_gender.py`) using gender-guesser, US Census data, WGND, and FairFace image analysis. Achieves 96%+ coverage with confidence scoring.
-
-### 2. Fashion Hierarchy Analysis
-
-Examines diversity evolution across fashion hierarchy tiers using bipartite network analysis. Two methods: centrality-based (HITS algorithm) and violation-based ranking (Clauset et al. 2015). Analyzes 1,084 brands with 1.47M observations (2000-2024), using Sen slope estimation for trend analysis.
-
-**Key Finding**: 20% of pairwise tier comparisons show significant differences in diversity evolution patterns.
-
-### 3. Policy Impact Analysis
-
-Evaluates the causal effect of 2017 French Fashion Regulations on model body measurements (RFM) using Difference-in-Differences and Event Study designs. Treatment groups: French brands and LVMH/Kering charter signatories. Event window: -3 to +3 years with robustness checks.
-
-### 4. Intersectionality Analysis
-
-Examines plus-size representation at the intersection of race/ethnicity and geography. Four analyses: Plus-size × Race, Plus-size × Global North, High RFM × Race, High RFM × Global North. Uses logistic regression with bootstrap confidence intervals.
-
-## Key Output Files
-
-### Main Pipeline Outputs
-
-```
-data/
-├── models_measure_with_gender_metrics_quality_enhanced.csv  # Final enhanced dataset
-├── models_gender_complete.csv                                # Gender classifications
-├── gender_consensus_rule_report.csv                          # Gender detection performance
-├── career_shows_merged.csv                                   # Fashion shows (51M)
-├── career_editorials_merged.csv                              # Editorials (23M)
-├── career_advertisements_merged.csv                          # Ads (14M)
-└── career_magazine_covers_merged.csv                         # Magazine covers (14M)
-```
-
-
-### Hierarchy Analysis Outputs
-
-```
-hierarchy/
-├── figures/
-│   ├── tier_diversity_trends_centrality_shows.png          # Main figures
-│   ├── tier_diversity_trends_centrality_shows.csv          # Sen slopes + p-values
-│   └── brand_hierarchy_centrality_shows.csv                # Brand tier classifications
-└── results/
-    └── hierarchy_centrality_shows_2000_2024.json           # Complete hierarchy with metadata
-
-results/final_hierarchy_analysis/
-├── tier_diversity_results.csv                              # 40 tier-measurement slopes
-├── brand_hierarchy_positions.csv                           # 1,084 brand classifications
-├── brand_hierarchy_summary.csv                             # Brand activity summary
-├── final_analysis_report.txt                               # Executive summary
-└── final_hierarchy_analysis.png                            # 6-panel visualization
-
-results/slope_significance_testing/
-├── tier_slope_significance_tests.csv                       # 60 pairwise comparisons
-├── significance_assessment_report.txt                      # Conservative testing report
-└── significance_assessment.png                             # Statistical visualization
-```
-
-### Policy Analysis Outputs
-
-```
-results/policy_analysis/
-├── analysis_dataset.csv                        # Complete policy dataset
-├── did_results.csv                             # DiD estimates
-├── event_study_results.csv                     # -3 to +3 year coefficients
-├── placebo_tests.csv                           # Pre-treatment robustness
-├── control_group_tests.csv                     # Control group comparisons
-└── time_window_tests.csv                       # Alternative windows
-
-results/policy_plots/
-├── event_study_french_brands.png               # Event study visualizations
-├── event_study_charter_signatories.png
-└── treatment_effects_did.png                   # DiD visualizations
-```
-
-### Intersectionality Outputs
-
-```
-intersectionality/results/
-├── plussize_race/
-│   ├── tables/
-│   │   ├── sample_descriptives.csv             # Sample sizes by group-year
-│   │   ├── logistic_regression_results.csv     # Regression coefficients
-│   │   ├── predicted_probabilities.csv         # Model predictions
-│   │   └── odds_ratios_by_year.csv             # Annual odds ratios
-│   ├── figures/
-│   │   ├── plussize_race_3panel.png            # Publication figure (PNG)
-│   │   └── plussize_race_3panel.pdf            # Publication figure (PDF)
-│   └── reports/
-│       ├── model_summary.txt                   # Regression diagnostics
-│       └── convergence_report.txt              # Bootstrap convergence
-├── plussize_globalnorth/
-├── rfm5_race/
-└── rfm5_globalnorth/
-```
-
-## Methodologies
-
-- **Sen Slope Analysis**: Non-parametric trend estimation (hierarchy analysis)
-- **Difference-in-Differences**: Causal policy impact estimation
-- **Event Study**: Dynamic treatment effects over time
-- **Logistic Regression**: Binary outcome modeling with interactions
-- **Bootstrap Resampling**: Uncertainty quantification (N=50-1000)
-- **Bipartite Networks**: Model-brand collaboration networks
-- **HITS Algorithm**: Centrality-based hierarchy ranking
-
-
-## Dataset Coverage
-
-### Models Dataset
-- **Total models**: 15,183
-- **Gender classification**: 96%+ coverage
-- **Race/ethnicity (FairFace)**: 99% coverage
-- **Race/ethnicity (Models.com)**: 30% coverage
-- **Body measurements**: 96-99% per measurement
-- **Nationality**: 85%+ coverage
-
-
-### Analysis Periods
-- **Hierarchy analysis**: 2000-2024 (data collection), 2015 (brand classification year)
-- **Policy analysis**: 2013-2022 (2017 policy intervention)
-- **Intersectionality**: 2011-2024
-- **Temporal trends**: 2000-2024
-
-
-
-## Documentation
-
-- [`intersectionality/README.md`](intersectionality/README.md): Comprehensive intersectionality analysis guide
-- [`INTERSECTIONALITY_RESULTS_SUMMARY.md`](INTERSECTIONALITY_RESULTS_SUMMARY.md): Complete intersectionality results
-- [`PANEL_UPDATE_SUMMARY.md`](PANEL_UPDATE_SUMMARY.md): Panel figure updates
-
-## Citation
-
-If you use this codebase or dataset in your research, please cite:
-
-```bibtex
-@article{diversity2024,
-  title={Fashion Industry Diversity Analysis: Body Measurements, Demographics, and Hierarchy},
-  author={[Authors]},
-  journal={[Journal]},
-  year={2024},https://zenodo.org/records/17638160
-  doi={10.5281/zenodo.17638160},
-  url={https://arxiv.org/abs/}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## Contact
-
-For questions or collaborations, please open an issue on the GitHub repository.
+- **Natural Earth** — source of the country shapefile at
+  `data/naturalearth_110m_countries/` used by `choropleth_models.py`. Public-domain
+  cartographic data.
+  Homepage: <https://www.naturalearthdata.com/>;
+  the bundled file is the 110 m Cultural "Admin 0 – Countries" shapefile:
+  <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/>.
 
 ---
 
-**Note**: This is an active research project. Analysis scripts and methodologies are continuously updated. Please check the git history and documentation for the most recent changes.
+## Plot index
+
+### age_distribution.py
+- **Figure**: `figures/age_distribution.{png,pdf}`
+- **Shows**: age distribution of fashion-event records, overall and per event
+  type (Shows, Editorials, Advertisements, Magazine Covers), with overall
+  P25 / median / P75 vertical lines.
+- **Shipped inputs**: `data/age_distribution_records.csv` (1-year-bin counts
+  per `event_type × age`), `data/age_distribution_meta.csv` (total records
+  and unique-model counts per event).
+- **Original raw inputs**: `data/models_nationality.csv` joined with
+  `data/career_{shows,editorials,advertisements,magazine_covers}_merged.csv`;
+  ages restricted to 12–65 and years > 1950.
+
+### age_evolution.py
+- **Figure**: `figures/age_evolution.{png,pdf}`
+- **Shows**: mean age (with 5th–95th-percentile band) of fashion-event
+  records over 2000–2024, per event type.
+- **Shipped inputs**: `data/age_evolution_by_year.csv`
+  (`event_type, year, mean, q05, q95, n`).
+- **Original raw inputs**: same as `age_distribution.py`.
+
+### body_tails.py
+- **Figure**: `figures/body_tails_female_2000_2024.{png,pdf}` plus a
+  regression-statistics CSV with the same base name.
+- **Shows**: weighted-average evolution of body-measurement tail quantiles
+  (P10…P99) for female models, 2000–2024, with per-quantile linear-regression
+  slope annotations.
+- **Shipped inputs**: `data/body_tails_female_2000_2024.csv` (per
+  `event × measurement × year` quantile values plus the per-cell sample count).
+- **Original raw inputs**:
+  `data/event_models_by_year_{shows,advertisements,magazine_covers,editorials}_female_stats.json`.
+
+### career_evolution.py
+- **Figures**:
+  `figures/career_records_by_category_per_year.{png,pdf}`,
+  `figures/records_by_gender_per_year.{png,pdf}`,
+  `figures/career_records_stacked_area.png`.
+- **Shows**: volume of fashion-event records per year, broken down by
+  category, by gender, and stacked.
+- **Shipped inputs**: `data/career_records_by_year.csv`
+  (`year, category, gender, count`).
+- **Original raw inputs**:
+  `data/career_{shows,editorials,advertisements,magazine_covers,lookbooks,catalogues}_merged.csv`
+  joined with `data/models_measure_with_gender_metrics_quality_enhanced.csv`
+  for gender.
+
+### choropleth_models.py
+- **Figures**: `figures/choropleth_model_count.{png,pdf}`,
+  `figures/choropleth_record_count.{png,pdf}`.
+- **Shows**: world maps of unique models and total records by country of origin.
+- **Shipped inputs**: `data/choropleth_country_counts.csv` plus the bundled
+  NaturalEarth 110 m countries shapefile in `data/naturalearth_110m_countries/`.
+  If the shapefile is removed, the script falls back to downloading it from
+  the public NaturalEarth CDN.
+- **Original raw inputs**: `data/models_nationality.csv` joined with the
+  career-event CSVs; the nationality → ISO mapping was applied upstream.
+
+### entropy_evolution.py
+- **Figure**: `figures/entropy_evolution_2000_2024_female.{png,pdf}`
+- **Shows**: year-by-year entropy of categorical (hair, eyes, world region,
+  ethnicity) and numerical (height, bust, waist, hips, RFM) attributes for
+  female models, per event.
+- **Shipped inputs**: `data/entropy_evolution_female.csv`
+  (`year, event, variable, entropy`).
+- **Original raw inputs**: `data/event_models_by_year_*_female_stats.json`,
+  `data/model_info_from_profilepic.csv`, `data/career_*_merged.csv`,
+  `data/models_shows_all.json`.
+
+### event_study_panel.py
+- **Figure**: `figures/event_study_panel.{png,pdf}`
+- **Shows**: event-study coefficients (mean RFM, P10, P25) around the 2006
+  Milan charter and the 2017 Paris regulation.
+- **Shipped inputs**: `data/event_study_milan_2006.csv`,
+  `data/event_study_paris_2017.csv`.
+- **Original raw inputs**:
+  `policy/figures/did_{milan_2006,paris_2017}_event_study_results.csv`.
+
+### forest_plot_outliers_trends.py
+- **Figures**:
+  `figures/forest_plot_{iqr,skewness,kurtosis,outliers_combined}_trends_2000_2024_{female,male}_eu.{png,pdf}`
+- **Shows**: Mann-Kendall / Sen-slope trend estimates of IQR, skewness, and
+  kurtosis for body measurements over 2000–2024 (female and male).
+- **Shipped inputs**: `data/forest_outliers_trends_{female,male}_eu.csv`.
+- **Original raw inputs**:
+  `plots/output/outliers_trend_analysis_2000_2024_{female,male}_eu.csv`.
+
+### forest_plot_std_trends.py
+- **Figures**: `figures/forest_plot_std_trends_{female,male}_eu.{png,pdf}`
+- **Shows**: Mann-Kendall / Sen-slope trend estimates of measurement standard
+  deviation per event type and measurement.
+- **Shipped inputs**: `data/forest_std_trends_{female,male}_eu.csv`.
+- **Original raw inputs**:
+  `plots/output/std_trend_analysis_2000_2024_female_eu.csv` and
+  `std_trend_analysis_2010_2024_male_eu.csv`.
+
+### heterogeneous_policy.py
+- **Figure**: `figures/heterogeneous_policy_analysis.{png,pdf}`
+- **Shows**: heterogeneous policy effects across hierarchy tiers (top and
+  bottom 10 % RFM rates) and across the Milan / Paris cities (mean and
+  25th-percentile DiD).
+- **Shipped inputs**: `data/heterogeneous_policy_tiers.csv`,
+  `data/city_charter_timeseries.csv` (aggregated to 4 groups:
+  `Milan`, `Paris`, `MilanControl`, `ParisControl`, where each control is the
+  `n_records`-weighted aggregate of New York, London, "Other", and the opposite
+  policy city, with pooled-variance SE).
+- **Original raw inputs**:
+  `hierarchy/figures/rfm_{bottom10pct,top10pct}_stats_centrality_*.csv`,
+  per-city RFM time series from the upstream policy pipeline.
+
+### hierarchy_table.py
+- **Outputs** (table, no figure image): `figures/hierarchy_top30.csv`,
+  `figures/hierarchy_top30.tex`.
+- **Shows**: top-30 brands ranked by network prestige with their tier, record
+  count, model count, % Elite overlap, and model-prestige summary statistics.
+- **Shipped inputs**: `data/hierarchy_top30.csv`.
+- **Original raw inputs**:
+  `hierarchy/figures/{brand_prestige,brand_hierarchy,model_prestige}_centrality_shows_advertisements_editorials_magazine_covers.csv`
+  joined with `data/career_*_merged.csv`.
+
+### intersectionality_panel.py
+- **Figure**: `figures/intersectionality_panel.{png,pdf}`
+- **Shows**: a 2 × 2 panel for the race × plus-size analysis on 2010–2024.
+  (a) Yearly share of non-white models with 95 % bootstrap CI.
+  (b) Yearly plus-size proportion (`dress_us_final >= 12`) for white,
+  non-white, and all models, with 95 % bootstrap CIs.
+  (c) Yearly odds ratio of being plus-size (non-white vs white) with 95 % CI.
+  (d) Yearly absolute difference in plus-size rate (non-white − white,
+  percentage points).
+- **Shipped inputs**:
+  `data/intersectionality_panel_proportions_2010_2024.csv`
+  (long-format yearly proportions with bootstrap CIs for the four series
+  plotted in panels a and b: `nonwhite_share`, `plussize_white`,
+  `plussize_nonwhite`, `plussize_all`);
+  `data/intersectionality_panel_yearly_2010_2024.csv`
+  (yearly two-sample proportion test for white vs non-white plus-size rates,
+  with risk ratio, odds ratio, CIs, z-statistic and p-value — drives
+  panels c and d).
+- **Original raw inputs**:
+  `intersectionality/data/work_master.csv` (work-level table with
+  `race_consolidated` and `plus_sized`), aggregated upstream by
+  `intersectionality/create_panel_figure.py`;
+  `intersectionality/results/tables/proportion_test_yearly_2010_2024.csv`.
+
+### measurement_evolution_plots.py
+- **Figures**:
+  `figures/measurements_evolution_with_std_2000_female_eu.{png,pdf}`,
+  `figures/measurements_evolution_with_std_2010_male_eu.{png,pdf}`.
+  Running the script once produces both gender variants.
+- **Shows**: mean (with ±SEM band) and standard-deviation (with chi-square
+  95 % CI band) evolution of body measurements (height, bust, waist, hips,
+  RFM) per event type, plus stacked composition bars for hair colour, eye
+  colour, and world region.
+- **Shipped inputs**:
+  `data/measurement_evolution_{female,male}_eu_numeric.csv` (mean / std / n),
+  `data/measurement_evolution_{female,male}_eu_categorical.csv` (hair / eyes /
+  world_region proportions).
+- **Original raw inputs**: `data/event_models_by_year_*_{female,male}_stats.json`.
+
+### network_analysis_panel.py
+- **Figure**: `figures/network_analysis_comprehensive.{png,pdf}`
+- **Shows**: multi-panel summary of the brand–model bipartite network: 2-D
+  t-SNE embeddings, models coloured by RFM (per gender), top brands per tier
+  table, prestige vs Instagram followers / appearance count / record count
+  scatters, and model prestige vs RFM.
+- **Shipped inputs**: `data/network_node_coords.csv`,
+  `data/network_model_prestige.csv`, `data/network_brand_prestige.csv`,
+  `data/network_brand_tier_top10.json`.
+- **Original raw inputs**: `hierarchy/results/network_embedding_tsne.json`,
+  `hierarchy/figures/{model,brand}_prestige_centrality_*.csv`,
+  `hierarchy/results/hierarchy_centrality_*_2000_2024.json`,
+  `data/models_measure_with_gender_metrics_quality_enhanced.csv`.
+
+### outliers_comparison.py
+- **Figure**: `figures/iqr_skew_kurtosis_female_eu.{png,pdf}`.
+  Running this script also re-invokes itself to produce the male variant
+  via `outliers_comparison_male.py` (which simply sets `OC_GENDER=male` and
+  calls this script).
+- **Shows**: multi-panel comparison for female models, 2000–2024. Top: 3 × 4
+  grid of IQR / skewness / kurtosis trends per event for Bust / Waist / Hips /
+  RFM. Bottom-left: NHANES vs models RFM histogram (density) and a
+  year-by-year delta-RFM scatter with linear trend. Bottom-right:
+  model–NHANES PCA scatter with RFM iso-lines reconstructed from the shipped
+  scaler statistics, alongside four PCA loading bar plots.
+- **Shipped inputs**: `data/outliers_female_eu_moments.csv`,
+  `data/measurement_evolution_female_eu_numeric.csv` (per-year model RFM
+  mean), `data/nhanes_rfm_female_filtered.csv`, `data/models_rfm_female.csv`,
+  `data/pca_female_coords_sample.csv`, `data/pca_nhanes_projection_female.csv`,
+  `data/pca_female_loadings.json`.
+- **Original raw inputs**: `data/event_models_by_year_*_female_stats.json`,
+  `data/nhanes/nhanes_filtered_rfm_female.csv`,
+  `data/models_measure_with_gender_metrics_quality_enhanced.csv`,
+  `data/pca_results/career_pca_female_2000-2025_*`,
+  `data/pca_results/nhanes_pca_projection_female.csv`.
+
+### outliers_comparison_male.py
+- **Figure**: `figures/iqr_skew_kurtosis_male_eu.{png,pdf}`
+- **Shows**: male counterpart of `outliers_comparison.py`, covering 2010–2024.
+- **Shipped inputs**: `data/outliers_male_eu_moments.csv`,
+  `data/measurement_evolution_male_eu_numeric.csv`,
+  `data/nhanes_rfm_male_filtered.csv`, `data/models_rfm_male.csv`,
+  `data/pca_male_coords_sample.csv`, `data/pca_nhanes_projection_male.csv`,
+  `data/pca_male_loadings.json`.
+- **Original raw inputs**: male equivalents of the female files above.
+
+### pca_temporal_plot.py
+- **Figure**: `figures/pca_temporal_evolution_female.{png,pdf}`
+- **Shows**: yearly trajectory of female-model body composition projected on
+  the first PCA components, with RFM contour lines, explained-variance and
+  loading annotations, and per-career-event averages.
+- **Shipped inputs**: `data/pca_female_yearly_means.csv`,
+  `data/pca_female_career_event_means.csv`, `data/pca_female_loadings.json`
+  (explained-variance ratios, loadings, and scaler mean / scale to
+  reconstruct the RFM contours without shipping the original pickle).
+- **Original raw inputs**:
+  `data/pca_results/career_pca_female_2000-2025_{coordinates.csv,summary.json,models.pkl}`.
+
+### quantile_policy_analysis.py
+- **Figure**: `figures/quantile_policy_analysis.{png,pdf}`
+- **Shows**: RFM-quantile evolution (Q10 / Q25 / Q75 / Q90) for Milan vs the
+  Control group around 2006, and Paris vs Control around 2017.
+- **Shipped inputs**: `data/city_charter_timeseries.csv` (same aggregated
+  4-group file used by `heterogeneous_policy.py`; the Milan panels use
+  `MilanControl`, the Paris panels use `ParisControl`).
+- **Original raw inputs**: per-city RFM time series from the upstream policy
+  pipeline.
+
+### rfm_by_age_group.py
+- **Figures**: `figures/rfm_by_age_group.{png,pdf}`,
+  `figures/rfm_by_age_group_matched.{png,pdf}`
+- **Shows**: density of RFM for fashion models vs NHANES women aged 17–40,
+  in 17–20, 21–25, 26–30, 31–40 age bins; raw and age-matched
+  (NHANES sub-sampled to match the model age distribution).
+- **Shipped inputs**:
+  `data/rfm_by_age_group_models_hist.csv` — per-integer-age × per-RFM-bin
+  count table for models (`age_int, rfm_bin_left, rfm_bin_right, count`,
+  RFM bin edges = `np.linspace(10, 55, 50)`). The age-matching resampler
+  derives the model age distribution from this table by summing counts per
+  `age_int`;
+  `data/rfm_by_age_group_models_medians.csv` — exact per-age-group median
+  RFM and `n` for the dashed median lines in the bottom panels;
+  `data/nhanes_female_17_40.csv` — NHANES female non-pregnant 17–40 with
+  `Age, RFM, age_int` (NHANES is public).
+- **Original raw inputs**: `data/nhanes/nhanes.csv`,
+  `data/models_measure_with_gender_metrics_quality_enhanced.csv`,
+  `data/models_nationality.csv`, `data/career_*_merged.csv`.
+
+### rfm_tiers_sensitivity.py
+- **Figure**: `figures/rfm_tiers_sensitivity.{png,pdf}`
+- **Shows**: sensitivity of top / bottom-10 % RFM rates across hierarchy-tier
+  counts (6, 8, 10) with Wilson 95 % CI bars.
+- **Shipped inputs**: `data/rfm_tiers_sensitivity.csv`
+  (`n_tiers, tier, panel, rate, ci_lower, ci_upper, n`).
+- **Original raw inputs**:
+  `hierarchy/figures/brand_prestige_centrality_*.csv`,
+  `data/career_*_merged.csv`,
+  `data/models_measure_with_gender_metrics_quality_enhanced.csv`.
+
+---
