@@ -5,7 +5,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.11990046-blue)](https://zenodo.org/records/17638160)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Companion repository for the paper published in *PNAS*.
 
 This folder contains the data slices and Python scripts needed to reproduce
 its figures. It is self-contained: running any script from `scripts/` reads
